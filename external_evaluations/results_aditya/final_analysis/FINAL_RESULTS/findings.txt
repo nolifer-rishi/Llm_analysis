@@ -1,0 +1,154 @@
+EduBench-Local Final Experimental Findings
+==========================================
+
+Models evaluated:
+- gemma2:2b: 750 questions
+- openai/gpt-oss-120b: 350 questions
+- qwen2.5:1.5b: 750 questions
+
+1. OVERALL METRIC RESULTS
+-------------------------
+
+Model: gemma2:2b
+Questions: 750
+Average ROUGE-L: 0.290332
+Average BERTScore-F1: 0.876073
+Average Judge Overall: 4.782377
+Average Correctness: 4.632844
+Average Relevance: 4.963952
+Average Completeness: 4.825100
+Average Groundedness: 4.826435
+
+Model: openai/gpt-oss-120b
+Questions: 350
+Average ROUGE-L: 0.388481
+Average BERTScore-F1: 0.872342
+Average Judge Overall: 3.618911
+Average Correctness: 3.647564
+Average Relevance: 4.131805
+Average Completeness: 3.607450
+Average Groundedness: 3.667622
+
+Model: qwen2.5:1.5b
+Questions: 750
+Average ROUGE-L: 0.164362
+Average BERTScore-F1: 0.859775
+Average Judge Overall: 4.817333
+Average Correctness: 4.664000
+Average Relevance: 4.968000
+Average Completeness: 4.877333
+Average Groundedness: 4.850667
+
+2. METRIC-SPECIFIC DESCRIPTIVE COMPARISONS
+------------------------------------------
+ROUGE-L: highest observed value = 0.388481 (openai/gpt-oss-120b).
+BERTScore-F1: highest observed value = 0.876073 (gemma2:2b).
+LLM Judge Overall: highest observed value = 4.817333 (qwen2.5:1.5b).
+
+These are descriptive metric comparisons and should not be interpreted as a single overall model verdict.
+
+3. SUBJECT-LEVEL RESULTS
+------------------------
+
+Subject: Reading Comprehension
+- gemma2:2b: Judge Overall = 4.786667
+- openai/gpt-oss-120b: Judge Overall = 2.673333
+- qwen2.5:1.5b: Judge Overall = 4.866667
+
+Subject: Science
+- gemma2:2b: Judge Overall = 4.779510
+- openai/gpt-oss-120b: Judge Overall = 4.331658
+- qwen2.5:1.5b: Judge Overall = 4.784444
+
+4. PAIRWISE STATISTICAL TESTS
+-----------------------------
+
+qwen2.5:1.5b vs gemma2:2b
+Metric: rouge_l
+Matched pairs: 749
+Raw p-value: 0.00000000
+Holm-adjusted p-value: 0.00000000
+Significant after Holm correction: True
+
+qwen2.5:1.5b vs gemma2:2b
+Metric: bertscore_f1
+Matched pairs: 749
+Raw p-value: 0.00000000
+Holm-adjusted p-value: 0.00000000
+Significant after Holm correction: True
+
+qwen2.5:1.5b vs gemma2:2b
+Metric: judge_overall
+Matched pairs: 749
+Raw p-value: 0.13305340
+Holm-adjusted p-value: 0.13305340
+Significant after Holm correction: False
+
+qwen2.5:1.5b vs openai/gpt-oss-120b
+Metric: rouge_l
+Matched pairs: 349
+Raw p-value: 0.00000000
+Holm-adjusted p-value: 0.00000000
+Significant after Holm correction: True
+
+qwen2.5:1.5b vs openai/gpt-oss-120b
+Metric: bertscore_f1
+Matched pairs: 349
+Raw p-value: 0.00004152
+Holm-adjusted p-value: 0.00016606
+Significant after Holm correction: True
+
+qwen2.5:1.5b vs openai/gpt-oss-120b
+Metric: judge_overall
+Matched pairs: 349
+Raw p-value: 0.00000000
+Holm-adjusted p-value: 0.00000000
+Significant after Holm correction: True
+
+gemma2:2b vs openai/gpt-oss-120b
+Metric: rouge_l
+Matched pairs: 349
+Raw p-value: 0.00023170
+Holm-adjusted p-value: 0.00069509
+Significant after Holm correction: True
+
+gemma2:2b vs openai/gpt-oss-120b
+Metric: bertscore_f1
+Matched pairs: 349
+Raw p-value: 0.01212729
+Holm-adjusted p-value: 0.02425459
+Significant after Holm correction: True
+
+gemma2:2b vs openai/gpt-oss-120b
+Metric: judge_overall
+Matched pairs: 349
+Raw p-value: 0.00000000
+Holm-adjusted p-value: 0.00000000
+Significant after Holm correction: True
+
+5. ERROR ANALYSIS
+-----------------
+
+Model: gemma2:2b
+- Hallucination: 2 cases (10.00%)
+- Incomplete: 2 cases (10.00%)
+- Incorrect factual: 8 cases (40.00%)
+- No major error: 1 cases (5.00%)
+- Off-topic: 7 cases (35.00%)
+
+Model: openai/gpt-oss-120b
+- Off-topic: 20 cases (100.00%)
+
+Model: qwen2.5:1.5b
+- Incomplete: 2 cases (10.00%)
+- Incorrect factual: 11 cases (55.00%)
+- Off-topic: 7 cases (35.00%)
+
+6. SAMPLE SIZE AND INTERPRETATION NOTE
+--------------------------------------
+The three models do not have identical numbers of evaluated questions.
+- gemma2:2b: 750
+- openai/gpt-oss-120b: 350
+- qwen2.5:1.5b: 750
+
+Pairwise Wilcoxon tests are based on question IDs shared by the two models being compared.

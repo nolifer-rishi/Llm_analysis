@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduBench-Local | Small Language Model Evaluation</title>
+    <meta name="description" content="A comprehensive multi-metric evaluation of 9 Small Language Models for educational question answering across 5 distinct datasets.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css?v=5">
+</head>
+<body>
+    <!-- Background Elements -->
+    <div class="bg-glow blob-1"></div>
+    <div class="bg-glow blob-2"></div>
+    
+    <nav>
+        <div class="container nav-content">
+            <div class="logo">EduBench<span>Local</span></div>
+            <div class="nav-links">
+                <a href="#abstract">Abstract</a>
+                <a href="#methodology">Methodology</a>
+                <a href="#leaderboard">Leaderboard</a>
+                <a href="#visualizations">Visualizations</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="badge">Research Showcase</div>
+                <h1 class="animate-up">Evaluating Small Language Models as <span class="gradient-text">Educational Tutors</span></h1>
+                <p class="animate-up delay-1">A fully local, multi-metric pipeline analyzing the performance of 9 small language models on complex reasoning and factual recall tasks.</p>
+                <div class="hero-stats animate-up delay-2">
+                    <div class="stat-box">
+                        <span class="stat-value">5,400+</span>
+                        <span class="stat-label">Questions Evaluated</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-value">5</span>
+                        <span class="stat-label">Diverse Datasets</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-value">9</span>
+                        <span class="stat-label">Local Models Evaluated</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="abstract" class="section">
+            <div class="container">
+                <div class="card glass">
+                    <h2>Abstract</h2>
+                    <p>The <strong>EduBench-Local</strong> project aims to evaluate the viability of deploying small, open-weight Language Models (such as Gemma, Llama 3, Qwen, and DeepSeek) on edge hardware (AMD Radeon GPUs via Vulkan) for educational tutoring. By avoiding cloud APIs, we ensure privacy and zero recurring inference costs.</p>
+                    <p>This study evaluates over 5,400 queries across five standardized educational datasets spanning grade-school science to reading comprehension. To capture a holistic view of performance, we employ a multi-metric approach: <strong>ROUGE-L</strong> (lexical overlap), <strong>BERTScore</strong> (semantic similarity), and a novel <strong>LLM-as-a-Judge</strong> prompting paradigm.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="methodology" class="section">
+            <div class="container">
+                <h2 class="section-title">Methodology</h2>
+                <div class="grid-3">
+                    <div class="card glass methodology-card hover-lift">
+                        <div class="icon">📚</div>
+                        <h3>Datasets</h3>
+                        <p>We sampled 100 questions from 6 datasets to cover various domains:</p>
+                        <ul>
+                            <li><strong>ARC</strong> (Grade Science)</li>
+                            <li><strong>OpenBookQA</strong> (Science Reasoning)</li>
+                            <li><strong>SciQ</strong> (Factual Science)</li>
+                            <li><strong>RACE</strong> (Reading Comprehension)</li>
+                            <li><strong>SQuAD</strong> (Extractive QA)</li>
+                        </ul>
+                    </div>
+                    <div class="card glass methodology-card hover-lift">
+                        <div class="icon">⚙️</div>
+                        <h3>Inference</h3>
+                        <p>All inference was executed entirely locally:</p>
+                        <ul>
+                            <li><strong>Models:</strong> 9 distinct Local LLMs (1.5B to 120B params)</li>
+                            <li><strong>Engine:</strong> Ollama with Vulkan Backend</li>
+                            <li><strong>Hardware:</strong> AMD Radeon RX 6500M (4GB VRAM)</li>
+                            <li><strong>Avg Latency:</strong> Variable per model architecture</li>
+                        </ul>
+                    </div>
+                    <div class="card glass methodology-card hover-lift">
+                        <div class="icon">📊</div>
+                        <h3>Metrics</h3>
+                        <p>A multi-faceted evaluation pipeline:</p>
+                        <ul>
+                            <li><strong>ROUGE-L:</strong> Exact text sequence overlap.</li>
+                            <li><strong>BERTScore:</strong> Deep semantic embedding similarity (F1).</li>
+                            <li><strong>LLM-Judge:</strong> Mistral 7B evaluating its own answers on a 1-5 scale for factual correctness.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="leaderboard" class="section">
+    <div class="container">
+        <h2 class="section-title" style="margin-bottom: 2rem;">Performance Leaderboard</h2>
+
+        <div class="card glass table-wrapper" style="margin-bottom: 4rem;">
+            <h3 style="margin-bottom: 1rem; color: var(--accent-primary); font-size: 1.5rem; text-align: center;">Overall Models Comparison</h3>
+            <table id="overall-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Model</th>
+                                <th>ROUGE-L</th>
+                                <th>BERTScore</th>
+                                <th>Judge (1-5)</th>
+                                <th>Combined Score</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="rank">1</td>
+                                <td><strong>Gemma 2 2B</strong></td>
+                                <td>0.290</td>
+                                <td>0.876</td>
+                                <td>4.78</td>
+                                <td class="highlight">70.7</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">2</td>
+                                <td><strong>Qwen 2.5 1.5B</strong></td>
+                                <td>0.164</td>
+                                <td>0.860</td>
+                                <td>4.82</td>
+                                <td class="highlight">66.3</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">3</td>
+                                <td><strong>GPT-OSS 120B</strong></td>
+                                <td>0.388</td>
+                                <td>0.872</td>
+                                <td>3.62</td>
+                                <td class="highlight">66.1</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">4</td>
+                                <td><strong>Mistral 7B</strong></td>
+                                <td>0.131</td>
+                                <td>0.852</td>
+                                <td>4.52</td>
+                                <td class="highlight">62.9</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">5</td>
+                                <td><strong>Qwen 2.5 3B</strong></td>
+                                <td>0.137</td>
+                                <td>0.863</td>
+                                <td>4.11</td>
+                                <td class="highlight">60.7</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">6</td>
+                                <td><strong>DeepSeek-R1 1.5B</strong></td>
+                                <td>0.100</td>
+                                <td>0.850</td>
+                                <td>3.99</td>
+                                <td class="highlight">58.3</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">7</td>
+                                <td><strong>Llama 3.2 3B</strong></td>
+                                <td>0.084</td>
+                                <td>0.840</td>
+                                <td>4.09</td>
+                                <td class="highlight">58.1</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">8</td>
+                                <td><strong>Orca Mini 3B</strong></td>
+                                <td>0.089</td>
+                                <td>0.844</td>
+                                <td>2.30</td>
+                                <td class="highlight">46.4</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">9</td>
+                                <td><strong>Gemini 3.6 Flash</strong></td>
+                                <td>0.533</td>
+                                <td>N/A</td>
+                                <td>N/A</td>
+                                <td class="highlight">N/A</td>
+                            </tr>
+                        </tbody>
+                    </table>
+        </div>
+
+        <h3 class="section-title" style="font-size: 2.2rem; margin-bottom: 2rem;">Individual Model Breakdowns</h3>
+        <div class="tables-grid" style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">Mistral 7B</h4>
+                <table id="mistral-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Dataset</th>
+                                <th>ROUGE-L <span class="sort-icon"></span></th>
+                                <th>BERTScore <span class="sort-icon"></span></th>
+                                <th>Judge (1-5) <span class="sort-icon"></span></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="rank">1</td>
+                                <td><strong>ARC</strong></td>
+                                <td>0.152</td>
+                                <td>0.864</td>
+                                <td>4.48</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">2</td>
+                                <td><strong>SQuAD</strong></td>
+                                <td>0.138</td>
+                                <td>0.851</td>
+                                <td>4.69</td>
+                            </tr>
+
+                            <tr>
+                                <td class="rank">4</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.165</td>
+                                <td>0.866</td>
+                                <td>4.07</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">5</td>
+                                <td><strong>OpenBookQA</strong></td>
+                                <td>0.129</td>
+                                <td>0.848</td>
+                                <td>4.42</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">6</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.080</td>
+                                <td>0.826</td>
+                                <td>4.74</td>
+                            </tr>
+                        </tbody>
+                    </table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">Orca Mini 3B</h4>
+                <table id="orca-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Dataset</th>
+                                <th>ROUGE-L <span class="sort-icon"></span></th>
+                                <th>BERTScore <span class="sort-icon"></span></th>
+                                <th>Judge (1-5) <span class="sort-icon"></span></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="rank">1</td>
+                                <td><strong>ARC</strong></td>
+                                <td>0.103</td>
+                                <td>0.855</td>
+                                <td>2.67</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">2</td>
+                                <td><strong>SQuAD</strong></td>
+                                <td>0.108</td>
+                                <td>0.840</td>
+                                <td>2.43</td>
+                            </tr>
+
+                            <tr>
+                                <td class="rank">4</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.088</td>
+                                <td>0.858</td>
+                                <td>2.33</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">5</td>
+                                <td><strong>OpenBookQA</strong></td>
+                                <td>0.078</td>
+                                <td>0.840</td>
+                                <td>2.25</td>
+                            </tr>
+                            <tr>
+                                <td class="rank">6</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.075</td>
+                                <td>0.824</td>
+                                <td>1.71</td>
+                            </tr>
+                        </tbody>
+                    </table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">Gemma 2 2B</h4>
+                <table id="gemma-table">
+<thead><tr><th>Rank</th><th>Dataset</th><th>ROUGE-L</th><th>BERTScore</th><th>Judge (1-5)</th></tr></thead>
+<tbody>
+<tr>
+                                <td class="rank">1</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.510</td>
+                                <td>0.892</td>
+                                <td>4.97</td>
+                            </tr>
+<tr>
+                                <td class="rank">2</td>
+                                <td><strong>SQuAD</strong></td>
+                                <td>0.483</td>
+                                <td>0.902</td>
+                                <td>4.95</td>
+                            </tr>
+<tr>
+                                <td class="rank">3</td>
+                                <td><strong>ARC</strong></td>
+                                <td>0.226</td>
+                                <td>0.865</td>
+                                <td>4.79</td>
+                            </tr>
+<tr>
+                                <td class="rank">4</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.178</td>
+                                <td>0.876</td>
+                                <td>4.62</td>
+                            </tr>
+<tr>
+                                <td class="rank">5</td>
+                                <td><strong>OpenBookQA</strong></td>
+                                <td>0.054</td>
+                                <td>0.844</td>
+                                <td>4.58</td>
+                            </tr>
+</tbody></table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">GPT-OSS 120B</h4>
+                <table id="gpt-table">
+<thead><tr><th>Rank</th><th>Dataset</th><th>ROUGE-L</th><th>BERTScore</th><th>Judge (1-5)</th></tr></thead>
+<tbody>
+<tr>
+                                <td class="rank">1</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.587</td>
+                                <td>0.893</td>
+                                <td>4.57</td>
+                            </tr>
+<tr>
+                                <td class="rank">2</td>
+                                <td><strong>ARC</strong></td>
+                                <td>0.251</td>
+                                <td>0.876</td>
+                                <td>3.62</td>
+                            </tr>
+<tr>
+                                <td class="rank">3</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.236</td>
+                                <td>0.878</td>
+                                <td>2.67</td>
+                            </tr>
+</tbody></table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">Qwen 2.5 1.5B</h4>
+                <table id="qwen1b-table">
+<thead><tr><th>Rank</th><th>Dataset</th><th>ROUGE-L</th><th>BERTScore</th><th>Judge (1-5)</th></tr></thead>
+<tbody>
+<tr>
+                                <td class="rank">1</td>
+                                <td><strong>SQuAD</strong></td>
+                                <td>0.295</td>
+                                <td>0.879</td>
+                                <td>4.95</td>
+                            </tr>
+<tr>
+                                <td class="rank">2</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.223</td>
+                                <td>0.854</td>
+                                <td>4.97</td>
+                            </tr>
+<tr>
+                                <td class="rank">3</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.147</td>
+                                <td>0.872</td>
+                                <td>4.79</td>
+                            </tr>
+<tr>
+                                <td class="rank">4</td>
+                                <td><strong>ARC</strong></td>
+                                <td>0.112</td>
+                                <td>0.852</td>
+                                <td>4.79</td>
+                            </tr>
+<tr>
+                                <td class="rank">5</td>
+                                <td><strong>OpenBookQA</strong></td>
+                                <td>0.044</td>
+                                <td>0.842</td>
+                                <td>4.59</td>
+                            </tr>
+</tbody></table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">DeepSeek-R1 1.5B</h4>
+                <table id="deepseek-table">
+<thead><tr><th>Rank</th><th>Dataset</th><th>ROUGE-L</th><th>BERTScore</th><th>Judge (1-5)</th></tr></thead>
+<tbody>
+<tr>
+                                <td class="rank">1</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.104</td>
+                                <td>0.835</td>
+                                <td>4.11</td>
+                            </tr>
+<tr>
+                                <td class="rank">2</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.095</td>
+                                <td>0.864</td>
+                                <td>3.86</td>
+                            </tr>
+</tbody></table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">Llama 3.2 3B</h4>
+                <table id="llama-table">
+<thead><tr><th>Rank</th><th>Dataset</th><th>ROUGE-L</th><th>BERTScore</th><th>Judge (1-5)</th></tr></thead>
+<tbody>
+<tr>
+                                <td class="rank">1</td>
+                                <td><strong>SQuAD</strong></td>
+                                <td>0.150</td>
+                                <td>0.854</td>
+                                <td>4.07</td>
+                            </tr>
+<tr>
+                                <td class="rank">2</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.123</td>
+                                <td>0.864</td>
+                                <td>3.92</td>
+                            </tr>
+<tr>
+                                <td class="rank">3</td>
+                                <td><strong>ARC</strong></td>
+                                <td>0.064</td>
+                                <td>0.841</td>
+                                <td>4.03</td>
+                            </tr>
+<tr>
+                                <td class="rank">4</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.052</td>
+                                <td>0.819</td>
+                                <td>4.38</td>
+                            </tr>
+<tr>
+                                <td class="rank">5</td>
+                                <td><strong>OpenBookQA</strong></td>
+                                <td>0.034</td>
+                                <td>0.821</td>
+                                <td>4.03</td>
+                            </tr>
+</tbody></table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">Qwen 2.5 3B</h4>
+                <table id="qwen3b-table">
+<thead><tr><th>Rank</th><th>Dataset</th><th>ROUGE-L</th><th>BERTScore</th><th>Judge (1-5)</th></tr></thead>
+<tbody>
+<tr>
+                                <td class="rank">1</td>
+                                <td><strong>SQuAD</strong></td>
+                                <td>0.295</td>
+                                <td>0.873</td>
+                                <td>4.54</td>
+                            </tr>
+<tr>
+                                <td class="rank">2</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>0.227</td>
+                                <td>0.859</td>
+                                <td>4.79</td>
+                            </tr>
+<tr>
+                                <td class="rank">3</td>
+                                <td><strong>ARC</strong></td>
+                                <td>0.106</td>
+                                <td>0.857</td>
+                                <td>4.06</td>
+                            </tr>
+<tr>
+                                <td class="rank">4</td>
+                                <td><strong>OpenBookQA</strong></td>
+                                <td>0.057</td>
+                                <td>0.842</td>
+                                <td>3.43</td>
+                            </tr>
+<tr>
+                                <td class="rank">5</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.000</td>
+                                <td>0.881</td>
+                                <td>3.75</td>
+                            </tr>
+</tbody></table>
+            </div>
+            <div class="card glass table-wrapper" style="padding: 1.5rem;">
+                <h4 style="margin-bottom: 1rem; text-align: center; font-size: 1.2rem; color: var(--text-main);">Gemini 3.6 Flash</h4>
+                <table id="gemini-table">
+<thead><tr><th>Rank</th><th>Dataset</th><th>ROUGE-L</th><th>BERTScore</th><th>Judge (1-5)</th></tr></thead>
+<tbody>
+<tr>
+                                <td class="rank">1</td>
+                                <td><strong>ARC</strong></td>
+                                <td>1.000</td>
+                                <td>N/A</td>
+                                <td>N/A</td>
+                            </tr>
+<tr>
+                                <td class="rank">2</td>
+                                <td><strong>SciQ</strong></td>
+                                <td>1.000</td>
+                                <td>N/A</td>
+                                <td>N/A</td>
+                            </tr>
+<tr>
+                                <td class="rank">3</td>
+                                <td><strong>SQuAD v1.1</strong></td>
+                                <td>0.667</td>
+                                <td>N/A</td>
+                                <td>N/A</td>
+                            </tr>
+<tr>
+                                <td class="rank">4</td>
+                                <td><strong>OpenBookQA</strong></td>
+                                <td>0.000</td>
+                                <td>N/A</td>
+                                <td>N/A</td>
+                            </tr>
+<tr>
+                                <td class="rank">5</td>
+                                <td><strong>RACE</strong></td>
+                                <td>0.000</td>
+                                <td>N/A</td>
+                                <td>N/A</td>
+                            </tr>
+</tbody></table>
+            </div>
+        </div>
+    </div>
+</section>
+
+        <section id="visualizations" class="section">
+            <div class="container">
+                <div class="section-header" style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 2rem;">
+                    <div>
+                        <h2 class="section-title" style="margin-bottom: 0.5rem;">Data Visualizations</h2>
+                        <p class="section-subtitle" style="margin-bottom: 0;">Click on any chart to enlarge.</p>
+                    </div>
+                    <div class="model-selector">
+                        <label for="viz-model-select">View:</label>
+                        <select id="viz-model-select" onchange="updateVisualizations()">
+                            <option value="mistral">Mistral 7B Visualizations</option>
+                            <option value="orca">Orca Mini 3B Visualizations</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="mistral-gallery" class="gallery">
+                    <div class="gallery-item glass" onclick="openModal('assets/fig1_dataset_metric_bars.png', 'Dataset Performance Metrics')">
+                        <img src="assets/fig1_dataset_metric_bars.png" alt="Dataset Metric Bars" loading="lazy">
+                        <div class="overlay"><span>Dataset Performance Metrics</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/fig2_radar_chart.png', 'Performance Radar Chart')">
+                        <img src="assets/fig2_radar_chart.png" alt="Radar Chart" loading="lazy">
+                        <div class="overlay"><span>Performance Radar Chart</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/fig3_heatmap.png', 'Dataset × Metric Heatmap')">
+                        <img src="assets/fig3_heatmap.png" alt="Heatmap" loading="lazy">
+                        <div class="overlay"><span>Dataset × Metric Heatmap</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/fig4_box_plots.png', 'Score Distributions')">
+                        <img src="assets/fig4_box_plots.png" alt="Box Plots" loading="lazy">
+                        <div class="overlay"><span>Score Distributions</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/fig5_correlation_scatter.png', 'Metric Correlation Analysis')">
+                        <img src="assets/fig5_correlation_scatter.png" alt="Correlation Scatter" loading="lazy">
+                        <div class="overlay"><span>Metric Correlation Analysis</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/fig7_mcq_accuracy.png', 'Multiple Choice Accuracy')">
+                        <img src="assets/fig7_mcq_accuracy.png" alt="MCQ Accuracy" loading="lazy">
+                        <div class="overlay"><span>Multiple Choice Accuracy</span></div>
+                    </div>
+                </div>
+
+                <div id="orca-gallery" class="gallery" style="display: none;">
+                    <div class="gallery-item glass" onclick="openModal('assets/orca_fig1_dataset_metric_bars.png', 'Dataset Performance Metrics')">
+                        <img src="assets/orca_fig1_dataset_metric_bars.png" alt="Dataset Metric Bars" loading="lazy">
+                        <div class="overlay"><span>Dataset Performance Metrics</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/orca_fig2_radar_chart.png', 'Performance Radar Chart')">
+                        <img src="assets/orca_fig2_radar_chart.png" alt="Radar Chart" loading="lazy">
+                        <div class="overlay"><span>Performance Radar Chart</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/orca_fig3_heatmap.png', 'Dataset × Metric Heatmap')">
+                        <img src="assets/orca_fig3_heatmap.png" alt="Heatmap" loading="lazy">
+                        <div class="overlay"><span>Dataset × Metric Heatmap</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/orca_fig4_box_plots.png', 'Score Distributions')">
+                        <img src="assets/orca_fig4_box_plots.png" alt="Box Plots" loading="lazy">
+                        <div class="overlay"><span>Score Distributions</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/orca_fig5_correlation_scatter.png', 'Metric Correlation Analysis')">
+                        <img src="assets/orca_fig5_correlation_scatter.png" alt="Correlation Scatter" loading="lazy">
+                        <div class="overlay"><span>Metric Correlation Analysis</span></div>
+                    </div>
+                    <div class="gallery-item glass" onclick="openModal('assets/orca_fig7_mcq_accuracy.png', 'Multiple Choice Accuracy')">
+                        <img src="assets/orca_fig7_mcq_accuracy.png" alt="MCQ Accuracy" loading="lazy">
+                        <div class="overlay"><span>Multiple Choice Accuracy</span></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="conclusion" class="section">
+            <div class="container">
+                <div class="card glass conclusion-card">
+                    <h2>Key Insights</h2>
+                    <div class="insight">
+                        <h3>1. Multi-Metric Divergence</h3>
+                        <p>We discovered a <strong>Very Strong correlation (ρ=0.81)</strong> between ROUGE-L and BERTScore, but a <strong>Weak correlation (ρ~0.3)</strong> between the LLM-Judge and the text-overlap metrics. This validates our methodology: the LLM-Judge successfully evaluates <em>factual correctness</em> rather than punishing the model for merely phrasing the answer differently than the reference text.</p>
+                    </div>
+                    <div class="insight">
+                        <h3>2. Edge Viability</h3>
+                        <p>Despite being quantized and running on limited hardware (4GB VRAM), several models (such as Gemma 2 2B and Qwen 2.5) achieved exceptional <strong>Mean Judge Scores above 4.5/5</strong>. This strongly supports the viability of local LLMs for educational applications where privacy and cost are primary concerns.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>EduBench-Local Showcase &copy; 2026. Built for research evaluation.</p>
+        </div>
+    </footer>
+
+    <!-- Image Modal -->
+    <div id="image-modal" class="modal" onclick="closeModal()">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modal-img">
+        <div id="caption"></div>
+    </div>
+
+    <script src="script.js?v=2"></script>
+</body>
+</html>

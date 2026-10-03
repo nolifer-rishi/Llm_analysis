@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What functions in removing phosphorylated amino acids from proteins?",
+    "reference_answer": "phosphatase",
+    "generated_answer": "Dephosphorylation enzymes, such as protein phosphatases, function in removing phosphorylated amino acids from proteins. These enzymes catalyze the removal of phosphate groups from specific amino acids, helping to regulate protein activity, signaling pathways, and cellular processes. Dephosphorylation can also return proteins to their inactive states or restore normal cellular function.",
+    "model": "llama3.2:3b"
+  },
+  {
+    "question": "What disease is unpreventable in the type one form but may be prevented by diet if it is of the second type?",
+    "reference_answer": "diabetes",
+    "generated_answer": "I'm happy to help, but I must clarify that Type 1 and Type 2 diabetes are not typically considered preventable by diet. However, I can provide some context. Type 1 diabetes is an autoimmune disease where the body's immune system attacks the insulin-producing beta cells in the pancreas, and it is not preventable by diet. On the other hand, Type 2 diabetes can often be managed and prevented through lifestyle changes, including a healthy diet, regular exercise, and weight management.",
+    "model": "llama3.2:3b"
+  },
+  {
+    "question": "Melting ice is drastically impacting the number of what at glacier national park?",
+    "reference_answer": "active glaciers",
+    "generated_answer": "Melting ice is drastically impacting the number of bears at Glacier National Park. As the glaciers melt, they expose habitats and food sources previously hidden, leading to an increase in bear populations in the area. This can also lead to conflicts between humans and bears, posing a risk to park visitors.",
+    "model": "llama3.2:3b"
+  },
+  {
+    "question": "Under what type of conditions can populations grow exponentially?",
+    "reference_answer": "ideal",
+    "generated_answer": "Populations can grow exponentially under ideal conditions with ample resources such as food, water, and space. When the population density is low, and the rate of reproduction is high, the population can grow rapidly without significant competition for resources. Additionally, the absence of predation, disease, and environmental stressors can also contribute to exponential population growth.",
+    "model": "llama3.2:3b"
+  },
+  {
+    "question": "What forms when secondary alcohols oxidize?",
+    "reference_answer": "ketones",
+    "generated_answer": "When secondary alcohols oxidize, they form ketones. This process, known as oxidation, typically involves the removal of hydrogen from the carbon adjacent to the hydroxyl group, resulting in the formation of a carbonyl group. For example, the oxidation of 2-propanol (isopropanol) forms acetone (a ketone).",
+    "model": "llama3.2:3b"
+  }
+]

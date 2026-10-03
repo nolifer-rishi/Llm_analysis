@@ -1,0 +1,16 @@
+dataset_a,dataset_b,test,metric,statistic,p_value,significant_0.05,significant_0.01
+SciQ,OpenBookQA,Wilcoxon,rouge_l,620.0,0.870794,False,False
+SciQ,ARC-Easy,Wilcoxon,rouge_l,568.0,0.658016,False,False
+SciQ,ARC-Challenge,Wilcoxon,rouge_l,415.0,0.049462,True,False
+SciQ,RACE,Wilcoxon,rouge_l,573.0,0.5399,False,False
+SciQ,SQuAD,Wilcoxon,rouge_l,449.5,0.069551,False,False
+OpenBookQA,ARC-Easy,Wilcoxon,rouge_l,576.0,0.902045,False,False
+OpenBookQA,ARC-Challenge,Wilcoxon,rouge_l,479.0,0.18419,False,False
+OpenBookQA,RACE,Wilcoxon,rouge_l,550.0,0.404258,False,False
+OpenBookQA,SQuAD,Wilcoxon,rouge_l,506.0,0.20796,False,False
+ARC-Easy,ARC-Challenge,Wilcoxon,rouge_l,483.0,0.197685,False,False
+ARC-Easy,RACE,Wilcoxon,rouge_l,585.5,0.788254,False,False
+ARC-Easy,SQuAD,Wilcoxon,rouge_l,438.5,0.08348,False,False
+ARC-Challenge,RACE,Wilcoxon,rouge_l,438.0,0.123928,False,False
+ARC-Challenge,SQuAD,Wilcoxon,rouge_l,517.0,0.466482,False,False
+RACE,SQuAD,Wilcoxon,rouge_l,447.0,0.148129,False,False

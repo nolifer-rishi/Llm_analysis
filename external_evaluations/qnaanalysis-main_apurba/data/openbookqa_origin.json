@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "obqa_0000",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Live birth is exemplified in",
+    "context": "",
+    "reference_answer": "a calf emerging from a mother giraffe",
+    "options": [
+      "snakes slithering out of eggs",
+      "a calf emerging from a mother giraffe",
+      "owlets pecking out of their encasement",
+      "sea turtles emerging from their shells"
+    ]
+  },
+  {
+    "id": "obqa_0001",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A desert environment is",
+    "context": "",
+    "reference_answer": "arid, parched, and sun-baked",
+    "options": [
+      "dry, grass covered, and humid",
+      "lush, green, and tropical",
+      "arid, parched, and sun-baked",
+      "dry, damp, and lush"
+    ]
+  },
+  {
+    "id": "obqa_0002",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Having a sense of touch means",
+    "context": "",
+    "reference_answer": "I am an Ant",
+    "options": [
+      "I am the water",
+      "I am a tree",
+      "I am an Ant",
+      "I am the Air"
+    ]
+  },
+  {
+    "id": "obqa_0003",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What would happen when balloons heat up?",
+    "context": "",
+    "reference_answer": "they get bigger",
+    "options": [
+      "they get bigger",
+      "they get smaller",
+      "nothing happens",
+      "they fall down"
+    ]
+  },
+  {
+    "id": "obqa_0004",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A recyclable material can be",
+    "context": "",
+    "reference_answer": "used more times",
+    "options": [
+      "transformed",
+      "traded",
+      "thrown away",
+      "used more times"
+    ]
+  },
+  {
+    "id": "obqa_0005",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "An example of a chemical reaction would be",
+    "context": "",
+    "reference_answer": "A rusty fence",
+    "options": [
+      "A rusty fence",
+      "Sleeping",
+      "Drinking water",
+      "Rain"
+    ]
+  },
+  {
+    "id": "obqa_0006",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "if the earth was a living room, what can be done to melt the glaciers?",
+    "context": "",
+    "reference_answer": "someone would turn up the room heater",
+    "options": [
+      "someone would turn up the room heater",
+      "someone would turn up the air conditioner",
+      "someone would turn up the music",
+      "someone would turn on the light"
+    ]
+  },
+  {
+    "id": "obqa_0007",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "In solid phase matter has a/an",
+    "context": "",
+    "reference_answer": "concrete configuration",
+    "options": [
+      "concrete configuration",
+      "ambiguous form",
+      "shapeless form",
+      "radioactive glow"
+    ]
+  },
+  {
+    "id": "obqa_0008",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A light was off because the cord was",
+    "context": "",
+    "reference_answer": "sitting on the table",
+    "options": [
+      "sitting on the table",
+      "attached to the wall",
+      "attached to an extension cord",
+      "attached to a battery pack"
+    ]
+  },
+  {
+    "id": "obqa_0009",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Green parts of a life form absorb",
+    "context": "",
+    "reference_answer": "light",
+    "options": [
+      "carbon dioxide",
+      "light",
+      "oxygen",
+      "water"
+    ]
+  },
+  {
+    "id": "obqa_0010",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A field begins to bloom and blossom and plants need to be pollinated. In order to spread seeds, plants will most rely on",
+    "context": "",
+    "reference_answer": "robins",
+    "options": [
+      "pythons",
+      "salmon",
+      "robins",
+      "craters"
+    ]
+  },
+  {
+    "id": "obqa_0011",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Evaporation of water can lead to",
+    "context": "",
+    "reference_answer": "blizzards",
+    "options": [
+      "waterfalls",
+      "blizzards",
+      "earthquakes",
+      "hot springs"
+    ]
+  },
+  {
+    "id": "obqa_0012",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What has more gravity force than Earth but less than the sun?",
+    "context": "",
+    "reference_answer": "Jupiter",
+    "options": [
+      "Jupiter",
+      "the moon",
+      "a space station",
+      "a comet"
+    ]
+  },
+  {
+    "id": "obqa_0013",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The unit of measure derived from French word millilitre is a unit used for measuring volume generally used for values between 1 and",
+    "context": "",
+    "reference_answer": "1000",
+    "options": [
+      "1000",
+      "250",
+      "5000",
+      "300"
+    ]
+  },
+  {
+    "id": "obqa_0014",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The body is negatively impacted by",
+    "context": "",
+    "reference_answer": "rotavirus",
+    "options": [
+      "white blood cells",
+      "vitamins",
+      "rotavirus",
+      "nasal decongestants"
+    ]
+  },
+  {
+    "id": "obqa_0015",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Humans, cats, dogs, and elephants are known as mammals because their kids are born alive. Non-mammalian babies are born",
+    "context": "",
+    "reference_answer": "in an egg",
+    "options": [
+      "old",
+      "dead",
+      "in an egg",
+      "big"
+    ]
+  },
+  {
+    "id": "obqa_0016",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What food production happens in a leaf?",
+    "context": "",
+    "reference_answer": "nutrient making process",
+    "options": [
+      "nutrient making process",
+      "the breathing",
+      "the respiration",
+      "the digestion"
+    ]
+  },
+  {
+    "id": "obqa_0017",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The harder a child pushes a toy car",
+    "context": "",
+    "reference_answer": "the further it will roll across the floor",
+    "options": [
+      "decreases the distance it will travel",
+      "the further it will roll across the floor",
+      "the quicker the child will want to play with another toy",
+      "determines how long the child with play with it"
+    ]
+  },
+  {
+    "id": "obqa_0018",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "which of these people would have the worst air quality at their residence?",
+    "context": "",
+    "reference_answer": "a man who lives next to a landfill",
+    "options": [
+      "a man who lives next to a landfill",
+      "a man who lives in a city with the best air quality",
+      "none of these",
+      "a man who lives in a great suburb"
+    ]
+  },
+  {
+    "id": "obqa_0019",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "In the hottest months in the hottest desert, creatures such as birds may find water to drink",
+    "context": "",
+    "reference_answer": "in spiked plants",
+    "options": [
+      "in sticks",
+      "in pebbles",
+      "in sand",
+      "in spiked plants"
+    ]
+  },
+  {
+    "id": "obqa_0020",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "To improve health, what is a good strategy?",
+    "context": "",
+    "reference_answer": "a spa trip",
+    "options": [
+      "high risk lifestyle",
+      "restaurant food",
+      "business trip",
+      "a spa trip"
+    ]
+  },
+  {
+    "id": "obqa_0021",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of the following is warm blooded?",
+    "context": "",
+    "reference_answer": "skunk",
+    "options": [
+      "toad",
+      "snake",
+      "turtle",
+      "skunk"
+    ]
+  },
+  {
+    "id": "obqa_0022",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "if a student wants an orange, he would have to get it from which of these?",
+    "context": "",
+    "reference_answer": "from a live plant",
+    "options": [
+      "from a live cow",
+      "from a live plant",
+      "from a volcano cave",
+      "from a wild dog"
+    ]
+  },
+  {
+    "id": "obqa_0023",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A person has a chance to experience an equinox",
+    "context": "",
+    "reference_answer": "biannually",
+    "options": [
+      "weekly",
+      "monthly",
+      "annually",
+      "biannually"
+    ]
+  },
+  {
+    "id": "obqa_0024",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A solid is likely to form in extreme",
+    "context": "",
+    "reference_answer": "chill",
+    "options": [
+      "floods",
+      "wind",
+      "chill",
+      "rain"
+    ]
+  },
+  {
+    "id": "obqa_0025",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Rainbows are always found after what?",
+    "context": "",
+    "reference_answer": "Rainfall",
+    "options": [
+      "A fire",
+      "A tornado",
+      "Rainfall",
+      "Cereal"
+    ]
+  },
+  {
+    "id": "obqa_0026",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "as you get closer to something it begins to",
+    "context": "",
+    "reference_answer": "grow in size visually",
+    "options": [
+      "shrinks down to nothing",
+      "grow in size visually",
+      "show a large shadow",
+      "rotate in a clockwise direction"
+    ]
+  },
+  {
+    "id": "obqa_0027",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Polar bears require",
+    "context": "",
+    "reference_answer": "a frigid environment",
+    "options": [
+      "a tropical environment",
+      "a frigid environment",
+      "a tepid environment",
+      "a warm environment"
+    ]
+  },
+  {
+    "id": "obqa_0028",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The reason Earth is so sturdy is because",
+    "context": "",
+    "reference_answer": "It is made from rock",
+    "options": [
+      "It is made from rock",
+      "It eats three meals a day",
+      "It has a loving family",
+      "It is made from metal"
+    ]
+  },
+  {
+    "id": "obqa_0029",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What is the primary reason my duck feather filled jacket works well against the snow",
+    "context": "",
+    "reference_answer": "feathers slows heat transfer",
+    "options": [
+      "feathers slows heat transfer",
+      "the natural duck wax",
+      "a synthetic thick liner",
+      "small flexible solar panels"
+    ]
+  },
+  {
+    "id": "obqa_0030",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Members of rock bands often perform with",
+    "context": "",
+    "reference_answer": "earplugs",
+    "options": [
+      "flutes",
+      "sandals",
+      "earplugs",
+      "gloves"
+    ]
+  },
+  {
+    "id": "obqa_0031",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A person wants to start saving money so that they can afford a nice vacation at the end of the year. After looking over their budget and expenses, they decide the best way to save money is to",
+    "context": "",
+    "reference_answer": "quit eating lunch out",
+    "options": [
+      "make more phone calls",
+      "quit eating lunch out",
+      "buy less with monopoly money",
+      "have lunch with friends"
+    ]
+  },
+  {
+    "id": "obqa_0032",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A company makes notebooks for college courses, so their main material is",
+    "context": "",
+    "reference_answer": "trees",
+    "options": [
+      "chips",
+      "water",
+      "grass",
+      "trees"
+    ]
+  },
+  {
+    "id": "obqa_0033",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A bear cub learns to stay away from unknown bears because",
+    "context": "",
+    "reference_answer": "their mother teaches them to keep their distance",
+    "options": [
+      "they are much bigger than the cub",
+      "the other bears look like its mother",
+      "their mother teaches them to keep their distance",
+      "the unknown bears look harmless"
+    ]
+  },
+  {
+    "id": "obqa_0034",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Conservation",
+    "context": "",
+    "reference_answer": "leads to longer availability of resources",
+    "options": [
+      "leads to longer drought of resources",
+      "leads to longer availability of resources",
+      "leads to more consumption",
+      "leads to short supply of resources"
+    ]
+  },
+  {
+    "id": "obqa_0035",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Carnivores",
+    "context": "",
+    "reference_answer": "require prey to survive",
+    "options": [
+      "eat foliage and vegetables exclusively",
+      "are the bottom of the food chain",
+      "require prey to survive",
+      "require carbon dioxide to survive"
+    ]
+  },
+  {
+    "id": "obqa_0036",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "the dashboard reading in a jaguar would likely be set to which of these?",
+    "context": "",
+    "reference_answer": "set to kilometers",
+    "options": [
+      "set to calories",
+      "set to volume",
+      "set to kilometers",
+      "set to width"
+    ]
+  },
+  {
+    "id": "obqa_0037",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A pulley is used to lift a flag on a flagpole by",
+    "context": "",
+    "reference_answer": "yanking string up a wheel",
+    "options": [
+      "moving a rope sideways",
+      "putting something in the air",
+      "moving things with wheels",
+      "yanking string up a wheel"
+    ]
+  },
+  {
+    "id": "obqa_0038",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The transportation with the most mass is likely a",
+    "context": "",
+    "reference_answer": "commercial plane",
+    "options": [
+      "commercial plane",
+      "private plane",
+      "bus",
+      "private car"
+    ]
+  },
+  {
+    "id": "obqa_0039",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which musical instrument is the same type as a guitar?",
+    "context": "",
+    "reference_answer": "cello",
+    "options": [
+      "flute",
+      "cello",
+      "drum",
+      "trumpet"
+    ]
+  },
+  {
+    "id": "obqa_0040",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "How do plants reproduce?",
+    "context": "",
+    "reference_answer": "seeds",
+    "options": [
+      "seeds",
+      "stem",
+      "flowers",
+      "leaves"
+    ]
+  },
+  {
+    "id": "obqa_0041",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What could I use as biofuel",
+    "context": "",
+    "reference_answer": "Pine Needles",
+    "options": [
+      "Gold",
+      "Car",
+      "Diamonds",
+      "Pine Needles"
+    ]
+  },
+  {
+    "id": "obqa_0042",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "An organism that makes food for itself",
+    "context": "",
+    "reference_answer": "is nutritionally self sustaining",
+    "options": [
+      "is nutritionally self sustaining",
+      "will die faster than other organisms",
+      "will need help sustaining strength",
+      "is reliant on other organisms for assistance"
+    ]
+  },
+  {
+    "id": "obqa_0043",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The boy was able to warm the fireplace without a lighter thanks to what?",
+    "context": "",
+    "reference_answer": "friction",
+    "options": [
+      "friction",
+      "metal",
+      "wishing",
+      "magic"
+    ]
+  },
+  {
+    "id": "obqa_0044",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "There was a lot more water vapor in the air when we went on a trip to",
+    "context": "",
+    "reference_answer": "Hanoi",
+    "options": [
+      "Hanoi",
+      "Athens",
+      "Baghdad",
+      "Phoenix"
+    ]
+  },
+  {
+    "id": "obqa_0045",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A plant will grow strong if it has",
+    "context": "",
+    "reference_answer": "earth",
+    "options": [
+      "love",
+      "heat",
+      "earth",
+      "sand"
+    ]
+  },
+  {
+    "id": "obqa_0046",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The spring season brings",
+    "context": "",
+    "reference_answer": "Bees",
+    "options": [
+      "Bees",
+      "Snow",
+      "More Oxygen",
+      "Dust"
+    ]
+  },
+  {
+    "id": "obqa_0047",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Pasta may be cooked in water when",
+    "context": "",
+    "reference_answer": "water is bubbling from applied warmth",
+    "options": [
+      "the water is warm",
+      "the water is on the stove",
+      "water is bubbling from applied warmth",
+      "the pasta is very fresh"
+    ]
+  },
+  {
+    "id": "obqa_0048",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What would be more likely to attract a magnet?",
+    "context": "",
+    "reference_answer": "a car engine",
+    "options": [
+      "a plastic zipper",
+      "flowing water",
+      "a car engine",
+      "A wooden desk"
+    ]
+  },
+  {
+    "id": "obqa_0049",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What do cows eat?",
+    "context": "",
+    "reference_answer": "Chickpeas",
+    "options": [
+      "Chickpeas",
+      "Chocolate",
+      "Steak",
+      "Poultry"
+    ]
+  },
+  {
+    "id": "obqa_0050",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Photosynthesis does what by converting carbon dioxide, water, and sunlight into carbohydrates?",
+    "context": "",
+    "reference_answer": "providing nourishment which enables some growth to vegetation",
+    "options": [
+      "nourishes small protein bits that need to eat with tiny shakes",
+      "providing nourishment which enables some growth to vegetation",
+      "mixes carbs into soluble plant matter",
+      "makes good vegetable protein"
+    ]
+  },
+  {
+    "id": "obqa_0051",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The dam was put under much more stress after the",
+    "context": "",
+    "reference_answer": "huge rain storm",
+    "options": [
+      "party",
+      "huge rain storm",
+      "drought",
+      "breakup."
+    ]
+  },
+  {
+    "id": "obqa_0052",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Atomic 26 is drawn to a device, it could be",
+    "context": "",
+    "reference_answer": "magnetized",
+    "options": [
+      "magnetized",
+      "Na",
+      "compass",
+      "K"
+    ]
+  },
+  {
+    "id": "obqa_0053",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A woman notices that she is depressed every autumn, and wonders why. A friend suggests to her that perhaps certain changes that take place as seasons move from warm to cold may be having an effect on her. When pressed for an example of these changes, the friend cites",
+    "context": "",
+    "reference_answer": "grass turning brown",
+    "options": [
+      "flowers blooming",
+      "grass turning brown",
+      "trees growing",
+      "blossoms blooming"
+    ]
+  },
+  {
+    "id": "obqa_0054",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A woman, with a pale complexion, wants to spend the bright, sunny day at the beach. She makes sure that she stops at the store to pick up some sunblock before she begins to enjoy her day filled with sand and surf. She applies the sunblock carefully and thoroughly, because she knows that",
+    "context": "",
+    "reference_answer": "UV rays are harmful",
+    "options": [
+      "UV rays are harmful",
+      "sunlight will be fun",
+      "the sun is close",
+      "the sun is in space"
+    ]
+  },
+  {
+    "id": "obqa_0055",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Building new areas to dispose of refuse may lead to",
+    "context": "",
+    "reference_answer": "community concerns over environmental impact",
+    "options": [
+      "community concerns over environmental impact",
+      "better air and soil quality",
+      "higher value on land parcels",
+      "improvement in water supply"
+    ]
+  },
+  {
+    "id": "obqa_0056",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What is an example of hunting?",
+    "context": "",
+    "reference_answer": "humans throwing a spear through an animal",
+    "options": [
+      "humans throwing a spear through an animal",
+      "humans chewing on boiled animal muscles",
+      "humans gathering animals in a gate",
+      "humans plucking fruit from a tree"
+    ]
+  },
+  {
+    "id": "obqa_0057",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of these is a hypothesis?",
+    "context": "",
+    "reference_answer": "The ice caps will completely melt if global warming continues",
+    "options": [
+      "The ice caps will completely melt if global warming continues",
+      "The earth is round",
+      "The earth revolves around the sun",
+      "Gravity causes objects to fall"
+    ]
+  },
+  {
+    "id": "obqa_0058",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "If your dog is overweight",
+    "context": "",
+    "reference_answer": "cut back their caloric intake",
+    "options": [
+      "add more fat to their diet",
+      "cut back their caloric intake",
+      "let them sleep more",
+      "increase their caloric intake"
+    ]
+  },
+  {
+    "id": "obqa_0059",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of these has shape that changes depending on the container which it resides within?",
+    "context": "",
+    "reference_answer": "orange juice",
+    "options": [
+      "paper",
+      "wood",
+      "stone",
+      "orange juice"
+    ]
+  },
+  {
+    "id": "obqa_0060",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Glucose travels",
+    "context": "",
+    "reference_answer": "from a daisy's leaves into it's underground support system",
+    "options": [
+      "from roots to leaves of a daffodil",
+      "from a rose's leaves to the atmosphere",
+      "from a daisy's leaves into it's underground support system",
+      "from the sun to a sunflower's buds"
+    ]
+  },
+  {
+    "id": "obqa_0061",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Grey clouds can bring",
+    "context": "",
+    "reference_answer": "falling water molecules",
+    "options": [
+      "sunlight",
+      "falling water molecules",
+      "blooming flowers",
+      "drought conditions"
+    ]
+  },
+  {
+    "id": "obqa_0062",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Putting one kind of soda into the same cup as another kind of soda is doing what to the substances?",
+    "context": "",
+    "reference_answer": "combining",
+    "options": [
+      "combining",
+      "drinking",
+      "Subtracting",
+      "throwing"
+    ]
+  },
+  {
+    "id": "obqa_0063",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "If a UFO is flying overhead and looks small, then large, then",
+    "context": "",
+    "reference_answer": "the UFO is approaching",
+    "options": [
+      "the UFO is calling",
+      "the UFO had been close",
+      "the UFO is approaching",
+      "the UFO is leaving"
+    ]
+  },
+  {
+    "id": "obqa_0064",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What is an example of clear weather meaning sunny weather?",
+    "context": "",
+    "reference_answer": "fewer clouds allow for more sunlight",
+    "options": [
+      "more stars are visible on clear nights",
+      "cloud cover protects from sunburn",
+      "clear days will be warmer",
+      "fewer clouds allow for more sunlight"
+    ]
+  },
+  {
+    "id": "obqa_0065",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A small creek absorbing heat energy can result in",
+    "context": "",
+    "reference_answer": "a parched creek bed",
+    "options": [
+      "the creek water getting colder",
+      "a parched creek bed",
+      "tributaries branching off from the creek",
+      "a runoff of extra water"
+    ]
+  },
+  {
+    "id": "obqa_0066",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A woman sells bracelets that she makes. The bracelets gain popularity, and the woman makes incredibly large amounts of money from the sales. After a while, very few people are still buying the bracelets, so",
+    "context": "",
+    "reference_answer": "the woman makes less money",
+    "options": [
+      "the woman makes more money",
+      "the woman makes the same amount of money",
+      "the woman spends more money",
+      "the woman makes less money"
+    ]
+  },
+  {
+    "id": "obqa_0067",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Fruit comes from what source",
+    "context": "",
+    "reference_answer": "an organism that absorbs water through it's roots",
+    "options": [
+      "an organism that releases carbon dioxide",
+      "an organism that absorbs water through it's branches",
+      "an organism that absorbs oxygen",
+      "an organism that absorbs water through it's roots"
+    ]
+  },
+  {
+    "id": "obqa_0068",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "An instinctual behavior is",
+    "context": "",
+    "reference_answer": "frogs returning to the ponds were they hatched to lay eggs",
+    "options": [
+      "dogs rolling over on command",
+      "frogs returning to the ponds were they hatched to lay eggs",
+      "birds mimicking human speech",
+      "seals clapping for treats from trainers"
+    ]
+  },
+  {
+    "id": "obqa_0069",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "If photosynthesis was a recipe it would require these ingredients",
+    "context": "",
+    "reference_answer": "CO2, H20, and sun rays",
+    "options": [
+      "CO2, water, and argon",
+      "sunlight, oxygen, and fertilizer",
+      "CO2, H20, and cloudy skies",
+      "CO2, H20, and sun rays"
+    ]
+  },
+  {
+    "id": "obqa_0070",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet?",
+    "context": "",
+    "reference_answer": "it may become magnetized",
+    "options": [
+      "it loses its magnetization",
+      "it loses its charge",
+      "it may become magnetized",
+      "it gains a charge"
+    ]
+  },
+  {
+    "id": "obqa_0071",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Asteroids crashing on planets can leave behind",
+    "context": "",
+    "reference_answer": "large, bowl-shaped cavities in the ground",
+    "options": [
+      "large, bowl-shaped cavities in the ground",
+      "aliens and foreign foods",
+      "small dents in the planet's core",
+      "lakes filled with salty water"
+    ]
+  },
+  {
+    "id": "obqa_0072",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of these saws will last longer?",
+    "context": "",
+    "reference_answer": "iron saw",
+    "options": [
+      "iron saw",
+      "aluminium saw",
+      "plastic saw",
+      "wooden saw"
+    ]
+  },
+  {
+    "id": "obqa_0073",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A renewable resource is",
+    "context": "",
+    "reference_answer": "turbine produced electricity",
+    "options": [
+      "fossil fuel",
+      "turbine produced electricity",
+      "copper",
+      "coal lumps"
+    ]
+  },
+  {
+    "id": "obqa_0074",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The moon is known for having what feature?",
+    "context": "",
+    "reference_answer": "large bowl shaped cavities",
+    "options": [
+      "frozen streams of water",
+      "large bowl shaped cavities",
+      "caves formed by solar winds",
+      "groups of large trees"
+    ]
+  },
+  {
+    "id": "obqa_0075",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "It takes more water to fill a bathtub than a",
+    "context": "",
+    "reference_answer": "stomach",
+    "options": [
+      "lake",
+      "pool",
+      "stomach",
+      "holding tank"
+    ]
+  },
+  {
+    "id": "obqa_0076",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Hand dryers can also be used to",
+    "context": "",
+    "reference_answer": "dry out clothes after coming in from the rain",
+    "options": [
+      "keep cold drinks cool",
+      "dry out clothes after coming in from the rain",
+      "hydrate your face and hands",
+      "make a damp rag damper"
+    ]
+  },
+  {
+    "id": "obqa_0077",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What is the benefit to using a frosted window film over a non treated windows?",
+    "context": "",
+    "reference_answer": "they let in less light",
+    "options": [
+      "they are easier to make",
+      "they let in less light",
+      "they are cheaper to produce",
+      "they are much stronger"
+    ]
+  },
+  {
+    "id": "obqa_0078",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Did pasteurization get invented by Thomas Edison?",
+    "context": "",
+    "reference_answer": "negative",
+    "options": [
+      "negative",
+      "positive",
+      "all of these",
+      "maybe it was"
+    ]
+  },
+  {
+    "id": "obqa_0079",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A lake environment is a good setup for what to happen to organic remains?",
+    "context": "",
+    "reference_answer": "fossilization",
+    "options": [
+      "bleaching",
+      "burning",
+      "fossilization",
+      "drying"
+    ]
+  },
+  {
+    "id": "obqa_0080",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "If your dog sits in an oxygen deficient chamber, what happens?",
+    "context": "",
+    "reference_answer": "It will pass out",
+    "options": [
+      "it will be fine",
+      "it will be happy",
+      "it will be comfortable",
+      "It will pass out"
+    ]
+  },
+  {
+    "id": "obqa_0081",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "if a pot on the stove is described as hot, what does this mean?",
+    "context": "",
+    "reference_answer": "the body of the pot is of high temperature",
+    "options": [
+      "the body of the pot is of high temperature",
+      "the body of the pot is cold",
+      "all of these",
+      "the body of the pot is wet"
+    ]
+  },
+  {
+    "id": "obqa_0082",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What are iron nails made out of?",
+    "context": "",
+    "reference_answer": "metal",
+    "options": [
+      "wood",
+      "plastic",
+      "metal",
+      "glass"
+    ]
+  },
+  {
+    "id": "obqa_0083",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "When approaching an elephant from a great distance,",
+    "context": "",
+    "reference_answer": "it looks bigger",
+    "options": [
+      "it stays large",
+      "it grows larger",
+      "it gets bigger",
+      "it looks bigger"
+    ]
+  },
+  {
+    "id": "obqa_0084",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A satellite orbits a",
+    "context": "",
+    "reference_answer": "terrestrial body",
+    "options": [
+      "empty space",
+      "ocean",
+      "terrestrial body",
+      "air pocket"
+    ]
+  },
+  {
+    "id": "obqa_0085",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The pull the human planet space rock orbiter has on certain bodies of dihydrogen monooxide results in?",
+    "context": "",
+    "reference_answer": "water level fluctuations",
+    "options": [
+      "telescope views",
+      "water level fluctuations",
+      "animal",
+      "plant harvesting"
+    ]
+  },
+  {
+    "id": "obqa_0086",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A food that is a source of heat is",
+    "context": "",
+    "reference_answer": "ramen",
+    "options": [
+      "ramen",
+      "salad",
+      "ice cream",
+      "sushi"
+    ]
+  },
+  {
+    "id": "obqa_0087",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Phloem moves things around a plant similar to how",
+    "context": "",
+    "reference_answer": "blood moves in a body",
+    "options": [
+      "blood moves in a body",
+      "leaves move in the wind",
+      "water moves in a system",
+      "cars move on a street"
+    ]
+  },
+  {
+    "id": "obqa_0088",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The salamander could eat a large amounts of what?",
+    "context": "",
+    "reference_answer": "six legged winged organisms",
+    "options": [
+      "fettuccine if left around",
+      "waxy leaves from certain plants",
+      "dead carcass meat from livestock",
+      "six legged winged organisms"
+    ]
+  },
+  {
+    "id": "obqa_0089",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of these is a factor in the shape of a fern's seed?",
+    "context": "",
+    "reference_answer": "inheritance",
+    "options": [
+      "luck",
+      "humans",
+      "gold",
+      "inheritance"
+    ]
+  },
+  {
+    "id": "obqa_0090",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Carbon steel is always what?",
+    "context": "",
+    "reference_answer": "attractive to various objects that contain iron",
+    "options": [
+      "attractive to various objects that contain iron",
+      "pleasant with a magnetic personality",
+      "made up of iron and pieces of magnets",
+      "hard as a magnetizing rod"
+    ]
+  },
+  {
+    "id": "obqa_0091",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Grass snakes live in what?",
+    "context": "",
+    "reference_answer": "turf",
+    "options": [
+      "trees",
+      "mountains",
+      "lakes",
+      "turf"
+    ]
+  },
+  {
+    "id": "obqa_0092",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Thermometers",
+    "context": "",
+    "reference_answer": "can help you monitor a fever",
+    "options": [
+      "can help you monitor a fever",
+      "indicate levels of mercury in the blood",
+      "read exactly at 98.6 degrees",
+      "are used only for babies"
+    ]
+  },
+  {
+    "id": "obqa_0093",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Ocean water contains",
+    "context": "",
+    "reference_answer": "copious amounts of the combination of Na and Cl",
+    "options": [
+      "copious amounts of seltzer",
+      "scant amounts of sodium chloride",
+      "scant amounts of carbonation",
+      "copious amounts of the combination of Na and Cl"
+    ]
+  },
+  {
+    "id": "obqa_0094",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A man's child runs through the yard in the sprinklers, getting mud all over their feet. The child then runs around on the porch, tracking mud everywhere. While the mud is still wet, the man decides to clean off the porch by",
+    "context": "",
+    "reference_answer": "turning on the hose",
+    "options": [
+      "getting a new child",
+      "yelling at the mud",
+      "asking the child to stop",
+      "turning on the hose"
+    ]
+  },
+  {
+    "id": "obqa_0095",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The sides of the canyon are",
+    "context": "",
+    "reference_answer": "stone",
+    "options": [
+      "metal",
+      "water",
+      "rivers",
+      "stone"
+    ]
+  },
+  {
+    "id": "obqa_0096",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The man's heart skipped a beat and he felt pain after touching which of these?",
+    "context": "",
+    "reference_answer": "electrical transformer",
+    "options": [
+      "ice cube",
+      "water",
+      "electrical transformer",
+      "grass"
+    ]
+  },
+  {
+    "id": "obqa_0097",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "If bacon is left too long on a hot stove top",
+    "context": "",
+    "reference_answer": "it will become blackened",
+    "options": [
+      "it will be cooked perfectly",
+      "it will be bacteria laden",
+      "it will become blackened",
+      "it will be left raw"
+    ]
+  },
+  {
+    "id": "obqa_0098",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Erosion could lead to",
+    "context": "",
+    "reference_answer": "a change in the direction of a stream",
+    "options": [
+      "a change in the direction of a stream",
+      "a change in ocean temperatures",
+      "an increase in rainy weather",
+      "an increase in plants and animals"
+    ]
+  },
+  {
+    "id": "obqa_0099",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Desert environments features",
+    "context": "",
+    "reference_answer": "tons of sun",
+    "options": [
+      "tropical plants",
+      "tons of sun",
+      "massive rain totals",
+      "icy precipitation"
+    ]
+  },
+  {
+    "id": "obqa_0100",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "which of these would be most ideal for plant root growth?",
+    "context": "",
+    "reference_answer": "soil with worms burrowing around",
+    "options": [
+      "a sticky clay soil",
+      "soil with worms burrowing around",
+      "an arid soil with little looseness",
+      "all of these"
+    ]
+  },
+  {
+    "id": "obqa_0101",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Wax can be used similarly to",
+    "context": "",
+    "reference_answer": "rubber",
+    "options": [
+      "wood",
+      "rubber",
+      "water",
+      "metal"
+    ]
+  },
+  {
+    "id": "obqa_0102",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "which of these would stop a car quicker?",
+    "context": "",
+    "reference_answer": "a wheel with dry brake pads",
+    "options": [
+      "a wheel with wet brake pads",
+      "a wheel without brake pads",
+      "a wheel with worn brake pads",
+      "a wheel with dry brake pads"
+    ]
+  },
+  {
+    "id": "obqa_0103",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Respiration is a",
+    "context": "",
+    "reference_answer": "commonality among all animals",
+    "options": [
+      "happens for some species",
+      "happens for only land dwelling mammals",
+      "occurs for only sea creatures",
+      "commonality among all animals"
+    ]
+  },
+  {
+    "id": "obqa_0104",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Predators eat",
+    "context": "",
+    "reference_answer": "bunnies",
+    "options": [
+      "lions",
+      "humans",
+      "bunnies",
+      "grass"
+    ]
+  },
+  {
+    "id": "obqa_0105",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The respiratory system works by",
+    "context": "",
+    "reference_answer": "directing oxygen from lungs to other organs",
+    "options": [
+      "directing oxygen from lungs to other organs",
+      "pushing air through lungs",
+      "moving air in a room",
+      "making air quality better"
+    ]
+  },
+  {
+    "id": "obqa_0106",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A dog is more likely to shiver at",
+    "context": "",
+    "reference_answer": "5 am",
+    "options": [
+      "1 pm",
+      "5 am",
+      "9 am",
+      "6 pm"
+    ]
+  },
+  {
+    "id": "obqa_0107",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "a compass is a kind of tool for determining direction by pointing",
+    "context": "",
+    "reference_answer": "to the upper pole",
+    "options": [
+      "to western Canada shoreline",
+      "to the lower pole",
+      "to the upper pole",
+      "directly to the equator"
+    ]
+  },
+  {
+    "id": "obqa_0108",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which is recyclable?",
+    "context": "",
+    "reference_answer": "A school notebook",
+    "options": [
+      "An Elephant",
+      "A school notebook",
+      "A boat",
+      "A lake"
+    ]
+  },
+  {
+    "id": "obqa_0109",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Owls are likely to hunt at",
+    "context": "",
+    "reference_answer": "2am",
+    "options": [
+      "3pm",
+      "2am",
+      "6pm",
+      "7am"
+    ]
+  },
+  {
+    "id": "obqa_0110",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "After a torrential downpour over a week, a man notices that the pond in his backyard is",
+    "context": "",
+    "reference_answer": "bloated",
+    "options": [
+      "melted",
+      "dehydrated",
+      "bloated",
+      "salted"
+    ]
+  },
+  {
+    "id": "obqa_0111",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A tree is not the habitat of a",
+    "context": "",
+    "reference_answer": "lion",
+    "options": [
+      "squirrel",
+      "woodpecker",
+      "monkey",
+      "lion"
+    ]
+  },
+  {
+    "id": "obqa_0112",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A place that is snowy has a large amount of",
+    "context": "",
+    "reference_answer": "frozen water",
+    "options": [
+      "wind",
+      "storms",
+      "frozen water",
+      "rain"
+    ]
+  },
+  {
+    "id": "obqa_0113",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "In order to catch a rabbit, a predator must be",
+    "context": "",
+    "reference_answer": "quick",
+    "options": [
+      "big",
+      "quick",
+      "slow",
+      "small"
+    ]
+  },
+  {
+    "id": "obqa_0114",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The amount of brush in a park has been decreasing. What could be a cause?",
+    "context": "",
+    "reference_answer": "the season has been quite dry",
+    "options": [
+      "the season has been quite dry",
+      "There has been a lot of rain",
+      "snakes shelter under the brush",
+      "People have been walking by the brush on the trails"
+    ]
+  },
+  {
+    "id": "obqa_0115",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "An example of water being an electrical conductor would be what?",
+    "context": "",
+    "reference_answer": "lightening hitting water and organisms inside dying",
+    "options": [
+      "lightening hitting water and organisms inside dying",
+      "standing in a puddle and avoiding being struck by lightening",
+      "standing in a field and getting struck by lightening",
+      "grabbing a fence and being shocked"
+    ]
+  },
+  {
+    "id": "obqa_0116",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "which of these is the quickest to go visiting from our world?",
+    "context": "",
+    "reference_answer": "a trip to the moon",
+    "options": [
+      "none of these",
+      "a trip to mars",
+      "a trip to the moon",
+      "a trip to the northern star"
+    ]
+  },
+  {
+    "id": "obqa_0117",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Algae can be found in",
+    "context": "",
+    "reference_answer": "reservoir",
+    "options": [
+      "reservoir",
+      "meat",
+      "street",
+      "tree"
+    ]
+  },
+  {
+    "id": "obqa_0118",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Tapping a drumstick to a drum will",
+    "context": "",
+    "reference_answer": "reverberate when touched together",
+    "options": [
+      "reverberate when touched together",
+      "vibrate when next to each other",
+      "shake around when near",
+      "put each other down"
+    ]
+  },
+  {
+    "id": "obqa_0119",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What can cause people to crash their car?",
+    "context": "",
+    "reference_answer": "Seeing a solar eclipse",
+    "options": [
+      "Seeing a solar eclipse",
+      "Using their turn signals",
+      "Driving the speed limit",
+      "Keeping their eyes on the road"
+    ]
+  },
+  {
+    "id": "obqa_0120",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "In order for your computer to operate, it must have an electrical path that is what?",
+    "context": "",
+    "reference_answer": "closed",
+    "options": [
+      "magical",
+      "closed",
+      "broken",
+      "open"
+    ]
+  },
+  {
+    "id": "obqa_0121",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Organisms covered by layers of sediment",
+    "context": "",
+    "reference_answer": "may end up fueling a car",
+    "options": [
+      "become fossils over night",
+      "may end up reanimated over time",
+      "develop characteristics for survival",
+      "may end up fueling a car"
+    ]
+  },
+  {
+    "id": "obqa_0122",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What will increase when a substance absorbs solar energy?",
+    "context": "",
+    "reference_answer": "hotness",
+    "options": [
+      "weight",
+      "height",
+      "hotness",
+      "nutrition"
+    ]
+  },
+  {
+    "id": "obqa_0123",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "where might a bunny live?",
+    "context": "",
+    "reference_answer": "a thicket",
+    "options": [
+      "a thicket",
+      "atop palm trees",
+      "a sewer system",
+      "a deserted island"
+    ]
+  },
+  {
+    "id": "obqa_0124",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Some berries may be eaten by",
+    "context": "",
+    "reference_answer": "a bear or person",
+    "options": [
+      "a bear or person",
+      "a bear or shark",
+      "a bear or lion",
+      "a bear or wolf"
+    ]
+  },
+  {
+    "id": "obqa_0125",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What will be more available in an area when rainfall increases?",
+    "context": "",
+    "reference_answer": "H2O",
+    "options": [
+      "fire",
+      "air",
+      "dirt",
+      "H2O"
+    ]
+  },
+  {
+    "id": "obqa_0126",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A person speaks English as her first language because",
+    "context": "",
+    "reference_answer": "she watched her parents speak",
+    "options": [
+      "media is mainly in English",
+      "school is in English",
+      "she was genetically predisposed",
+      "she watched her parents speak"
+    ]
+  },
+  {
+    "id": "obqa_0127",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "if a place has experienced flooding, what could be responsible?",
+    "context": "",
+    "reference_answer": "there has been excess condensed water vapor",
+    "options": [
+      "all of these",
+      "there has been excess condensed water vapor",
+      "the water lacks oxygen",
+      "the local deities are angry"
+    ]
+  },
+  {
+    "id": "obqa_0128",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which beverage would dissolve solids the best?",
+    "context": "",
+    "reference_answer": "A boiling hot mug of tea",
+    "options": [
+      "A glass of ice-cold water",
+      "A boiling hot mug of tea",
+      "A cup of warm milk",
+      "A room temperature glass of water"
+    ]
+  },
+  {
+    "id": "obqa_0129",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A plant that gets extra minerals such as zinc are probably",
+    "context": "",
+    "reference_answer": "placed in good soil",
+    "options": [
+      "planted in zinc pills",
+      "plated in the sea",
+      "placed in good soil",
+      "made out of soil"
+    ]
+  },
+  {
+    "id": "obqa_0130",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Plants are unable to grow if they have zero access to",
+    "context": "",
+    "reference_answer": "needs required for creating chlorophyll",
+    "options": [
+      "a nice cool breeze",
+      "fresh soil with manure",
+      "a regular source of saltwater",
+      "needs required for creating chlorophyll"
+    ]
+  },
+  {
+    "id": "obqa_0131",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "All of the following are examples of evaporation apart from",
+    "context": "",
+    "reference_answer": "Warm breath fogging up a mirror",
+    "options": [
+      "Warm breath fogging up a mirror",
+      "Morning dew drying on the grass",
+      "The water level in a glass decreasing",
+      "Sweat drying on skin"
+    ]
+  },
+  {
+    "id": "obqa_0132",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "which of these are you most likely to find in a desert?",
+    "context": "",
+    "reference_answer": "a prickly horned male lizard",
+    "options": [
+      "a hammer head shark",
+      "a big tilapia fish",
+      "a prickly horned male lizard",
+      "none of these"
+    ]
+  },
+  {
+    "id": "obqa_0133",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The lunar cycle also changes",
+    "context": "",
+    "reference_answer": "water",
+    "options": [
+      "water",
+      "colors",
+      "the sun",
+      "planets"
+    ]
+  },
+  {
+    "id": "obqa_0134",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "After a storm",
+    "context": "",
+    "reference_answer": "creek beds may be spilling over",
+    "options": [
+      "ponds may dry out",
+      "flowers will wilt and wither",
+      "creek beds may be spilling over",
+      "drinking water will be in short supply"
+    ]
+  },
+  {
+    "id": "obqa_0135",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What are the feet of Dendrocygna autumnalis designed for?",
+    "context": "",
+    "reference_answer": "aquatic speed",
+    "options": [
+      "catching prey",
+      "aquatic speed",
+      "flying",
+      "walking"
+    ]
+  },
+  {
+    "id": "obqa_0136",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of these energy sources generates the least amount of pollution?",
+    "context": "",
+    "reference_answer": "windmill",
+    "options": [
+      "coal",
+      "windmill",
+      "lithium batteries",
+      "gasoline"
+    ]
+  },
+  {
+    "id": "obqa_0137",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Where would you find a mine?",
+    "context": "",
+    "reference_answer": "under a mountain",
+    "options": [
+      "in a tree",
+      "under a mountain",
+      "in the air",
+      "in the water"
+    ]
+  },
+  {
+    "id": "obqa_0138",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "They looked where the log decayed to garden as it would leave the earth",
+    "context": "",
+    "reference_answer": "richer",
+    "options": [
+      "richer",
+      "dryer",
+      "sandy",
+      "harder"
+    ]
+  },
+  {
+    "id": "obqa_0139",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which animal is considered a predator?",
+    "context": "",
+    "reference_answer": "snake",
+    "options": [
+      "ant",
+      "snake",
+      "elephant",
+      "giraffe"
+    ]
+  },
+  {
+    "id": "obqa_0140",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Turbines churning seawater can be used to produce what?",
+    "context": "",
+    "reference_answer": "a charge for appliances",
+    "options": [
+      "a charge for appliances",
+      "large quantities of soup",
+      "large schools of fish",
+      "creating some sharp cheese"
+    ]
+  },
+  {
+    "id": "obqa_0141",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "What type of useful product can be made from the moving winds?",
+    "context": "",
+    "reference_answer": "electricity",
+    "options": [
+      "wood",
+      "bananas",
+      "electricity",
+      "metal"
+    ]
+  },
+  {
+    "id": "obqa_0142",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "There is a heightened threat of landslide in",
+    "context": "",
+    "reference_answer": "The Andes",
+    "options": [
+      "the desert",
+      "The Andes",
+      "the ocean",
+      "Indiana"
+    ]
+  },
+  {
+    "id": "obqa_0143",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "If hot water were poured on an arm, what would happen to internal organs?",
+    "context": "",
+    "reference_answer": "organs would remain uneffected",
+    "options": [
+      "they would be scalded",
+      "organs would remain uneffected",
+      "they would begin to decay",
+      "they would experience pain"
+    ]
+  },
+  {
+    "id": "obqa_0144",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "The Grand Canyon was formed by",
+    "context": "",
+    "reference_answer": "a river named after the 38th state to join the union flowing over time",
+    "options": [
+      "a volcano erupting in 1782",
+      "a river named after the 20th state to join the union flowing over time",
+      "a river named after the 38th state to join the union flowing over time",
+      "the Great Lakes drying up"
+    ]
+  },
+  {
+    "id": "obqa_0145",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Mosquitoes enjoy all the people at a BBQ in the summer for what reason?",
+    "context": "",
+    "reference_answer": "blood",
+    "options": [
+      "steak",
+      "blood",
+      "nice weather",
+      "taking food"
+    ]
+  },
+  {
+    "id": "obqa_0146",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of these is required for a plant to enjoy the product of a rain storm?",
+    "context": "",
+    "reference_answer": "xylem",
+    "options": [
+      "xylem",
+      "luck",
+      "magic",
+      "dirt"
+    ]
+  },
+  {
+    "id": "obqa_0147",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "A teacher wants to show how to combine two substances together. The two things that he can use in order to mix them completely are",
+    "context": "",
+    "reference_answer": "water and soda",
+    "options": [
+      "water and soda",
+      "water and oil",
+      "sand and rocks",
+      "salt and bark"
+    ]
+  },
+  {
+    "id": "obqa_0148",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Animals have more fat",
+    "context": "",
+    "reference_answer": "in polar areas",
+    "options": [
+      "in the ocean",
+      "in human homes",
+      "in landfills",
+      "in polar areas"
+    ]
+  },
+  {
+    "id": "obqa_0149",
+    "source_dataset": "OpenBookQA",
+    "subject": "science",
+    "question": "Which of these would create the most sound if struck with a metal spoon?",
+    "context": "",
+    "reference_answer": "the chassis of a car",
+    "options": [
+      "the plastic water bottle",
+      "the backside of a person",
+      "the hair on a doll",
+      "the chassis of a car"
+    ]
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "squad_0000",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "In what year did Massachusetts first require children to be educated in schools?",
+    "context": "Private schooling in the United States has been debated by educators, lawmakers and parents, since the beginnings of compulsory education in Massachusetts in 1852. The Supreme Court precedent appears to favor educational choice, so long as states may set standards for educational accomplishment. Some of the most relevant Supreme Court case law on this is as follows: Runyon v. McCrary, 427 U.S. 160 (1976); Wisconsin v. Yoder, 406 U.S. 205 (1972); Pierce v. Society of Sisters, 268 U.S. 510 (1925); Meyer v. Nebraska, 262 U.S. 390 (1923).",
+    "reference_answer": "1852",
+    "options": []
+  },
+  {
+    "id": "squad_0001",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When were stromules discovered?",
+    "context": "The chloroplast membranes sometimes protrude out into the cytoplasm, forming a stromule, or stroma-containing tubule. Stromules are very rare in chloroplasts, and are much more common in other plastids like chromoplasts and amyloplasts in petals and roots, respectively. They may exist to increase the chloroplast's surface area for cross-membrane transport, because they are often branched and tangled with the endoplasmic reticulum. When they were first observed in 1962, some plant biologists dismissed the structures as artifactual, claiming that stromules were just oddly shaped chloroplasts with constricted regions or dividing chloroplasts. However, there is a growing body of evidence that stromules are functional, integral features of plant cell plastids, not merely artifacts.",
+    "reference_answer": "1962",
+    "options": []
+  },
+  {
+    "id": "squad_0002",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which artist who had a major influence on the Gothic Revival is represented in the V&A's British galleries?",
+    "context": "Not only the work of British artists and craftspeople is on display, but also work produced by European artists that was purchased or commissioned by British patrons, as well as imports from Asia, including porcelain, cloth and wallpaper. Designers and artists whose work is on display in the galleries include Gian Lorenzo Bernini, Grinling Gibbons, Daniel Marot, Louis Laguerre, Antonio Verrio, Sir James Thornhill, William Kent, Robert Adam, Josiah Wedgwood, Matthew Boulton, Canova, Thomas Chippendale, Pugin, William Morris. Patrons who have influenced taste are also represented by works of art from their collections, these include: Horace Walpole (a major influence on the Gothic Revival), William Thomas Beckford and Thomas Hope.",
+    "reference_answer": "Horace Walpole",
+    "options": []
+  },
+  {
+    "id": "squad_0003",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "In 1890, who did the university decide to team up with?",
+    "context": "In the 1890s, the University of Chicago, fearful that its vast resources would injure smaller schools by drawing away good students, affiliated with several regional colleges and universities: Des Moines College, Kalamazoo College, Butler University, and Stetson University. In 1896, the university affiliated with Shimer College in Mount Carroll, Illinois. Under the terms of the affiliation, the schools were required to have courses of study comparable to those at the university, to notify the university early of any contemplated faculty appointments or dismissals, to make no faculty appointment without the university's approval, and to send copies of examinations for suggestions. The University of Chicago agreed to confer a degree on any graduating senior from an affiliated school who made a grade of A for all four years, and on any other graduate who took twelve weeks additional study at the University of Chicago. A student or faculty member of an affiliated school was entitled to free tuition at the University of Chicago, and Chicago students were eligible to attend an affiliated school on the same terms and receive credit for their work. The University of Chicago also agreed to provide affiliated schools with books and scientific apparatus and supplies at cost; special instructors and lecturers without cost except travel expenses; and a copy of every book and journal published by the University of Chicago Press at no cost. The agreement provided that either party could terminate the affiliation on proper notice. Several University of Chicago professors disliked the program, as it involved uncompensated additional labor on their part, and they believed it cheapened the academic reputation of the university. The program passed into history by 1910.",
+    "reference_answer": "several regional colleges and universities",
+    "options": []
+  },
+  {
+    "id": "squad_0004",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who got a touchdown making the score 10-7?",
+    "context": "After a punt from both teams, Carolina got on track with a 9-play, 73-yard scoring drive. Newton completed 4 of 4 passes for 51 yards and rushed twice for 25 yards, while Jonathan Stewart finished the drive with a 1-yard touchdown run, cutting the score to 10–7 with 11:28 left in the second quarter. Later on, Broncos receiver Jordan Norwood received Brad Nortman's short 28-yard punt surrounded by Panthers players, but none of them attempted to make a tackle, apparently thinking Norwood had called a fair catch. Norwood had not done so, and with no resistance around him, he took off for a Super Bowl record 61-yard return before Mario Addison dragged him down on the Panthers 14-yard line. Despite Denver's excellent field position, they could not get the ball into the end zone, so McManus kicked a 33-yard field goal that increased their lead to 13–7.",
+    "reference_answer": "Jonathan Stewart",
+    "options": []
+  },
+  {
+    "id": "squad_0005",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many Examination Boards exist in India?",
+    "context": "In India, private schools are called independent schools, but since some private schools receive financial aid from the government, it can be an aided or an unaided school. So, in a strict sense, a private school is an unaided independent school. For the purpose of this definition, only receipt of financial aid is considered, not land purchased from the government at a subsidized rate. It is within the power of both the union government and the state governments to govern schools since Education appears in the Concurrent list of legislative subjects in the constitution. The practice has been for the union government to provide the broad policy directions while the states create their own rules and regulations for the administration of the sector. Among other things, this has also resulted in 30 different Examination Boards or academic authorities that conduct examinations for school leaving certificates. Prominent Examination Boards that are present in multiple states are the CBSE and the CISCE, NENBSE",
+    "reference_answer": "30",
+    "options": []
+  },
+  {
+    "id": "squad_0006",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who started rumors in 2008 that ABC would sell its ten owned-and-operated stations?",
+    "context": "The Writers Guild of America strike that halted production of network programs for much of the 2007–08 season affected the network in 2007–08 and 2008–09, as various ABC shows that premiered in 2007, such as Dirty Sexy Money, Pushing Daisies, Eli Stone and Samantha Who?, did not live to see a third season; other series such as Boston Legal and the U.S. version of Life on Mars suffered from low viewership, despite the former, a spin off of The Practice, being a once-highlighted breakout series when it debuted in 2005. One of the network's strike-replacement programs during that time was the game show Duel, which premiered in December 2007. The program would become a minor success for the network during its initial six-episode run, which led ABC to renew Duel as a regular series starting in April 2008. However, Duel suffered from low viewership during its run as a regular series, and ABC canceled the program after sixteen episodes. On August 15, 2008, Disney denied rumors started by Caris & Co. that it would be selling the ten ABC owned-and-operated stations.",
+    "reference_answer": "Caris & Co.",
+    "options": []
+  },
+  {
+    "id": "squad_0007",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which network broadcasted the 50th Super Bowl game?",
+    "context": "CBS broadcast Super Bowl 50 in the U.S., and charged an average of $5 million for a 30-second commercial during the game. The Super Bowl 50 halftime show was headlined by the British rock group Coldplay with special guest performers Beyoncé and Bruno Mars, who headlined the Super Bowl XLVII and Super Bowl XLVIII halftime shows, respectively. It was the third-most watched U.S. broadcast ever.",
+    "reference_answer": "CBS",
+    "options": []
+  },
+  {
+    "id": "squad_0008",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Why was this short termed organization created?",
+    "context": "In 1973, Nixon named William E. Simon as the first Administrator of the Federal Energy Office, a short-term organization created to coordinate the response to the embargo. Simon allocated states the same amount of domestic oil for 1974 that each had consumed in 1972, which worked for states whose populations were not increasing. In other states, lines at gasoline stations were common. The American Automobile Association reported that in the last week of February 1974, 20% of American gasoline stations had no fuel.",
+    "reference_answer": "coordinate the response to the embargo",
+    "options": []
+  },
+  {
+    "id": "squad_0009",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What does LGM stands for?",
+    "context": "There is evidence that there have been significant changes in Amazon rainforest vegetation over the last 21,000 years through the Last Glacial Maximum (LGM) and subsequent deglaciation. Analyses of sediment deposits from Amazon basin paleolakes and from the Amazon Fan indicate that rainfall in the basin during the LGM was lower than for the present, and this was almost certainly associated with reduced moist tropical vegetation cover in the basin. There is debate, however, over how extensive this reduction was. Some scientists argue that the rainforest was reduced to small, isolated refugia separated by open forest and grassland; other scientists argue that the rainforest remained largely intact but extended less far to the north, south, and east than is seen today. This debate has proved difficult to resolve because the practical limitations of working in the rainforest mean that data sampling is biased away from the center of the Amazon basin, and both explanations are reasonably well supported by the available data.",
+    "reference_answer": "Last Glacial Maximum",
+    "options": []
+  },
+  {
+    "id": "squad_0010",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?",
+    "context": "In 1967, Manuel Blum developed an axiomatic complexity theory based on his axioms and proved an important result, the so-called, speed-up theorem. The field really began to flourish in 1971 when the US researcher Stephen Cook and, working independently, Leonid Levin in the USSR, proved that there exist practically relevant problems that are NP-complete. In 1972, Richard Karp took this idea a leap forward with his landmark paper, \"Reducibility Among Combinatorial Problems\", in which he showed that 21 diverse combinatorial and graph theoretical problems, each infamous for its computational intractability, are NP-complete.",
+    "reference_answer": "\"Reducibility Among Combinatorial Problems\"",
+    "options": []
+  },
+  {
+    "id": "squad_0011",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What Lake in a German island Mainau receives a fraction of the Rhine's flow?",
+    "context": "The flow of cold, gray mountain water continues for some distance into the lake. The cold water flows near the surface and at first doesn't mix with the warmer, green waters of Upper Lake. But then, at the so-called Rheinbrech, the Rhine water abruptly falls into the depths because of the greater density of cold water. The flow reappears on the surface at the northern (German) shore of the lake, off the island of Lindau. The water then follows the northern shore until Hagnau am Bodensee. A small fraction of the flow is diverted off the island of Mainau into Lake Überlingen. Most of the water flows via the Constance hopper into the Rheinrinne (\"Rhine Gutter\") and Seerhein. Depending on the water level, this flow of the Rhine water is clearly visible along the entire length of the lake.",
+    "reference_answer": "Lake Überlingen",
+    "options": []
+  },
+  {
+    "id": "squad_0012",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What studio does ABC own at 1500 Broadway in NYC?",
+    "context": "ABC also owns the Times Square Studios at 1500 Broadway on land in Times Square owned by a development fund for the 42nd Street Project; opened in 1999, Good Morning America and Nightline are broadcast from this particular facility. ABC News has premises a little further on West 66th Street, in a six-story building occupying a 196 feet (60 m) × 379 feet (116 m) plot at 121–135 West End Avenue. The block of West End Avenue housing the ABC News building was renamed Peter Jennings Way in 2006 in honor of the recently deceased longtime ABC News chief anchor and anchor of World News Tonight.",
+    "reference_answer": "Times Square Studios",
+    "options": []
+  },
+  {
+    "id": "squad_0013",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many fraternities are apart of the university?",
+    "context": "There are fifteen fraternities and seven sororities at the University of Chicago, as well as one co-ed community service fraternity, Alpha Phi Omega. Four of the sororities are members of the National Panhellenic Conference, and ten of the fraternities form the University of Chicago Interfraternity Council. In 2002, the Associate Director of Student Activities estimated that 8–10 percent of undergraduates were members of fraternities or sororities. The student activities office has used similar figures, stating that one in ten undergraduates participate in Greek life.",
+    "reference_answer": "fifteen",
+    "options": []
+  },
+  {
+    "id": "squad_0014",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "At what address did Goldenson secure a new headquarters for ABC?",
+    "context": "In 1965, the corporate entity, American Broadcasting-Paramount Theatres, was renamed as the American Broadcasting Companies,  while its cinema division became ABC Theatres;[citation needed] its recording division was renamed ABC Records in 1966. In December of that year, the ABC television network premiered The Dating Game, a pioneer series in its genre, which was a reworking of the blind date concept in which a suitor selected one of three contestants sight unseen based on the answers to selected questions. This was followed up in July 1966 by The Newlywed Game, featuring three recently married couples who guessed the responses to their partner's questions (some of which were fairly risque). As ABC began to outgrow its facilities at 7 West 66th Street, Goldenson found a new headquarters for ABC in a 44 story building located at 1330 Avenue of the Americas in Manhattan, at the corner of 54th Street (now occupied by The Financial Times's New York office). This operation allowed for the conversion of the premises at 66th Street into production facilities for television and radio programs.",
+    "reference_answer": "1330 Avenue of the Americas in Manhattan",
+    "options": []
+  },
+  {
+    "id": "squad_0015",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who had established the Russian empire to its former glory prior to 1921?",
+    "context": "Bolshevik leaders had effectively reestablished a polity with roughly the same extent as that empire by 1921, however with an internationalist ideology: Lenin in particular asserted the right to limited self-determination for national minorities within the new territory. Beginning in 1923, the policy of \"Indigenization\" [korenizatsiia] was intended to support non-Russians develop their national cultures within a socialist framework. Never formally revoked, it stopped being implemented after 1932. After World War II, the Soviet Union installed socialist regimes modeled on those it had installed in 1919–20 in the old Tsarist Empire in areas its forces occupied in Eastern Europe. The Soviet Union and the People’s Republic of China supported post–World War II communist movements in foreign nations and colonies to advance their own interests, but were not always successful.",
+    "reference_answer": "Bolshevik leaders",
+    "options": []
+  },
+  {
+    "id": "squad_0016",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What does the Riemann hypothesis state the source of irregularity in the distribution of points comes from?",
+    "context": "The unproven Riemann hypothesis, dating from 1859, states that except for s = −2, −4, ..., all zeroes of the ζ-function have real part equal to 1/2. The connection to prime numbers is that it essentially says that the primes are as regularly distributed as possible.[clarification needed] From a physical viewpoint, it roughly states that the irregularity in the distribution of primes only comes from random noise. From a mathematical viewpoint, it roughly states that the asymptotic distribution of primes (about x/log x of numbers less than x are primes, the prime number theorem) also holds for much shorter intervals of length about the square root of x (for intervals near x). This hypothesis is generally believed to be correct. In particular, the simplest assumption is that primes should have no significant irregularities without good reason.",
+    "reference_answer": "random noise",
+    "options": []
+  },
+  {
+    "id": "squad_0017",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which work of Luther's is effective in teaching children?",
+    "context": "Luther's Small Catechism proved especially effective in helping parents teach their children; likewise the Larger Catechism was effective for pastors. Using the German vernacular, they expressed the Apostles' Creed in simpler, more personal, Trinitarian language. He rewrote each article of the Creed to express the character of the Father, the Son, or the Holy Spirit. Luther's goal was to enable the catechumens to see themselves as a personal object of the work of the three persons of the Trinity, each of which works in the catechumen's life. That is, Luther depicted the Trinity not as a doctrine to be learned, but as persons to be known. The Father creates, the Son redeems, and the Spirit sanctifies, a divine unity with separate personalities. Salvation originates with the Father and draws the believer to the Father. Luther's treatment of the Apostles' Creed must be understood in the context of the Decalogue (the Ten Commandments) and the Lord's Prayer, which are also part of the Lutheran catechical teaching.",
+    "reference_answer": "Small Catechism",
+    "options": []
+  },
+  {
+    "id": "squad_0018",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How was the civil disobedience shown in Antigone?",
+    "context": "One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial. She gives a stirring speech in which she tells him that she must obey her conscience rather than human law. She is not at all afraid of the death he threatens her with (and eventually carries out), but she is afraid of how her conscience will smite her if she does not do this.",
+    "reference_answer": "obey her conscience rather than human law",
+    "options": []
+  },
+  {
+    "id": "squad_0019",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Where do juvenile platyctenids live?",
+    "context": "Development of the fertilized eggs is direct, in other words there is no distinctive larval form, and juveniles of all groups generally resemble miniature cydippid adults. In the genus Beroe the juveniles, like the adults, lack tentacles and tentacle sheaths. In most species the juveniles gradually develop the body forms of their parents. In some groups, such as the flat, bottom-dwelling platyctenids, the juveniles behave more like true larvae, as they live among the plankton and thus occupy a different ecological niche from their parents and attain the adult form by a more radical metamorphosis, after dropping to the sea-floor.",
+    "reference_answer": "among the plankton",
+    "options": []
+  },
+  {
+    "id": "squad_0020",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How often are elections held for the Victorian Parliament?",
+    "context": "In November 2006, the Victorian Legislative Council elections were held under a new multi-member proportional representation system. The State of Victoria was divided into eight electorates with each electorate represented by five representatives elected by Single Transferable Vote. The total number of upper house members was reduced from 44 to 40 and their term of office is now the same as the lower house members—four years. Elections for the Victorian Parliament are now fixed and occur in November every four years. Prior to the 2006 election, the Legislative Council consisted of 44 members elected to eight-year terms from 22 two-member electorates.",
+    "reference_answer": "every four years",
+    "options": []
+  },
+  {
+    "id": "squad_0021",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What magnetic and electric force acts on a charge?",
+    "context": "Through combining the definition of electric current as the time rate of change of electric charge, a rule of vector multiplication called Lorentz's Law describes the force on a charge moving in a magnetic field. The connection between electricity and magnetism allows for the description of a unified electromagnetic force that acts on a charge. This force can be written as a sum of the electrostatic force (due to the electric field) and the magnetic force (due to the magnetic field). Fully stated, this is the law:",
+    "reference_answer": "unified electromagnetic",
+    "options": []
+  },
+  {
+    "id": "squad_0022",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What kinds of growth did Kublai encourage?",
+    "context": "Kublai Khan promoted commercial, scientific, and cultural growth. He supported the merchants of the Silk Road trade network by protecting the Mongol postal system, constructing infrastructure, providing loans that financed trade caravans, and encouraging the circulation of paper banknotes (鈔, Chao). Pax Mongolica, Mongol peace, enabled the spread of technologies, commodities, and culture between China and the West. Kublai expanded the Grand Canal from southern China to Daidu in the north. Mongol rule was cosmopolitan under Kublai Khan. He welcomed foreign visitors to his court, such as the Venetian merchant Marco Polo, who wrote the most influential European account of Yuan China. Marco Polo's travels would later inspire many others like Christopher Columbus to chart a passage to the Far East in search of its legendary wealth.",
+    "reference_answer": "commercial, scientific, and cultural",
+    "options": []
+  },
+  {
+    "id": "squad_0023",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What was the name of the first episode of the new Doctor Who series?",
+    "context": "Doctor Who finally returned with the episode \"Rose\" on BBC One on 26 March 2005. There have since been nine further series in 2006–2008 and 2010–2015, and Christmas Day specials every year since 2005. No full series was filmed in 2009, although four additional specials starring David Tennant were made. In 2010, Steven Moffat replaced Davies as head writer and executive producer. In January 2016, Moffat announced that he would step down after the 2017 finale, to be replaced by Chris Chibnall in 2018. In addition, Series 10 will debut in Spring 2017, with a Christmas special broadcast in 2016.",
+    "reference_answer": "Rose",
+    "options": []
+  },
+  {
+    "id": "squad_0024",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Each of the extended metropolitan areas has a population that exceeds what number?",
+    "context": "Southern California consists of one Combined Statistical Area, eight Metropolitan Statistical Areas, one international metropolitan area, and multiple metropolitan divisions. The region is home to two extended metropolitan areas that exceed five million in population. These are the Greater Los Angeles Area at 17,786,419, and San Diego–Tijuana at 5,105,768. Of these metropolitan areas, the Los Angeles-Long Beach-Santa Ana metropolitan area, Riverside-San Bernardino-Ontario metropolitan area, and Oxnard-Thousand Oaks-Ventura metropolitan area form Greater Los Angeles; while the El Centro metropolitan area and San Diego-Carlsbad-San Marcos metropolitan area form the Southern Border Region. North of Greater Los Angeles are the Santa Barbara, San Luis Obispo, and Bakersfield metropolitan areas.",
+    "reference_answer": "five million",
+    "options": []
+  },
+  {
+    "id": "squad_0025",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Why is giving a defiant speech sometimes more harmful for the individual?",
+    "context": "Some civil disobedience defendants choose to make a defiant speech, or a speech explaining their actions, in allocution. In U.S. v. Burgos-Andujar, a defendant who was involved in a movement to stop military exercises by trespassing on U.S. Navy property argued to the court in allocution that \"the ones who are violating the greater law are the members of the Navy\". As a result, the judge increased her sentence from 40 to 60 days. This action was upheld because, according to the U.S. Court of Appeals for the First Circuit, her statement suggested a lack of remorse, an attempt to avoid responsibility for her actions, and even a likelihood of repeating her illegal actions. Some of the other allocution speeches given by the protesters complained about mistreatment from government officials.",
+    "reference_answer": "lack of remorse",
+    "options": []
+  },
+  {
+    "id": "squad_0026",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When were Joseph Schumpeter and Norman Angell at their most prolific writing period?",
+    "context": "The correlation between capitalism, aristocracy, and imperialism has long been debated among historians and political theorists. Much of the debate was pioneered by such theorists as J. A. Hobson (1858–1940), Joseph Schumpeter (1883–1950), Thorstein Veblen (1857–1929), and Norman Angell (1872–1967). While these non-Marxist writers were at their most prolific before World War I, they remained active in the interwar years. Their combined work informed the study of imperialism and it's impact on Europe, as well as contributed to reflections on the rise of the military-political complex in the United States from the 1950s. Hobson argued that domestic social reforms could cure the international disease of imperialism by removing its economic foundation. Hobson theorized that state intervention through taxation could boost broader consumption, create wealth, and encourage a peaceful, tolerant, multipolar world order.",
+    "reference_answer": "before World War I",
+    "options": []
+  },
+  {
+    "id": "squad_0027",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How do competing businesses attract workers?",
+    "context": "In a purely capitalist mode of production (i.e. where professional and labor organizations cannot limit the number of workers) the workers wages will not be controlled by these organizations, or by the employer, but rather by the market. Wages work in the same way as prices for any other good. Thus, wages can be considered as a function of market price of skill. And therefore, inequality is driven by this price. Under the law of supply and demand, the price of skill is determined by a race between the demand for the skilled worker and the supply of the skilled worker. \"On the other hand, markets can also concentrate wealth, pass environmental costs on to society, and abuse workers and consumers.\" \"Markets, by themselves, even when they are stable, often lead to high levels of inequality, outcomes that are widely viewed as unfair.\" Employers who offer a below market wage will find that their business is chronically understaffed. Their competitors will take advantage of the situation by offering a higher wage the best of their labor. For a businessman who has the profit motive as the prime interest, it is a losing proposition to offer below or above market wages to workers.",
+    "reference_answer": "offering a higher wage",
+    "options": []
+  },
+  {
+    "id": "squad_0028",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many teams up to Super Bowl 50 have been to the championship game eight times?",
+    "context": "For the third straight season, the number one seeds from both conferences met in the Super Bowl. The Carolina Panthers became one of only ten teams to have completed a regular season with only one loss, and one of only six teams to have acquired a 15–1 record, while the Denver Broncos became one of four teams to have made eight appearances in the Super Bowl. The Broncos made their second Super Bowl appearance in three years, having reached Super Bowl XLVIII, while the Panthers made their second Super Bowl appearance in franchise history, their other appearance being Super Bowl XXXVIII. Coincidentally, both teams were coached by John Fox in their last Super Bowl appearance prior to Super Bowl 50.",
+    "reference_answer": "four",
+    "options": []
+  },
+  {
+    "id": "squad_0029",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What plants create most electric power?",
+    "context": "The weight of boilers and condensers generally makes the power-to-weight ratio of a steam plant lower than for internal combustion engines. For mobile applications steam has been largely superseded by internal combustion engines or electric motors. However, most electric power is generated using steam turbine plant, so that indirectly the world's industry is still dependent on steam power. Recent concerns about fuel sources and pollution have incited a renewed interest in steam both as a component of cogeneration processes and as a prime mover. This is becoming known as the Advanced Steam movement.[citation needed]",
+    "reference_answer": "steam turbine",
+    "options": []
+  },
+  {
+    "id": "squad_0030",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "The epidemic in Newcastle was the most what in any British city at the time?",
+    "context": "In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families. They were so called because they worked on the keels, boats that were used to transfer coal from the river banks to the waiting colliers, for export to London and elsewhere. In the 1630s about 7,000 out of 20,000 inhabitants of Newcastle died of plague, more than one-third of the population. Specifically within the year 1636, it is roughly estimated with evidence held by the Society of Antiquaries that 47% of the then population of Newcastle died from the epidemic; this may also have been the most devastating loss in any British City in this period.",
+    "reference_answer": "devastating loss",
+    "options": []
+  },
+  {
+    "id": "squad_0031",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What additional srevice did BSkyB offer besides Video on Demand that they claimed offered \"substantially more value\"?",
+    "context": "In 2007, BSkyB and Virgin Media became involved in a dispute over the carriage of Sky channels on cable TV. The failure to renew the existing carriage agreements negotiated with NTL and Telewest resulted in Virgin Media removing the basic channels from the network on 1 March 2007. Virgin Media claimed that BSkyB had substantially increased the asking price for the channels, a claim which BSkyB denied, on the basis that their new deal offered \"substantially more value\" by including HD channels and Video On Demand content which was not previously carried by cable.",
+    "reference_answer": "HD channels",
+    "options": []
+  },
+  {
+    "id": "squad_0032",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who did Tesla think would run the world of the future?",
+    "context": "In 1926, Tesla commented on the ills of the social subservience of women and the struggle of women toward gender equality, and indicated that humanity's future would be run by \"Queen Bees.\" He believed that women would become the dominant sex in the future.",
+    "reference_answer": "women",
+    "options": []
+  },
+  {
+    "id": "squad_0033",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What have many HT members graduated to joining?",
+    "context": "HT does not engage in armed jihad or work for a democratic system, but works to take power through \"ideological struggle\" to change Muslim public opinion, and in particular through elites who will \"facilitate\" a \"change of the government,\" i.e., launch a \"bloodless\" coup. It allegedly attempted and failed such coups in 1968 and 1969 in Jordan, and in 1974 in Egypt, and is now banned in both countries. But many HT members have gone on to join terrorist groups and many jihadi terrorists have cited HT as their key influence.",
+    "reference_answer": "terrorist groups",
+    "options": []
+  },
+  {
+    "id": "squad_0034",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Approximately how many items are in the costume collection of the V&A?",
+    "context": "The costume collection is the most comprehensive in Britain, containing over 14,000 outfits plus accessories, mainly dating from 1600 to the present. Costume sketches, design notebooks, and other works on paper are typically held by the Word and Image department. Because everyday clothing from previous eras has not generally survived, the collection is dominated by fashionable clothes made for special occasions. One of the first significant gifts of costume came in 1913 when the V&A received the Talbot Hughes collection containing 1,442 costumes and items as a gift from Harrods following its display at the nearby department store.",
+    "reference_answer": "over 14,000",
+    "options": []
+  },
+  {
+    "id": "squad_0035",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which park is home to the Fresno Chafffee Zoo?",
+    "context": "Fresno has three large public parks, two in the city limits and one in county land to the southwest. Woodward Park, which features the Shinzen Japanese Gardens, numerous picnic areas and several miles of trails, is in North Fresno and is adjacent to the San Joaquin River Parkway. Roeding Park, near Downtown Fresno, is home to the Fresno Chaffee Zoo, and Rotary Storyland and Playland. Kearney Park is the largest of the Fresno region's park system and is home to historic Kearney Mansion and plays host to the annual Civil War Revisited, the largest reenactment of the Civil War in the west coast of the U.S.",
+    "reference_answer": "Roeding Park",
+    "options": []
+  },
+  {
+    "id": "squad_0036",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?",
+    "context": "For many geologic applications, isotope ratios of radioactive elements are measured in minerals that give the amount of time that has passed since a rock passed through its particular closure temperature, the point at which different radiometric isotopes stop diffusing into and out of the crystal lattice. These are used in geochronologic and thermochronologic studies. Common methods include uranium-lead dating, potassium-argon dating, argon-argon dating and uranium-thorium dating. These methods are used for a variety of applications. Dating of lava and volcanic ash layers found within a stratigraphic sequence can provide absolute age data for sedimentary rock units which do not contain radioactive isotopes and calibrate relative dating techniques. These methods can also be used to determine ages of pluton emplacement. Thermochemical techniques can be used to determine temperature profiles within the crust, the uplift of mountain ranges, and paleotopography.",
+    "reference_answer": "particular closure temperature",
+    "options": []
+  },
+  {
+    "id": "squad_0037",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What could someone be investigated for?",
+    "context": "The functions of the teacher's colleges may include setting out clear standards of practice, providing for the ongoing education of teachers, investigating complaints involving members, conducting hearings into allegations of professional misconduct and taking appropriate disciplinary action and accrediting teacher education programs. In many situations teachers in publicly funded schools must be members in good standing with the college, and private schools may also require their teachers to be college peoples. In other areas these roles may belong to the State Board of Education, the Superintendent of Public Instruction, the State Education Agency or other governmental bodies. In still other areas Teaching Unions may be responsible for some or all of these duties.",
+    "reference_answer": "allegations of professional misconduct",
+    "options": []
+  },
+  {
+    "id": "squad_0038",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What are examples of economic actors?",
+    "context": "Neoclassical economics views inequalities in the distribution of income as arising from differences in value added by labor, capital and land. Within labor income distribution is due to differences in value added by different classifications of workers. In this perspective, wages and profits are determined by the marginal value added of each economic actor (worker, capitalist/business owner, landlord). Thus, in a market economy, inequality is a reflection of the productivity gap between highly-paid professions and lower-paid professions.",
+    "reference_answer": "worker, capitalist/business owner, landlord",
+    "options": []
+  },
+  {
+    "id": "squad_0039",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What field involves the study of the immune system?",
+    "context": "Disorders of the immune system can result in autoimmune diseases, inflammatory diseases and cancer. Immunodeficiency occurs when the immune system is less active than normal, resulting in recurring and life-threatening infections. In humans, immunodeficiency can either be the result of a genetic disease such as severe combined immunodeficiency, acquired conditions such as HIV/AIDS, or the use of immunosuppressive medication. In contrast, autoimmunity results from a hyperactive immune system attacking normal tissues as if they were foreign organisms. Common autoimmune diseases include Hashimoto's thyroiditis, rheumatoid arthritis, diabetes mellitus type 1, and systemic lupus erythematosus. Immunology covers the study of all aspects of the immune system.",
+    "reference_answer": "Immunology",
+    "options": []
+  },
+  {
+    "id": "squad_0040",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What are the phagocytes that are located in tissues in contact with the external environment called?",
+    "context": "Dendritic cells (DC) are phagocytes in tissues that are in contact with the external environment; therefore, they are located mainly in the skin, nose, lungs, stomach, and intestines. They are named for their resemblance to neuronal dendrites, as both have many spine-like projections, but dendritic cells are in no way connected to the nervous system. Dendritic cells serve as a link between the bodily tissues and the innate and adaptive immune systems, as they present antigens to T cells, one of the key cell types of the adaptive immune system.",
+    "reference_answer": "Dendritic cells",
+    "options": []
+  },
+  {
+    "id": "squad_0041",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What did the merchants of Newcastle plot to do to Timothy Dexter?",
+    "context": "From 1530 a royal act restricted all shipments of coal from Tyneside to Newcastle Quayside, giving a monopoly in the coal trade to a cartel of Newcastle burgesses known as the Hostmen. This monopoly, which lasted for a considerable time, helped Newcastle prosper and develop into a major town. The phrase taking coals to Newcastle was first recorded contextually in 1538. The phrase itself means a pointless pursuit. In the 18th century American Timothy Dexter, an entrepreneur, widely regarded as an eccentric, defied this idiom. He was persuaded to sail a shipment of coal to Newcastle by merchants plotting to ruin him; however his shipment arrived on the Tyne during a strike that had crippled local production; unexpectedly he made a considerable profit.",
+    "reference_answer": "ruin him",
+    "options": []
+  },
+  {
+    "id": "squad_0042",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What job did Tesla's father have in Gospic?",
+    "context": "Tesla was the fourth of five children. He had an older brother named Dane and three sisters, Milka, Angelina and Marica. Dane was killed in a horse-riding accident when Nikola was five. In 1861, Tesla attended the \"Lower\" or \"Primary\" School in Smiljan where he studied German, arithmetic, and religion. In 1862, the Tesla family moved to Gospić, Austrian Empire, where Tesla's father worked as a pastor. Nikola completed \"Lower\" or \"Primary\" School, followed by the \"Lower Real Gymnasium\" or \"Normal School.\"",
+    "reference_answer": "pastor",
+    "options": []
+  },
+  {
+    "id": "squad_0043",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which hotel did the Panthers stay at for the Super Bowl?",
+    "context": "The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott.",
+    "reference_answer": "San Jose Marriott.",
+    "options": []
+  },
+  {
+    "id": "squad_0044",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What are other alternative names for French and Indian War?",
+    "context": "The conflict is known by multiple names. In British America, wars were often named after the sitting British monarch, such as King William's War or Queen Anne's War. As there had already been a King George's War in the 1740s, British colonists named the second war in King George's reign after their opponents, and it became known as the French and Indian War. This traditional name continues as the standard in the United States, but it obscures the fact that Indians fought on both sides of the conflict, and that this was part of the Seven Years' War, a much larger conflict between France and Great Britain. American historians generally use the traditional name or sometimes the Seven Years' War. Other, less frequently used names for the war include the Fourth Intercolonial War and the Great War for the Empire.",
+    "reference_answer": "Fourth Intercolonial War and the Great War for the Empire",
+    "options": []
+  },
+  {
+    "id": "squad_0045",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Outside of its use of automobiles, what else is southern California famous for using?",
+    "context": "Southern California consists of a heavily developed urban environment, home to some of the largest urban areas in the state, along with vast areas that have been left undeveloped. It is the third most populated megalopolis in the United States, after the Great Lakes Megalopolis and the Northeastern megalopolis. Much of southern California is famous for its large, spread-out, suburban communities and use of automobiles and highways. The dominant areas are Los Angeles, Orange County, San Diego, and Riverside-San Bernardino, each of which is the center of its respective metropolitan area, composed of numerous smaller cities and communities. The urban area is also host to an international metropolitan region in the form of San Diego–Tijuana, created by the urban area spilling over into Baja California.",
+    "reference_answer": "highways",
+    "options": []
+  },
+  {
+    "id": "squad_0046",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What was the last name of the designers of Newcastle's library?",
+    "context": "The Literary and Philosophical Society of Newcastle upon Tyne (popularly known as the 'Lit & Phil') is the largest independent library outside London, housing more than 150,000 books. Its music library contains 8000 CDs and 10,000 LPs. The current Lit and Phil premises were built in 1825 and the building was designed by John and Benjamin Green. Operating since 1793 and founded as a ‘conversation club,’ its lecture theatre was the first public building to be lit by electric light, during a lecture by Joseph Swan on 20 October 1880.",
+    "reference_answer": "Green",
+    "options": []
+  },
+  {
+    "id": "squad_0047",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many people were on the test flight of the AS-206?",
+    "context": "After an unmanned LM test flight AS-206, a crew would fly the first Block II CSM and LM in a dual mission known as AS-207/208, or AS-278 (each spacecraft would be launched on a separate Saturn IB.) The Block II crew positions were titled Commander (CDR) Command Module Pilot (CMP) and Lunar Module Pilot (LMP). The astronauts would begin wearing a new Apollo spacesuit, designed to accommodate lunar extravehicular activity (EVA). The traditional visor helmet was replaced with a clear \"fishbowl\" type for greater visibility, and the lunar surface EVA suit would include a water-cooled undergarment.",
+    "reference_answer": "unmanned",
+    "options": []
+  },
+  {
+    "id": "squad_0048",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is the state average growth rate?",
+    "context": "As of the 2010 United States Census, southern California has a population of 22,680,010. Despite a reputation for high growth rates, southern California's rate grew less than the state average of 10.0% in the 2000s as California's growth became concentrated in the northern part of the state due to a stronger, tech-oriented economy in the Bay Area and an emerging Greater Sacramento region.",
+    "reference_answer": "10.0%",
+    "options": []
+  },
+  {
+    "id": "squad_0049",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When was the study on sequenced Y genomes published?",
+    "context": "The results of the Haensch study have since been confirmed and amended. Based on genetic evidence derived from Black Death victims in the East Smithfield burial site in England, Schuenemann et al. concluded in 2011 \"that the Black Death in medieval Europe was caused by a variant of Y. pestis that may no longer exist.\" A study published in Nature in October 2011 sequenced the genome of Y. pestis from plague victims and indicated that the strain that caused the Black Death is ancestral to most modern strains of the disease.",
+    "reference_answer": "October 2011",
+    "options": []
+  },
+  {
+    "id": "squad_0050",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many times prios has the Sun Life Stadium had Super Bowls?",
+    "context": "The league announced on October 16, 2012, that the two finalists were Sun Life Stadium and Levi's Stadium. The South Florida/Miami area has previously hosted the event 10 times (tied for most with New Orleans), with the most recent one being Super Bowl XLIV in 2010. The San Francisco Bay Area last hosted in 1985 (Super Bowl XIX), held at Stanford Stadium in Stanford, California, won by the home team 49ers. The Miami bid depended on whether the stadium underwent renovations. However, on May 3, 2013, the Florida legislature refused to approve the funding plan to pay for the renovations, dealing a significant blow to Miami's chances.",
+    "reference_answer": "10.",
+    "options": []
+  },
+  {
+    "id": "squad_0051",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What does Kitab Rudjdjar mean in English?",
+    "context": "Institutionally, the Normans combined the administrative machinery of the Byzantines, Arabs, and Lombards with their own conceptions of feudal law and order to forge a unique government. Under this state, there was great religious freedom, and alongside the Norman nobles existed a meritocratic bureaucracy of Jews, Muslims and Christians, both Catholic and Eastern Orthodox. The Kingdom of Sicily thus became characterized by Norman, Byzantine Greek, Arab, Lombard and \"native\" Sicilian populations living in harmony, and its Norman rulers fostered plans of establishing an Empire that would have encompassed Fatimid Egypt as well as the Crusader states in the Levant. One of the great geographical treatises of the Middle Ages, the \"Tabula Rogeriana\", was written by the Andalusian al-Idrisi for king Roger II of Sicily, and entitled \"Kitab Rudjdjar\" (\"The Book of Roger\").",
+    "reference_answer": "The Book of Roger",
+    "options": []
+  },
+  {
+    "id": "squad_0052",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Name one country that banned boating, driving and flying on Sundays.",
+    "context": "Despite being relatively unaffected by the embargo, the UK nonetheless faced an oil crisis of its own - a series of strikes by coal miners and railroad workers over the winter of 1973–74 became a major factor in the change of government. Heath asked the British to heat only one room in their houses over the winter. The UK, Germany, Italy, Switzerland and Norway banned flying, driving and boating on Sundays. Sweden rationed gasoline and heating oil. The Netherlands imposed prison sentences for those who used more than their ration of electricity.",
+    "reference_answer": "Germany",
+    "options": []
+  },
+  {
+    "id": "squad_0053",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "For how long did the plague stick around?",
+    "context": "The Black Death is thought to have originated in the arid plains of Central Asia, where it then travelled along the Silk Road, reaching Crimea by 1343. From there, it was most likely carried by Oriental rat fleas living on the black rats that were regular passengers on merchant ships. Spreading throughout the Mediterranean and Europe, the Black Death is estimated to have killed 30–60% of Europe's total population. In total, the plague reduced the world population from an estimated 450 million down to 350–375 million in the 14th century. The world population as a whole did not recover to pre-plague levels until the 17th century. The plague recurred occasionally in Europe until the 19th century.",
+    "reference_answer": "until the 19th century",
+    "options": []
+  },
+  {
+    "id": "squad_0054",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What channels were removed from the network in March of 2007?",
+    "context": "In 2007, BSkyB and Virgin Media became involved in a dispute over the carriage of Sky channels on cable TV. The failure to renew the existing carriage agreements negotiated with NTL and Telewest resulted in Virgin Media removing the basic channels from the network on 1 March 2007. Virgin Media claimed that BSkyB had substantially increased the asking price for the channels, a claim which BSkyB denied, on the basis that their new deal offered \"substantially more value\" by including HD channels and Video On Demand content which was not previously carried by cable.",
+    "reference_answer": "basic channels",
+    "options": []
+  },
+  {
+    "id": "squad_0055",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many total touchdowns did Cam Newton score?",
+    "context": "The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.",
+    "reference_answer": "45",
+    "options": []
+  },
+  {
+    "id": "squad_0056",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many original treaties establishing the EU protected fundamental rights?",
+    "context": "None of the original treaties establishing the European Union mention protection for fundamental rights. It was not envisaged for European Union measures, that is legislative and administrative actions by European Union institutions, to be subject to human rights. At the time the only concern was that member states should be prevented from violating human rights, hence the establishment of the European Convention on Human Rights in 1950 and the establishment of the European Court of Human Rights. The European Court of Justice recognised fundamental rights as general principle of European Union law as the need to ensure that European Union measures are compatible with the human rights enshrined in member states' constitution became ever more apparent. In 1999 the European Council set up a body tasked with drafting a European Charter of Human Rights, which could form the constitutional basis for the European Union and as such tailored specifically to apply to the European Union and its institutions. The Charter of Fundamental Rights of the European Union draws a list of fundamental rights from the European Convention on Human Rights and Fundamental Freedoms, the Declaration on Fundamental Rights produced by the European Parliament in 1989 and European Union Treaties.",
+    "reference_answer": "None",
+    "options": []
+  },
+  {
+    "id": "squad_0057",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What did BSkyB name their interactive service?",
+    "context": "BSkyB's digital service was officially launched on 1 October 1998 under the name Sky Digital, although small-scale tests were carried out before then. At this time the use of the Sky Digital brand made an important distinction between the new service and Sky's analogue services. Key selling points were the improvement in picture and sound quality, increased number of channels and an interactive service branded Open.... now called Sky Active, BSkyB competed with the ONdigital (later ITV Digital) terrestrial offering and cable services. Within 30 days, over 100,000 digiboxes had been sold, which help bolstered BSkyB's decision to give away free digiboxes and minidishes from May 1999.",
+    "reference_answer": "Sky Active",
+    "options": []
+  },
+  {
+    "id": "squad_0058",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many inhabitants does the Los Angeles area contain?",
+    "context": "Southern California includes the heavily built-up urban area stretching along the Pacific coast from Ventura, through the Greater Los Angeles Area and the Inland Empire, and down to Greater San Diego. Southern California's population encompasses seven metropolitan areas, or MSAs: the Los Angeles metropolitan area, consisting of Los Angeles and Orange counties; the Inland Empire, consisting of Riverside and San Bernardino counties; the San Diego metropolitan area; the Oxnard–Thousand Oaks–Ventura metropolitan area; the Santa Barbara metro area; the San Luis Obispo metropolitan area; and the El Centro area. Out of these, three are heavy populated areas: the Los Angeles area with over 12 million inhabitants, the Riverside-San Bernardino area with over four million inhabitants, and the San Diego area with over 3 million inhabitants. For CSA metropolitan purposes, the five counties of Los Angeles, Orange, Riverside, San Bernardino, and Ventura are all combined to make up the Greater Los Angeles Area with over 17.5 million people. With over 22 million people, southern California contains roughly 60 percent of California's population.",
+    "reference_answer": "12 million",
+    "options": []
+  },
+  {
+    "id": "squad_0059",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "During what period did the Tower Theatre re-open?",
+    "context": "This vibrant and culturally diverse area of retail businesses and residences experienced a renewal after a significant decline in the late 1960s and 1970s.[citation needed] After decades of neglect and suburban flight, the neighborhood revival followed the re-opening of the Tower Theatre in the late 1970s, which at that time showed second and third run movies, along with classic films. Roger Rocka's Dinner Theater & Good Company Players also opened nearby in 1978,[citation needed] at Olive and Wishon Avenues. Fresno native Audra McDonald performed in the leading roles of Evita and The Wiz at the theater while she was a high school student. McDonald subsequently became a leading performer on Broadway in New York City and a Tony award winning actress. Also in the Tower District is Good Company Players' 2nd Space Theatre.",
+    "reference_answer": "late 1970s",
+    "options": []
+  },
+  {
+    "id": "squad_0060",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What did Warsz own?",
+    "context": "Warsaw's name in the Polish language is Warszawa, approximately /vɑːrˈʃɑːvə/ (also formerly spelled Warszewa and Warszowa), meaning \"belonging to Warsz\", Warsz being a shortened form of the masculine name of Slavic origin Warcisław; see also etymology of Wrocław. Folk etymology attributes the city name to a fisherman, Wars, and his wife, Sawa. According to legend, Sawa was a mermaid living in the Vistula River with whom Wars fell in love. In actuality, Warsz was a 12th/13th-century nobleman who owned a village located at the modern-day site of Mariensztat neighbourhood. See also the Vršovci family which had escaped to Poland. The official city name in full is miasto stołeczne Warszawa (English: \"The Capital City of Warsaw\"). A native or resident of Warsaw is known as a Varsovian – in Polish warszawiak (male), warszawianka (female), warszawiacy (plural).",
+    "reference_answer": "a village",
+    "options": []
+  },
+  {
+    "id": "squad_0061",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who formed the government in Kenya?",
+    "context": "The first direct elections for native Kenyans to the Legislative Council took place in 1957. Despite British hopes of handing power to \"moderate\" local rivals, it was the Kenya African National Union (KANU) of Jomo Kenyatta that formed a government. The Colony of Kenya and the Protectorate of Kenya each came to an end on 12 December 1963 with independence being conferred on all of Kenya. The United Kingdom ceded sovereignty over the Colony of Kenya and, under an agreement dated 8 October 1963, the Sultan of Zanzibar agreed that simultaneous with independence for the Colony of Kenya, the Sultan would cease to have sovereignty over the Protectorate of Kenya so that all of Kenya would be one sovereign, independent state. In this way, Kenya became an independent country under the Kenya Independence Act 1963 of the United Kingdom. Exactly 12 months later on 12 December 1964, Kenya became a republic under the name \"Republic of Kenya\".",
+    "reference_answer": "Kenya African National Union (KANU) of Jomo Kenyatta",
+    "options": []
+  },
+  {
+    "id": "squad_0062",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What tool has measured the amount of dust that travels from the Sahara to the Amazon?",
+    "context": "NASA's CALIPSO satellite has measured the amount of dust transported by wind from the Sahara to the Amazon: an average 182 million tons of dust are windblown out of the Sahara each year, at 15 degrees west longitude, across 1,600 miles (2,600 km) over the Atlantic Ocean (some dust falls into the Atlantic), then at 35 degrees West longitude at the eastern coast of South America, 27.7 million tons (15%) of dust fall over the Amazon basin, 132 million tons of dust remain in the air, 43 million tons of dust are windblown and falls on the Caribbean Sea, past 75 degrees west longitude.",
+    "reference_answer": "NASA's CALIPSO satellite",
+    "options": []
+  },
+  {
+    "id": "squad_0063",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who sacked Newton with 11 seconds left in the first half?",
+    "context": "On Carolina's next possession fullback Mike Tolbert lost a fumble while being tackled by safety Darian Stewart, which linebacker Danny Trevathan recovered on the Broncos 40-yard line. However, the Panthers soon took the ball back when defensive end Kony Ealy tipped a Manning pass to himself and then intercepted it, returning the ball 19 yards to the Panthers 39-yard line with 1:55 left on the clock. The Panthers could not gain any yards with their possession and had to punt. After a Denver punt, Carolina drove to the Broncos 45-yard line. But with 11 seconds left, Newton was sacked by DeMarcus Ware as time expired in the half.",
+    "reference_answer": "DeMarcus Ware",
+    "options": []
+  },
+  {
+    "id": "squad_0064",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What was the hymn meant to examine students on?",
+    "context": "Luther's 1538 hymnic version of the Lord's Prayer, \"Vater unser im Himmelreich\", corresponds exactly to Luther's explanation of the prayer in the Small Catechism, with one stanza for each of the seven prayer petitions, plus opening and closing stanzas. The hymn functioned both as a liturgical setting of the Lord's Prayer and as a means of examining candidates on specific catechism questions. The extant manuscript shows multiple revisions, demonstrating Luther's concern to clarify and strengthen the text and to provide an appropriately prayerful tune. Other 16th- and 20th-century versifications of the Lord's Prayer have adopted Luther's tune, although modern texts are considerably shorter.",
+    "reference_answer": "specific catechism questions",
+    "options": []
+  },
+  {
+    "id": "squad_0065",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "In Nepalese private schools, what is the primary language of instruction?",
+    "context": "The other category of schools are those run and partly or fully funded by private individuals, private organizations and religious groups. The ones that accept government funds are called 'aided' schools. The private 'un-aided' schools are fully funded by private parties. The standard and the quality of education is quite high. Technically, these would be categorized as private schools, but many of them have the name \"Public School\" appended to them, e.g., the Galaxy Public School in Kathmandu. Most of the middle-class families send their children to such schools, which might be in their own city or far off, like boarding schools. The medium of education is English, but as a compulsory subject, Nepali and/or the state's official language is also taught. Preschool education is mostly limited to organized neighbourhood nursery schools.",
+    "reference_answer": "English",
+    "options": []
+  },
+  {
+    "id": "squad_0066",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What topic do private bills typically have?",
+    "context": "A further type of committee is normally set up to scrutinise private bills submitted to the Scottish Parliament by an outside party or promoter who is not a member of the Scottish Parliament or Scottish Government. Private bills normally relate to large-scale development projects such as infrastructure projects that require the use of land or property. Private Bill Committees have been set up to consider legislation on issues such as the development of the Edinburgh Tram Network, the Glasgow Airport Rail Link, the Airdrie-Bathgate Rail Link and extensions to the National Gallery of Scotland.",
+    "reference_answer": "large-scale development projects",
+    "options": []
+  },
+  {
+    "id": "squad_0067",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "To where did Ethelred flee?",
+    "context": "The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.",
+    "reference_answer": "Normandy",
+    "options": []
+  },
+  {
+    "id": "squad_0068",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What future Revolutionary key figures participated in this attack?",
+    "context": "Braddock (with George Washington as one of his aides) led about 1,500 army troops and provincial militia on an expedition in June 1755 to take Fort Duquesne. The expedition was a disaster. It was attacked by French and Indian soldiers ambushing them from up in trees and behind logs. Braddock called for a retreat. He was killed. Approximately 1,000 British soldiers were killed or injured. The remaining 500 British troops, led by George Washington, retreated to Virginia. Two future opponents in the American Revolutionary War, Washington and Thomas Gage, played key roles in organizing the retreat.",
+    "reference_answer": "Washington and Thomas Gage",
+    "options": []
+  },
+  {
+    "id": "squad_0069",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What style of lace is erroneously believed by some to have Huguenot influence?",
+    "context": "Some Huguenots settled in Bedfordshire, one of the main centres of the British lace industry at the time. Although 19th century sources have asserted that some of these refugees were lacemakers and contributed to the East Midlands lace industry, this is contentious. The only reference to immigrant lacemakers in this period is of twenty-five widows who settled in Dover, and there is no contemporary documentation to support there being Huguenot lacemakers in Bedfordshire. The implication that the style of lace known as 'Bucks Point' demonstrates a Huguenot influence, being a \"combination of Mechlin patterns on Lille ground\", is fallacious: what is now known as Mechlin lace did not develop until first half of the eighteenth century and lace with Mechlin patterns and Lille ground did not appear until the end of the 18th century, when it was widely copied throughout Europe.",
+    "reference_answer": "'Bucks Point'",
+    "options": []
+  },
+  {
+    "id": "squad_0070",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What did the number of legions in Roman times depend on?",
+    "context": "The Romans kept eight legions in five bases along the Rhine. The actual number of legions present at any base or in all, depended on whether a state or threat of war existed. Between about AD 14 and 180, the assignment of legions was as follows: for the army of Germania Inferior, two legions at Vetera (Xanten), I Germanica and XX Valeria (Pannonian troops); two legions at oppidum Ubiorum (\"town of the Ubii\"), which was renamed to Colonia Agrippina, descending to Cologne, V Alaudae, a Celtic legion recruited from Gallia Narbonensis and XXI, possibly a Galatian legion from the other side of the empire.",
+    "reference_answer": "threat of war",
+    "options": []
+  },
+  {
+    "id": "squad_0071",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Before dinner what were Tesla's working hours?",
+    "context": "Tesla worked every day from 9:00 a.m. until 6:00 p.m. or later, with dinner from exactly 8:10 p.m., at Delmonico's restaurant and later the Waldorf-Astoria Hotel. Tesla would telephone his dinner order to the headwaiter, who also could be the only one to serve him. \"The meal was required to be ready at eight o'clock ... He dined alone, except on the rare occasions when he would give a dinner to a group to meet his social obligations. Tesla would then resume his work, often until 3:00 a.m.\":283, 286",
+    "reference_answer": "9:00 a.m. until 6:00 p.m. or later",
+    "options": []
+  },
+  {
+    "id": "squad_0072",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What house was the site of a weaving school in Canterbury?",
+    "context": "Other evidence of the Walloons and Huguenots in Canterbury includes a block of houses in Turnagain Lane, where weavers' windows survive on the top floor, as many Huguenots worked as weavers. The Weavers, a half-timbered house by the river, was the site of a weaving school from the late 16th century to about 1830. (It has been adapted as a restaurant—see illustration above. The house derives its name from a weaving school which was moved there in the last years of the 19th century, reviving an earlier use.) Others refugees practised the variety of occupations necessary to sustain the community as distinct from the indigenous population. Such economic separation was the condition of the refugees' initial acceptance in the City. They also settled elsewhere in Kent, particularly Sandwich, Faversham and Maidstone—towns in which there used to be refugee churches.",
+    "reference_answer": "The Weavers",
+    "options": []
+  },
+  {
+    "id": "squad_0073",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is strongly linked to good student-teacher relationships?",
+    "context": "Research shows that student motivation and attitudes towards school are closely linked to student-teacher relationships. Enthusiastic teachers are particularly good at creating beneficial relations with their students. Their ability to create effective learning environments that foster student achievement depends on the kind of relationship they build with their students. Useful teacher-to-student interactions are crucial in linking academic success with personal achievement. Here, personal success is a student's internal goal of improving himself, whereas academic success includes the goals he receives from his superior. A teacher must guide his student in aligning his personal goals with his academic goals. Students who receive this positive influence show stronger self-confidence and greater personal and academic success than those without these teacher interactions.",
+    "reference_answer": "student motivation and attitudes towards school",
+    "options": []
+  },
+  {
+    "id": "squad_0074",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What does the First Company Law Directive article 11 require?",
+    "context": "Fourth, national courts have a duty to interpret domestic law \"as far as possible in the light of the wording and purpose of the directive\". Textbooks (though not the Court itself) often called this \"indirect effect\". In Marleasing SA v La Comercial SA the Court of Justice held that a Spanish Court had to interpret its general Civil Code provisions, on contracts lacking cause or defrauding creditors, to conform with the First Company Law Directive article 11, that required incorporations would only be nullified for a fixed list of reasons. The Court of Justice quickly acknowledged that the duty of interpretation cannot contradict plain words in a national statute. But, fifth, if a member state has failed to implement a Directive, a citizen may not be able to bring claims against other non-state parties, but can sue the member state itself for failure to implement the law. So, in Francovich v Italy, the Italian government had failed to set up an insurance fund for employees to claim unpaid wages if their employers had gone insolvent, as the Insolvency Protection Directive required. Francovich, the former employee of a bankrupt Venetian firm, was therefore allowed to claim 6 million Lira from the Italian government in damages for his loss. The Court of Justice held that if a Directive would confer identifiable rights on individuals, and there is a causal link between a member state's violation of EU and a claimant's loss, damages must be paid. The fact that the incompatible law is an Act of Parliament is no defence.",
+    "reference_answer": "incorporations would only be nullified for a fixed list of reasons",
+    "options": []
+  },
+  {
+    "id": "squad_0075",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What are two examples of cytotoxic or immunosuppressive drugs?",
+    "context": "Anti-inflammatory drugs are often used to control the effects of inflammation. Glucocorticoids are the most powerful of these drugs; however, these drugs can have many undesirable side effects, such as central obesity, hyperglycemia, osteoporosis, and their use must be tightly controlled. Lower doses of anti-inflammatory drugs are often used in conjunction with cytotoxic or immunosuppressive drugs such as methotrexate or azathioprine. Cytotoxic drugs inhibit the immune response by killing dividing cells such as activated T cells. However, the killing is indiscriminate and other constantly dividing cells and their organs are affected, which causes toxic side effects. Immunosuppressive drugs such as cyclosporin prevent T cells from responding to signals correctly by inhibiting signal transduction pathways.",
+    "reference_answer": "methotrexate or azathioprine",
+    "options": []
+  },
+  {
+    "id": "squad_0076",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What caused the need for principal Treaties that ended up forming the EU?",
+    "context": "The principal Treaties that form the European Union began with common rules for coal and steel, and then atomic energy, but more complete and formal institutions were established through the Treaty of Rome 1957 and the Maastricht Treaty 1992 (now: TFEU). Minor amendments were made during the 1960s and 1970s. Major amending treaties were signed to complete the development of a single, internal market in the Single European Act 1986, to further the development of a more social Europe in the Treaty of Amsterdam 1997, and to make minor amendments to the relative power of member states in the EU institutions in the Treaty of Nice 2001 and the Treaty of Lisbon 2007. Since its establishment, more member states have joined through a series of accession treaties, from the UK, Ireland, Denmark and Norway in 1972 (though Norway did not end up joining), Greece in 1979, Spain and Portugal 1985, Austria, Finland, Norway and Sweden in 1994 (though again Norway failed to join, because of lack of support in the referendum), the Czech Republic, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia in 2004, Romania and Bulgaria in 2007 and Croatia in 2013. Greenland signed a Treaty in 1985 giving it a special status.",
+    "reference_answer": "common rules for coal and steel, and then atomic energy",
+    "options": []
+  },
+  {
+    "id": "squad_0077",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who originally led the Space Task Group?",
+    "context": "It became clear that managing the Apollo program would exceed the capabilities of Robert R. Gilruth's Space Task Group, which had been directing the nation's manned space program from NASA's Langley Research Center. So Gilruth was given authority to grow his organization into a new NASA center, the Manned Spacecraft Center (MSC). A site was chosen in Houston, Texas, on land donated by Rice University, and Administrator Webb announced the conversion on September 19, 1961. It was also clear NASA would soon outgrow its practice of controlling missions from its Cape Canaveral Air Force Station launch facilities in Florida, so a new Mission Control Center would be included in the MSC.",
+    "reference_answer": "Robert R. Gilruth",
+    "options": []
+  },
+  {
+    "id": "squad_0078",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which female anchor from Today joined Hugh Downs on 20/20?",
+    "context": "In June 1978, Arledge created the newsmagazine 20/20; after its first episode received harshly negative reviews, the program – which debuted as a summer series, before becoming a year-round program in 1979 – was immediately revamped to feature a mix of in-depth stories and interviews, with Hugh Downs appointed as its anchor (later paired alongside his former Today colleague Barbara Walters). In February 1979, ABC sold its recording division to MCA Inc. for $20 million; the label was discontinued by March 5 of that year, and all of its 300 employees were laid off (the rights to the works of ABC Records and all of MCA's other labels have since been acquired by Universal Music Group).",
+    "reference_answer": "Barbara Walters",
+    "options": []
+  },
+  {
+    "id": "squad_0079",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is the estimate for the amount of tree species in the amazon tropical rain forest?",
+    "context": "The Amazon rainforest (Portuguese: Floresta Amazônica or Amazônia; Spanish: Selva Amazónica, Amazonía or usually Amazonia; French: Forêt amazonienne; Dutch: Amazoneregenwoud), also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf forest that covers most of the Amazon basin of South America. This basin encompasses 7,000,000 square kilometres (2,700,000 sq mi), of which 5,500,000 square kilometres (2,100,000 sq mi) are covered by the rainforest. This region includes territory belonging to nine nations. The majority of the forest is contained within Brazil, with 60% of the rainforest, followed by Peru with 13%, Colombia with 10%, and with minor amounts in Venezuela, Ecuador, Bolivia, Guyana, Suriname and French Guiana. States or departments in four nations contain \"Amazonas\" in their names. The Amazon represents over half of the planet's remaining rainforests, and comprises the largest and most biodiverse tract of tropical rainforest in the world, with an estimated 390 billion individual trees divided into 16,000 species.",
+    "reference_answer": "16,000 species",
+    "options": []
+  },
+  {
+    "id": "squad_0080",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What type of homes is Fresno known for?",
+    "context": "The area is also known for its early twentieth century homes, many of which have been restored in recent decades. The area includes many California Bungalow and American Craftsman style homes, Spanish Colonial Revival Style architecture, Mediterranean Revival Style architecture, Mission Revival Style architecture, and many Storybook houses designed by Fresno architects, Hilliard, Taylor & Wheeler. The residential architecture of the Tower District contrasts with the newer areas of tract homes urban sprawl in north and east areas of Fresno.",
+    "reference_answer": "early twentieth century homes",
+    "options": []
+  },
+  {
+    "id": "squad_0081",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What team had the best start ever in the NFL?",
+    "context": "Despite waiving longtime running back DeAngelo Williams and losing top wide receiver Kelvin Benjamin to a torn ACL in the preseason, the Carolina Panthers had their best regular season in franchise history, becoming the seventh team to win at least 15 regular season games since the league expanded to a 16-game schedule in 1978. Carolina started the season 14–0, not only setting franchise records for the best start and the longest single-season winning streak, but also posting the best start to a season by an NFC team in NFL history, breaking the 13–0 record previously shared with the 2009 New Orleans Saints and the 2011 Green Bay Packers. With their NFC-best 15–1 regular season record, the Panthers clinched home-field advantage throughout the NFC playoffs for the first time in franchise history. Ten players were selected to the Pro Bowl (the most in franchise history) along with eight All-Pro selections.",
+    "reference_answer": "Carolina Panthers",
+    "options": []
+  },
+  {
+    "id": "squad_0082",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which organic compounds contain the greatest amount of oxygen by mass?",
+    "context": "The element is found in almost all biomolecules that are important to (or generated by) life. Only a few common complex biomolecules, such as squalene and the carotenes, contain no oxygen. Of the organic compounds with biological relevance, carbohydrates contain the largest proportion by mass of oxygen. All fats, fatty acids, amino acids, and proteins contain oxygen (due to the presence of carbonyl groups in these acids and their ester residues). Oxygen also occurs in phosphate (PO3−\n4) groups in the biologically important energy-carrying molecules ATP and ADP, in the backbone and the purines (except adenine) and pyrimidines of RNA and DNA, and in bones as calcium phosphate and hydroxylapatite.",
+    "reference_answer": "carbohydrates",
+    "options": []
+  },
+  {
+    "id": "squad_0083",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What did Stiglitz present in 2009 regarding global inequality?",
+    "context": "Economist Joseph Stiglitz presented evidence in 2009 that both global inequality and inequality within countries prevent growth by limiting aggregate demand. Economist Branko Milanovic, wrote in 2001 that, \"The view that income inequality harms growth – or that improved equality can help sustain growth – has become more widely held in recent years. ... The main reason for this shift is the increasing importance of human capital in development. When physical capital mattered most, savings and investments were key. Then it was important to have a large contingent of rich people who could save a greater proportion of their income than the poor and invest it in physical capital. But now that human capital is scarcer than machines, widespread education has become the secret to growth.\"",
+    "reference_answer": "evidence",
+    "options": []
+  },
+  {
+    "id": "squad_0084",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Of what hollywood film company was UPT a subsidiary of when it merged with ABC?",
+    "context": "At the same time he made attempts to help grow ABC, Goldenson had been trying since mid-1953 to provide content for the network by contacting his old acquaintances in Hollywood, with whom he had worked when UPT was a subsidiary of Paramount Pictures. ABC's merger with UPT led to the creation of relationships with Hollywood's film production studios, breaking a quarantine that had existed at that time between film and television, the latter of which had previously been more connected to radio. ABC's flagship productions at the time were The Lone Ranger, based on the radio program of the same title, and The Adventures of Ozzie and Harriet, the latter of which (at 13 seasons, running from 1952 to 1965) held the record for the longest-running prime time comedy in U.S. television history, until it was surpassed by The Simpsons in 2002.",
+    "reference_answer": "Paramount Pictures",
+    "options": []
+  },
+  {
+    "id": "squad_0085",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When did the NFL announce that it would not use Roman numbers to designate the Super Bowl number?",
+    "context": "On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter \"L\" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.",
+    "reference_answer": "June 4, 2014",
+    "options": []
+  },
+  {
+    "id": "squad_0086",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many Huguenots were killed in Toulouse?",
+    "context": "In what became known as the St. Bartholomew's Day Massacre of 24 August – 3 October 1572, Catholics killed thousands of Huguenots in Paris. Similar massacres took place in other towns in the weeks following. The main provincial towns and cities experiencing the Massacre were Aix, Bordeaux, Bourges, Lyons, Meaux, Orleans, Rouen, Toulouse, and Troyes. Nearly 3,000 Protestants were slaughtered in Toulouse alone. The exact number of fatalities throughout the country is not known. On 23–24 August, between about 2,000 and 3,000 Protestants were killed in Paris and between 3,000 and 7,000 more in the French provinces. By 17 September, almost 25,000 Protestants had been massacred in Paris alone. Beyond Paris, the killings continued until 3 October. An amnesty granted in 1573 pardoned the perpetrators.[citation needed]",
+    "reference_answer": "Nearly 3,000",
+    "options": []
+  },
+  {
+    "id": "squad_0087",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is 'grey literature'?",
+    "context": "The IPCC does not carry out research nor does it monitor climate related data. Lead authors of IPCC reports assess the available information about climate change based on published sources. According to IPCC guidelines, authors should give priority to peer-reviewed sources. Authors may refer to non-peer-reviewed sources (the \"grey literature\"), provided that they are of sufficient quality. Examples of non-peer-reviewed sources include model results, reports from government agencies and non-governmental organizations, and industry journals. Each subsequent IPCC report notes areas where the science has improved since the previous report and also notes areas where further research is required.",
+    "reference_answer": "non-peer-reviewed sources",
+    "options": []
+  },
+  {
+    "id": "squad_0088",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What's the name of Newcastle's speedway team?",
+    "context": "Newcastle has a horse racing course at Gosforth Park. The city is also home to the Newcastle Eagles basketball team who play their home games at the new Sport Central complex at Northumbria University. The Eagles are the most successful team in the history of the British Basketball League (BBL). The city's speedway team Newcastle Diamonds are based at Brough Park in Byker, a venue that is also home to greyhound racing. Newcastle also hosts the start of the annual Great North Run, the world's largest half-marathon in which participants race over the Tyne Bridge into Gateshead and then towards the finish line 13.1 miles (21.1 km) away on the coast at South Shields. Another famous athletic event is the 5.9-mile (9.5 km) Blaydon Race (a road race from Newcastle to Blaydon), which has taken place on 9 June annually since 1981, to commemorate the celebrated Blaydon Races horse racing.",
+    "reference_answer": "Newcastle Diamonds",
+    "options": []
+  },
+  {
+    "id": "squad_0089",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What was the main reason for the show's suspension in 1989?",
+    "context": "During the ITV network strike of 1979, viewership peaked at 16 million.[citation needed] Figures remained respectable into the 1980s, but fell noticeably after the programme's 23rd series was postponed in 1985 and the show was off the air for 18 months. Its late 1980s performance of three to five million viewers was seen as poor at the time and was, according to the BBC Board of Control, a leading cause of the programme's 1989 suspension. Some fans considered this disingenuous, since the programme was scheduled against the soap opera Coronation Street, the most popular show at the time. After the series' revival in 2005 (the third notable period of high ratings), it has consistently had high viewership levels for the evening on which the episode is broadcast.",
+    "reference_answer": "Its late 1980s performance of three to five million viewers",
+    "options": []
+  },
+  {
+    "id": "squad_0090",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is the name of the port city that was created?",
+    "context": "The Swahili built Mombasa into a major port city and established trade links with other nearby city-states, as well as commercial centres in Persia, Arabia, and even India. By the 15th-century, Portuguese voyager Duarte Barbosa claimed that \"Mombasa is a place of great traffic and has a good harbour in which there are always moored small craft of many kinds and also great ships, both of which are bound from Sofala and others which come from Cambay and Melinde and others which sail to the island of Zanzibar.\"",
+    "reference_answer": "Mombasa",
+    "options": []
+  },
+  {
+    "id": "squad_0091",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When did Martin Luther receive his Doctor of Theology?",
+    "context": "On 19 October 1512, he was awarded his Doctor of Theology and, on 21 October 1512, was received into the senate of the theological faculty of the University of Wittenberg, having been called to the position of Doctor in Bible. He spent the rest of his career in this position at the University of Wittenberg.",
+    "reference_answer": "19 October 1512",
+    "options": []
+  },
+  {
+    "id": "squad_0092",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which phylum is more complex than sponges?",
+    "context": "Ctenophores form an animal phylum that is more complex than sponges, about as complex as cnidarians (jellyfish, sea anemones, etc.), and less complex than bilaterians (which include almost all other animals). Unlike sponges, both ctenophores and cnidarians have: cells bound by inter-cell connections and carpet-like basement membranes; muscles; nervous systems; and some have sensory organs. Ctenophores are distinguished from all other animals by having colloblasts, which are sticky and adhere to prey, although a few ctenophore species lack them.",
+    "reference_answer": "Ctenophores",
+    "options": []
+  },
+  {
+    "id": "squad_0093",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What other scientist influence Frank Burnet when he was formulating his theory of immunity?",
+    "context": "In the mid-1950s, Frank Burnet, inspired by a suggestion made by Niels Jerne, formulated the clonal selection theory (CST) of immunity. On the basis of CST, Burnet developed a theory of how an immune response is triggered according to the self/nonself distinction: \"self\" constituents (constituents of the body) do not trigger destructive immune responses, while \"nonself\" entities (pathogens, an allograft) trigger a destructive immune response. The theory was later modified to reflect new discoveries regarding histocompatibility or the complex \"two-signal\" activation of T cells. The self/nonself theory of immunity and the self/nonself vocabulary have been criticized, but remain very influential.",
+    "reference_answer": "Niels Jerne",
+    "options": []
+  },
+  {
+    "id": "squad_0094",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many volumes are contained in the library?",
+    "context": "Harvard is a large, highly residential research university. The nominal cost of attendance is high, but the University's large endowment allows it to offer generous financial aid packages. It operates several arts, cultural, and scientific museums, alongside the Harvard Library, which is the world's largest academic and private library system, comprising 79 individual libraries with over 18 million volumes. Harvard's alumni include eight U.S. presidents, several foreign heads of state, 62 living billionaires, 335 Rhodes Scholars, and 242 Marshall Scholars. To date, some 150 Nobel laureates, 18 Fields Medalists and 13 Turing Award winners have been affiliated as students, faculty, or staff.",
+    "reference_answer": "18 million volumes",
+    "options": []
+  },
+  {
+    "id": "squad_0095",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What does co-teaching get the students to focus on?",
+    "context": "Co-teaching has also become a new trend amongst educational institutions. Co-teaching is defined as two or more teachers working harmoniously to fulfill the needs of every student in the classroom. Co-teaching focuses the student on learning by providing a social networking support that allows them to reach their full cognitive potential. Co-teachers work in sync with one another to create a climate of learning.",
+    "reference_answer": "learning",
+    "options": []
+  },
+  {
+    "id": "squad_0096",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Of what mountain system are the Victorian Alps a part?",
+    "context": "The Victorian Alps in the northeast are the coldest part of Victoria. The Alps are part of the Great Dividing Range mountain system extending east-west through the centre of Victoria. Average temperatures are less than 9 °C (48 °F) in winter and below 0 °C (32 °F) in the highest parts of the ranges. The state's lowest minimum temperature of −11.7 °C (10.9 °F) was recorded at Omeo on 13 June 1965, and again at Falls Creek on 3 July 1970. Temperature extremes for the state are listed in the table below:",
+    "reference_answer": "Great Dividing Range",
+    "options": []
+  },
+  {
+    "id": "squad_0097",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What body part did Thomas Davis break during the NFC Championship Game?",
+    "context": "Carolina suffered a major setback when Thomas Davis, an 11-year veteran who had already overcome three ACL tears in his career, went down with a broken arm in the NFC Championship Game. Despite this, he insisted he would still find a way to play in the Super Bowl. His prediction turned out to be accurate.",
+    "reference_answer": "arm",
+    "options": []
+  },
+  {
+    "id": "squad_0098",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Whose First Law of Motion says that unless acted upon be forces, objects would continue to move at a constant velocity?",
+    "context": "Newton's First Law of Motion states that objects continue to move in a state of constant velocity unless acted upon by an external net force or resultant force. This law is an extension of Galileo's insight that constant velocity was associated with a lack of net force (see a more detailed description of this below). Newton proposed that every object with mass has an innate inertia that functions as the fundamental equilibrium \"natural state\" in place of the Aristotelian idea of the \"natural state of rest\". That is, the first law contradicts the intuitive Aristotelian belief that a net force is required to keep an object moving with constant velocity. By making rest physically indistinguishable from non-zero constant velocity, Newton's First Law directly connects inertia with the concept of relative velocities. Specifically, in systems where objects are moving with different velocities, it is impossible to determine which object is \"in motion\" and which object is \"at rest\". In other words, to phrase matters more technically, the laws of physics are the same in every inertial frame of reference, that is, in all frames related by a Galilean transformation.",
+    "reference_answer": "Newton",
+    "options": []
+  },
+  {
+    "id": "squad_0099",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How was scarcity managed in many countries?",
+    "context": "Price controls exacerbated the crisis in the US. The system limited the price of \"old oil\" (that which had already been discovered) while allowing newly discovered oil to be sold at a higher price to encourage investment. Predictably, old oil was withdrawn from the market, creating greater scarcity. The rule also discouraged development of alternative energies. The rule had been intended to promote oil exploration. Scarcity was addressed by rationing (as in many countries). Motorists faced long lines at gas stations beginning in summer 1972 and increasing by summer 1973.",
+    "reference_answer": "rationing",
+    "options": []
+  },
+  {
+    "id": "squad_0100",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Where did the residents of Antioch flee to?",
+    "context": "The plague struck various countries in the Middle East during the pandemic, leading to serious depopulation and permanent change in both economic and social structures. As it spread to western Europe, the disease entered the region from southern Russia also. By autumn 1347, the plague reached Alexandria in Egypt, probably through the port's trade with Constantinople, and ports on the Black Sea. During 1347, the disease travelled eastward to Gaza, and north along the eastern coast to cities in Lebanon, Syria and Palestine, including Ashkelon, Acre, Jerusalem, Sidon, Damascus, Homs, and Aleppo. In 1348–49, the disease reached Antioch. The city's residents fled to the north, most of them dying during the journey, but the infection had been spread to the people of Asia Minor.[citation needed]",
+    "reference_answer": "The city's residents fled to the north",
+    "options": []
+  },
+  {
+    "id": "squad_0101",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many of the remaining launches were successful?",
+    "context": "The Apollo program succeeded in achieving its goal of manned lunar landing, despite the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew during a prelaunch test. After the first landing, sufficient flight hardware remained for nine follow-on landings with a plan for extended lunar geological and astrophysical exploration. Budget cuts forced the cancellation of three of these. Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which disabled the command spacecraft's propulsion and life support. The crew returned to Earth safely by using the Lunar Module as a \"lifeboat\" for these functions.",
+    "reference_answer": "Five",
+    "options": []
+  },
+  {
+    "id": "squad_0102",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How do co-teachers work with each other to fulfill the needs of students?",
+    "context": "Co-teaching has also become a new trend amongst educational institutions. Co-teaching is defined as two or more teachers working harmoniously to fulfill the needs of every student in the classroom. Co-teaching focuses the student on learning by providing a social networking support that allows them to reach their full cognitive potential. Co-teachers work in sync with one another to create a climate of learning.",
+    "reference_answer": "harmoniously",
+    "options": []
+  },
+  {
+    "id": "squad_0103",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What creatures were the most popular monsters in the series?",
+    "context": "Doctor Who first appeared on BBC TV at 17:16:20 GMT, eighty seconds after the scheduled programme time, 5:15 pm, on Saturday, 23 November 1963. It was to be a regular weekly programme, each episode 25 minutes of transmission length. Discussions and plans for the programme had been in progress for a year. The head of drama, Canadian Sydney Newman, was mainly responsible for developing the programme, with the first format document for the series being written by Newman along with the head of the script department (later head of serials) Donald Wilson and staff writer C. E. Webber. Writer Anthony Coburn, story editor David Whitaker and initial producer Verity Lambert also heavily contributed to the development of the series.[note 1] The programme was originally intended to appeal to a family audience, as an educational programme using time travel as a means to explore scientific ideas and famous moments in history. On 31 July 1963 Whitaker commissioned Terry Nation to write a story under the title The Mutants. As originally written, the Daleks and Thals were the victims of an alien neutron bomb attack but Nation later dropped the aliens and made the Daleks the aggressors. When the script was presented to Newman and Wilson it was immediately rejected as the programme was not permitted to contain any \"bug-eyed monsters\". The first serial had been completed and the BBC believed it was crucial that the next one be a success, but The Mutants was the only script ready to go, so the show had little choice but to use it. According to producer Verity Lambert; \"We didn't have a lot of choice — we only had the Dalek serial to go ... We had a bit of a crisis of confidence because Donald [Wilson] was so adamant that we shouldn't make it. Had we had anything else ready we would have made that.\" Nation's script became the second Doctor Who serial – The Daleks (a.k.a. The Mutants). The serial introduced the eponymous aliens that would become the series' most popular monsters, and was responsible for the BBC's first merchandising boom.",
+    "reference_answer": "The Daleks (a.k.a. The Mutants)",
+    "options": []
+  },
+  {
+    "id": "squad_0104",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who did Britain exploit in India?",
+    "context": "Europe's expansion into territorial imperialism was largely focused on economic growth by collecting resources from colonies, in combination with assuming political control by military and political means. The colonization of India in the mid-18th century offers an example of this focus: there, the \"British exploited the political weakness of the Mughal state, and, while military activity was important at various times, the economic and administrative incorporation of local elites was also of crucial significance\" for the establishment of control over the subcontinent's resources, markets, and manpower. Although a substantial number of colonies had been designed to provide economic profit and to ship resources to home ports in the seventeenth and eighteenth centuries, Fieldhouse suggests that in the nineteenth and twentieth centuries in places such as Africa and Asia, this idea is not necessarily valid:",
+    "reference_answer": "the Mughal state",
+    "options": []
+  },
+  {
+    "id": "squad_0105",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who runs the University of Chicago?",
+    "context": "The University of Chicago is governed by a board of trustees. The Board of Trustees oversees the long-term development and plans of the university and manages fundraising efforts, and is composed of 50 members including the university President. Directly beneath the President are the Provost, fourteen Vice Presidents (including the Chief Financial Officer, Chief Investment Officer, and Dean of Students of the university), the Directors of Argonne National Laboratory and Fermilab, the Secretary of the university, and the Student Ombudsperson. As of August 2009[update], the Chairman of the Board of Trustees is Andrew Alper, and the President of the university is Robert Zimmer. In December 2013 it was announced that the Director of Argonne National Laboratory, Eric Isaacs, would become Provost. Isaacs was replaced as Provost in March 2016 by Daniel Diermeier.",
+    "reference_answer": "a board of trustees",
+    "options": []
+  },
+  {
+    "id": "squad_0106",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Hormones can alter the sensitivity of the immune system, so they can be referred to as what?",
+    "context": "Hormones can act as immunomodulators, altering the sensitivity of the immune system. For example, female sex hormones are known immunostimulators of both adaptive and innate immune responses. Some autoimmune diseases such as lupus erythematosus strike women preferentially, and their onset often coincides with puberty. By contrast, male sex hormones such as testosterone seem to be immunosuppressive. Other hormones appear to regulate the immune system as well, most notably prolactin, growth hormone and vitamin D.",
+    "reference_answer": "immunomodulators",
+    "options": []
+  },
+  {
+    "id": "squad_0107",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How much did Levi's Stadium cost?",
+    "context": "On May 21, 2013, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened in 2014. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.",
+    "reference_answer": "$1.2 billion",
+    "options": []
+  },
+  {
+    "id": "squad_0108",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many times has the South Florida/Miami area hosted the Super Bowl?",
+    "context": "The league announced on October 16, 2012, that the two finalists were Sun Life Stadium and Levi's Stadium. The South Florida/Miami area has previously hosted the event 10 times (tied for most with New Orleans), with the most recent one being Super Bowl XLIV in 2010. The San Francisco Bay Area last hosted in 1985 (Super Bowl XIX), held at Stanford Stadium in Stanford, California, won by the home team 49ers. The Miami bid depended on whether the stadium underwent renovations. However, on May 3, 2013, the Florida legislature refused to approve the funding plan to pay for the renovations, dealing a significant blow to Miami's chances.",
+    "reference_answer": "10",
+    "options": []
+  },
+  {
+    "id": "squad_0109",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How much of the population is Hindu?",
+    "context": "Sizeable minorities of other faiths do exist (Muslim 11.2%, indigenous beliefs 1.7%), and nonreligious 2.4%. Sixty percent of the Muslim population lives in Kenya's Coastal Region, comprising 50% of the total population there. Roughly 4% of Muslims are Ahmadiyya, 8% Shia and another 8% are non-denominational Muslims, while 73% are Sunni. Western areas of the Coast Region are mostly Christian. The upper part of Kenya's Eastern Region is home to 10% of the country's Muslims, where they constitute the majority religious group. In addition, there is a large Hindu population in Kenya (around 300,000), who have played a key role in the local economy; they are mostly of Indian origin.",
+    "reference_answer": "around 300,000",
+    "options": []
+  },
+  {
+    "id": "squad_0110",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When did the formation of the Holocene Rhine-Meuse delta begin?",
+    "context": "At the begin of the Holocene (~11,700 years ago), the Rhine occupied its Late-Glacial valley. As a meandering river, it reworked its ice-age braidplain. As sea-level continued to rise in the Netherlands, the formation of the Holocene Rhine-Meuse delta began (~8,000 years ago). Coeval absolute sea-level rise and tectonic subsidence have strongly influenced delta evolution. Other factors of importance to the shape of the delta are the local tectonic activities of the Peel Boundary Fault, the substrate and geomorphology, as inherited from the Last Glacial and the coastal-marine dynamics, such as barrier and tidal inlet formations.",
+    "reference_answer": "8,000 years ago",
+    "options": []
+  },
+  {
+    "id": "squad_0111",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which university has its origins in a school dealing with medicine and surgery?",
+    "context": "The city has two universities — Newcastle University and Northumbria University. Newcastle University has its origins in the School of Medicine and Surgery, established in 1834 and became independent from Durham University on 1 August 1963 to form the University of Newcastle upon Tyne. Newcastle University is now one of the UK's leading international universities. It won the coveted Sunday Times University of the Year award in 2000. Northumbria University has its origins in the Newcastle Polytechnic, established in 1969 and became the University of Northumbria at Newcastle in 1992 as part of the UK-wide process in which polytechnics became new universities. Northumbria University was voted 'Best New University' by The Times Good University Guide 2005 and also won a much coveted company award of the \"Most IT enabled organisation\" (in the UK), by the IT industry magazine Computing.",
+    "reference_answer": "Newcastle University",
+    "options": []
+  },
+  {
+    "id": "squad_0112",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How much carbon gets wasted by using O2 instead of CO2?",
+    "context": "Photorespiration can occur when the oxygen concentration is too high. Rubisco cannot distinguish between oxygen and carbon dioxide very well, so it can accidentally add O2 instead of CO2 to RuBP. This process reduces the efficiency of photosynthesis—it consumes ATP and oxygen, releases CO2, and produces no sugar. It can waste up to half the carbon fixed by the Calvin cycle. Several mechanisms have evolved in different lineages that raise the carbon dioxide concentration relative to oxygen within the chloroplast, increasing the efficiency of photosynthesis. These mechanisms are called carbon dioxide concentrating mechanisms, or CCMs. These include Crassulacean acid metabolism, C4 carbon fixation, and pyrenoids. Chloroplasts in C4 plants are notable as they exhibit a distinct chloroplast dimorphism.",
+    "reference_answer": "up to half the carbon fixed by the Calvin cycle",
+    "options": []
+  },
+  {
+    "id": "squad_0113",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Where was Marin's second fort constructed?",
+    "context": "In the spring of 1753, Paul Marin de la Malgue was given command of a 2,000-man force of Troupes de la Marine and Indians. His orders were to protect the King's land in the Ohio Valley from the British. Marin followed the route that Céloron had mapped out four years earlier, but where Céloron had limited the record of French claims to the burial of lead plates, Marin constructed and garrisoned forts. He first constructed Fort Presque Isle (near present-day Erie, Pennsylvania) on Lake Erie's south shore. He had a road built to the headwaters of LeBoeuf Creek. Marin constructed a second fort at Fort Le Boeuf (present-day Waterford, Pennsylvania), designed to guard the headwaters of LeBoeuf Creek. As he moved south, he drove off or captured British traders, alarming both the British and the Iroquois. Tanaghrisson, a chief of the Mingo, who were remnants of Iroquois and other tribes who had been driven west by colonial expansion. He intensely disliked the French (whom he accused of killing and eating his father). Traveling to Fort Le Boeuf, he threatened the French with military action, which Marin contemptuously dismissed.",
+    "reference_answer": "Fort Le Boeuf (present-day Waterford, Pennsylvania",
+    "options": []
+  },
+  {
+    "id": "squad_0114",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Where can a tribute to the fall of Warsaw be found?",
+    "context": "A fine tribute to the fall of Warsaw and history of Poland can be found in the Warsaw Uprising Museum and in the Katyń Museum which preserves the memory of the crime. The Warsaw Uprising Museum also operates a rare preserved and operating historic stereoscopic theatre, the Warsaw Fotoplastikon. The Museum of Independence preserves patriotic and political objects connected with Poland's struggles for independence. Dating back to 1936 Warsaw Historical Museum contains 60 rooms which host a permanent exhibition of the history of Warsaw from its origins until today.",
+    "reference_answer": "Warsaw Uprising Museum",
+    "options": []
+  },
+  {
+    "id": "squad_0115",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "On what service could the ESPN Deportes broadcast be streamed?",
+    "context": "CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. The ESPN Deportes Spanish broadcast was made available through WatchESPN.",
+    "reference_answer": "WatchESPN",
+    "options": []
+  },
+  {
+    "id": "squad_0116",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What characteristic identifies the French ancestry of some South Africans?",
+    "context": "Many of the farms in the Western Cape province in South Africa still bear French names. Many families, today mostly Afrikaans-speaking, have surnames indicating their French Huguenot ancestry. Examples include: Blignaut, Cilliers, de Klerk (Le Clercq), de Villiers, du Plessis, Du Preez (Des Pres), du Randt (Durand), du Toit, Duvenhage(Du Vinage), Franck, Fouche, Fourie (Fleurit), Gervais, Giliomee (Guilliaume), Gous/Gouws (Gauch), Hugo, Jordaan (Jourdan), Joubert, Kriek, Labuschagne (la Buscagne), le Roux, Lombard, Malan, Malherbe, Marais, Maree, Minnaar (Mesnard), Nel (Nell),Naude', Nortje (Nortier), Pienaar (Pinard), Retief (Retif), Rossouw (Rousseau), Taljaard (Taillard), TerBlanche, Theron, Viljoen (Villion) and Visagie (Visage). The wine industry in South Africa owes a significant debt to the Huguenots, some of whom had vineyards in France, or were brandy distillers, and used their skills in their new home.",
+    "reference_answer": "surnames",
+    "options": []
+  },
+  {
+    "id": "squad_0117",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What was the naval base called?",
+    "context": "The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium—one of the most important naval bases of the Adriatic—fell again to Byzantine hands.",
+    "reference_answer": "Dyrrachium",
+    "options": []
+  },
+  {
+    "id": "squad_0118",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How much did Tesla sell his AC patents to Westinghouse Electric for?",
+    "context": "The mid 1890s saw the conglomerate General Electric, backed by financier J. P. Morgan, involved in takeover attempts and patent battles with Westinghouse Electric. Although a patent-sharing agreement was signed between the two companies in 1896 Westinghouse was still cash-strapped from the financial warfare. To secure further loans, Westinghouse was forced to revisit Tesla's AC patent, which bankers considered a financial strain on the company (at that point Westinghouse had paid out an estimated $200,000 in licenses and royalties to Tesla, Brown, and Peck). In 1897, Westinghouse explained his financial difficulties to Tesla in stark terms, saying that if things continue the way they were he would no longer be in control of Westinghouse Electric and Tesla would have to \"deal with the bankers\" to try to collect future royalties. Westinghouse convinced Tesla to release his company from the licensing agreement over Tesla's AC patents in exchange for Westinghouse Electric purchasing the patents for a lump sum payment of $216,000; this provided Westinghouse a break from what, due to alternating current's rapid gain in popularity, had turned out to be an overly generous $2.50 per AC horsepower royalty.",
+    "reference_answer": "$216,000",
+    "options": []
+  },
+  {
+    "id": "squad_0119",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How is income determined in a market with variously skilled workers?",
+    "context": "Neoclassical economics views inequalities in the distribution of income as arising from differences in value added by labor, capital and land. Within labor income distribution is due to differences in value added by different classifications of workers. In this perspective, wages and profits are determined by the marginal value added of each economic actor (worker, capitalist/business owner, landlord). Thus, in a market economy, inequality is a reflection of the productivity gap between highly-paid professions and lower-paid professions.",
+    "reference_answer": "marginal value added of each economic actor",
+    "options": []
+  },
+  {
+    "id": "squad_0120",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What has caused China to suspend their railway project?",
+    "context": "Published comments on Kenya's Capital FM website by Liu Guangyuan, China's ambassador to Kenya, at the time of President Kenyatta's 2013 trip to Beijing, said, \"Chinese investment in Kenya ... reached $474 million, representing Kenya's largest source of foreign direct investment, and ... bilateral trade ... reached $2.84 billion\" in 2012. Kenyatta was \"[a]ccompanied by 60 Kenyan business people [and hoped to] ... gain support from China for a planned $2.5 billion railway from the southern Kenyan port of Mombasa to neighboring Uganda, as well as a nearly $1.8 billion dam\", according to a statement from the president's office also at the time of the trip. Base Titanium, a subsidiary of Base resources of Australia, shipped its first major consignment of minerals to China. About 25,000 tonnes of ilmenite was flagged off the Kenyan coastal town of Kilifi. The first shipment was expected to earn Kenya about Shs15 – Shs20 Billion in earnings. China has been causing environmental and social problems that include the recent suspension of the railway project.",
+    "reference_answer": "environmental and social problems",
+    "options": []
+  },
+  {
+    "id": "squad_0121",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What did Watt add to Newcomen's engine between 1763 and 1775?",
+    "context": "The next major step occurred when James Watt developed (1763–1775) an improved version of Newcomen's engine, with a separate condenser. Boulton and Watt's early engines used half as much coal as John Smeaton's improved version of Newcomen's. Newcomen's and Watt's early engines were \"atmospheric\". They were powered by air pressure pushing a piston into the partial vacuum generated by condensing steam, instead of the pressure of expanding steam. The engine cylinders had to be large because the only usable force acting on them was due to atmospheric pressure.",
+    "reference_answer": "condenser",
+    "options": []
+  },
+  {
+    "id": "squad_0122",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What kind of light is important for chloroplasts to divide?",
+    "context": "Light has been shown to be a requirement for chloroplast division. Chloroplasts can grow and progress through some of the constriction stages under poor quality green light, but are slow to complete division—they require exposure to bright white light to complete division. Spinach leaves grown under green light have been observed to contain many large dumbbell-shaped chloroplasts. Exposure to white light can stimulate these chloroplasts to divide and reduce the population of dumbbell-shaped chloroplasts.",
+    "reference_answer": "bright white light",
+    "options": []
+  },
+  {
+    "id": "squad_0123",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What are the only states where ABC doesn't have a licensed affiliate?",
+    "context": "Currently, New Jersey, Rhode Island and Delaware are the only U.S. states where ABC does not have a locally licensed affiliate (New Jersey is served by New York City O&O WABC-TV and Philadelphia O&O WPVI-TV; Rhode Island is served by New Bedford, Massachusetts-licensed WLNE; and Delaware is served by WPVI and Salisbury, Maryland affiliate WMDT). ABC maintains affiliations with low-power stations (broadcasting either in analog or digital) in a few markets, such as Birmingham, Alabama (WBMA-LD), Lima, Ohio (WLQP-LP) and South Bend, Indiana (WBND-LD). In some markets, including the former two mentioned, these stations also maintain digital simulcasts on a subchannel of a co-owned/co-managed full-power television station.",
+    "reference_answer": "New Jersey, Rhode Island and Delaware",
+    "options": []
+  },
+  {
+    "id": "squad_0124",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which Count did the Prince strike an arrangement with?",
+    "context": "Prince Louis de Condé, along with his sons Daniel and Osias,[citation needed] arranged with Count Ludwig von Nassau-Saarbrücken to establish a Huguenot community in present-day Saarland in 1604. The Count supported mercantilism and welcomed technically skilled immigrants into his lands, regardless of their religion. The Condés established a thriving glass-making works, which provided wealth to the principality for many years. Other founding families created enterprises based on textiles and such traditional Huguenot occupations in France. The community and its congregation remain active to this day, with descendants of many of the founding families still living in the region. Some members of this community emigrated to the United States in the 1890s.",
+    "reference_answer": "Count Ludwig von Nassau-Saarbrücken",
+    "options": []
+  },
+  {
+    "id": "squad_0125",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "From what project did the Apollo 11 crew consist entirely of?",
+    "context": "The G mission was achieved on Apollo 11 in July 1969 by an all-Gemini veteran crew consisting of Neil Armstrong, Michael Collins and Buzz Aldrin. Armstrong and Aldrin performed the first landing at the Sea of Tranquility at 20:17:40 UTC on July 20, 1969. They spent a total of 21 hours, 36 minutes on the surface, and spent 2 hours, 31 minutes outside the spacecraft, walking on the surface, taking photographs, collecting material samples, and deploying automated scientific instruments, while continuously sending black-and-white television back to Earth. The astronauts returned safely on July 24.",
+    "reference_answer": "Gemini",
+    "options": []
+  },
+  {
+    "id": "squad_0126",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When did Zhu Shijie die?",
+    "context": "Advances in polynomial algebra were made by mathematicians during the Yuan era. The mathematician Zhu Shijie (1249–1314) solved simultaneous equations with up to four unknowns using a rectangular array of coefficients, equivalent to modern matrices. Zhu used a method of elimination to reduce the simultaneous equations to a single equation with only one unknown. His method is described in the Jade Mirror of the Four Unknowns, written in 1303. The opening pages contain a diagram of Pascal's triangle. The summation of a finite arithmetic series is also covered in the book.",
+    "reference_answer": "1314",
+    "options": []
+  },
+  {
+    "id": "squad_0127",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What was the civil disobedience performed at the test site?",
+    "context": "When the Committee for Non-Violent Action sponsored a protest in August 1957, at the Camp Mercury nuclear test site near Las Vegas, Nevada, 13 of the protesters attempted to enter the test site knowing that they faced arrest. At a pre-arranged announced time, one at a time they stepped across the \"line\" and were immediately arrested. They were put on a bus and taken to the Nye County seat of Tonopah, Nevada, and arraigned for trial before the local Justice of the Peace, that afternoon. A well known civil rights attorney, Francis Heisler, had volunteered to defend the arrested persons, advising them to plead \"nolo contendere\", as an alternative to pleading either guilty or not-guilty. The arrested persons were found \"guilty,\" nevertheless, and given suspended sentences, conditional on their not reentering the test site grounds.[citation needed]",
+    "reference_answer": "tempted to enter the test site",
+    "options": []
+  },
+  {
+    "id": "squad_0128",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is another term for the pivot mounting?",
+    "context": "An oscillating cylinder steam engine is a variant of the simple expansion steam engine which does not require valves to direct steam into and out of the cylinder. Instead of valves, the entire cylinder rocks, or oscillates, such that one or more holes in the cylinder line up with holes in a fixed port face or in the pivot mounting (trunnion). These engines are mainly used in toys and models, because of their simplicity, but have also been used in full size working engines, mainly on ships where their compactness is valued.[citation needed]",
+    "reference_answer": "trunnion",
+    "options": []
+  },
+  {
+    "id": "squad_0129",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who did the Broncos tie with the most sacks in a Super Bowl?",
+    "context": "Super Bowl 50 featured numerous records from individuals and teams. Denver won despite being massively outgained in total yards (315 to 194) and first downs (21 to 11). Their 194 yards and 11 first downs were both the lowest totals ever by a Super Bowl winning team. The previous record was 244 yards by the Baltimore Ravens in Super Bowl XXXV. Only seven other teams had ever gained less than 200 yards in a Super Bowl, and all of them had lost. The Broncos' seven sacks tied a Super Bowl record set by the Chicago Bears in Super Bowl XX. Kony Ealy tied a Super Bowl record with three sacks. Jordan Norwood's 61-yard punt return set a new record, surpassing the old record of 45 yards set by John Taylor in Super Bowl XXIII. Denver was just 1-of-14 on third down, while Carolina was barely better at 3-of-15. The two teams' combined third down conversion percentage of 13.8 was a Super Bowl low. Manning and Newton had quarterback passer ratings of 56.6 and 55.4, respectively, and their added total of 112 is a record lowest aggregate passer rating for a Super Bowl. Manning became the oldest quarterback ever to win a Super Bowl at age 39, and the first quarterback ever to win a Super Bowl with two different teams, while Gary Kubiak became the first head coach to win a Super Bowl with the same franchise he went to the Super Bowl with as a player.",
+    "reference_answer": "Chicago Bears",
+    "options": []
+  },
+  {
+    "id": "squad_0130",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What power is available to Australian private schools but generally not present in public schools?",
+    "context": "Private schools in Australia may be favoured for many reasons: prestige and the social status of the 'old school tie'; better quality physical infrastructure and more facilities (e.g. playing fields, swimming pools, etc.), higher-paid teachers; and/or the belief that private schools offer a higher quality of education. Some schools offer the removal of the purported distractions of co-education; the presence of boarding facilities; or stricter discipline based on their power of expulsion, a tool not readily available to government schools. Student uniforms for Australian private schools are generally stricter and more formal than in government schools - for example, a compulsory blazer. Private schools in Australia are always more expensive than their public counterparts.[citation needed]",
+    "reference_answer": "expulsion",
+    "options": []
+  },
+  {
+    "id": "squad_0131",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What has the tendency to increase wages in a field or job position?",
+    "context": "A job where there are many workers willing to work a large amount of time (high supply) competing for a job that few require (low demand) will result in a low wage for that job. This is because competition between workers drives down the wage. An example of this would be jobs such as dish-washing or customer service. Competition amongst workers tends to drive down wages due to the expendable nature of the worker in relation to his or her particular job. A job where there are few able or willing workers (low supply), but a large need for the positions (high demand), will result in high wages for that job. This is because competition between employers for employees will drive up the wage. Examples of this would include jobs that require highly developed skills, rare abilities, or a high level of risk. Competition amongst employers tends to drive up wages due to the nature of the job, since there is a relative shortage of workers for the particular position. Professional and labor organizations may limit the supply of workers which results in higher demand and greater incomes for members. Members may also receive higher wages through collective bargaining, political influence, or corruption.",
+    "reference_answer": "Competition amongst workers",
+    "options": []
+  },
+  {
+    "id": "squad_0132",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What Chinese system did Kublai's government compromise with?",
+    "context": "Politically, the system of government created by Kublai Khan was the product of a compromise between Mongolian patrimonial feudalism and the traditional Chinese autocratic-bureaucratic system. Nevertheless, socially the educated Chinese elite were in general not given the degree of esteem that they had been accorded previously under native Chinese dynasties. Although the traditional Chinese elite were not given their share of power, the Mongols and the Semuren (various allied groups from Central Asia and the western end of the empire) largely remained strangers to the mainstream Chinese culture, and this dichotomy gave the Yuan regime a somewhat strong \"colonial\" coloration. The unequal treatment is possibly due to the fear of transferring power to the ethnic Chinese under their rule. The Mongols and Semuren were given certain advantages in the dynasty, and this would last even after the restoration of the imperial examination in the early 14th century. In general there were very few North Chinese or Southerners reaching the highest-post in the government compared with the possibility that Persians did so in the Ilkhanate. Later the Yongle Emperor of the Ming dynasty also mentioned the discrimination that existed during the Yuan dynasty. In response to an objection against the use of \"barbarians\" in his government, the Yongle Emperor answered: \"... Discrimination was used by the Mongols during the Yuan dynasty, who employed only \"Mongols and Tartars\" and discarded northern and southern Chinese and this was precisely the cause that brought disaster upon them\".",
+    "reference_answer": "traditional Chinese autocratic-bureaucratic system",
+    "options": []
+  },
+  {
+    "id": "squad_0133",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What is tuition for 2012 - 13 year at Harvard?",
+    "context": "For the 2012–13 school year annual tuition was $38,000, with a total cost of attendance of $57,000. Beginning 2007, families with incomes below $60,000 pay nothing for their children to attend, including room and board. Families with incomes between $60,000 to $80,000 pay only a few thousand dollars per year, and families earning between $120,000 and $180,000 pay no more than 10% of their annual incomes. In 2009, Harvard offered grants totaling $414 million across all eleven divisions;[further explanation needed] $340 million came from institutional funds, $35 million from federal support, and $39 million from other outside support. Grants total 88% of Harvard's aid for undergraduate students, with aid also provided by loans (8%) and work-study (4%).",
+    "reference_answer": "$38,000",
+    "options": []
+  },
+  {
+    "id": "squad_0134",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "How many tons of live plants were found to live in one square kilometer of the Amazon rainforest in 1999?",
+    "context": "The biodiversity of plant species is the highest on Earth with one 2001 study finding a quarter square kilometer (62 acres) of Ecuadorian rainforest supports more than 1,100 tree species. A study in 1999 found one square kilometer (247 acres) of Amazon rainforest can contain about 90,790 tonnes of living plants. The average plant biomass is estimated at 356 ± 47 tonnes per hectare. To date, an estimated 438,000 species of plants of economic and social interest have been registered in the region with many more remaining to be discovered or catalogued. The total number of tree species in the region is estimated at 16,000.",
+    "reference_answer": "90,790 tonnes",
+    "options": []
+  },
+  {
+    "id": "squad_0135",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When was consumption inequality lower than it had been in 1986?",
+    "context": "Conservative researchers have argued that income inequality is not significant because consumption, rather than income should be the measure of inequality, and inequality of consumption is less extreme than inequality of income in the US. Will Wilkinson of the libertarian Cato Institute states that \"the weight of the evidence shows that the run-up in consumption inequality has been considerably less dramatic than the rise in income inequality,\" and consumption is more important than income. According to Johnson, Smeeding, and Tory, consumption inequality was actually lower in 2001 than it was in 1986. The debate is summarized in \"The Hidden Prosperity of the Poor\" by journalist Thomas B. Edsall. Other studies have not found consumption inequality less dramatic than household income inequality, and the CBO's study found consumption data not \"adequately\" capturing \"consumption by high-income households\" as it does their income, though it did agree that household consumption numbers show more equal distribution than household income.",
+    "reference_answer": "2001",
+    "options": []
+  },
+  {
+    "id": "squad_0136",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "On what date did the first railway trip in the world occur?",
+    "context": "The first full-scale working railway steam locomotive was built by Richard Trevithick in the United Kingdom and, on 21 February 1804, the world's first railway journey took place as Trevithick's unnamed steam locomotive hauled a train along the tramway from the Pen-y-darren ironworks, near Merthyr Tydfil to Abercynon in south Wales. The design incorporated a number of important innovations that included using high-pressure steam which reduced the weight of the engine and increased its efficiency. Trevithick visited the Newcastle area later in 1804 and the colliery railways in north-east England became the leading centre for experimentation and development of steam locomotives.",
+    "reference_answer": "21 February 1804",
+    "options": []
+  },
+  {
+    "id": "squad_0137",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "When did the Yuan begin using bronze printing plates for its money?",
+    "context": "One of the more notable applications of printing technology was the chao, the paper money of the Yuan. Chao were made from the bark of mulberry trees. The Yuan government used woodblocks to print paper money, but switched to bronze plates in 1275. The Mongols experimented with establishing the Chinese-style paper monetary system in Mongol-controlled territories outside of China. The Yuan minister Bolad was sent to Iran, where he explained Yuan paper money to the Il-khanate court of Gaykhatu. The Il-khanate government issued paper money in 1294, but public distrust of the exotic new currency doomed the experiment.",
+    "reference_answer": "1275",
+    "options": []
+  },
+  {
+    "id": "squad_0138",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who ends up getting more of the teacher's resources in this scenario?",
+    "context": "Where school class sizes are typically 40 to 50 students, maintaining order in the classroom can divert the teacher from instruction, leaving little opportunity for concentration and focus on what is being taught. In response, teachers may concentrate their attention on motivated students, ignoring attention-seeking and disruptive students. The result of this is that motivated students, facing demanding university entrance examinations, receive disproportionate resources. Given the emphasis on attainment of university places, administrators and governors may regard this policy as appropriate.",
+    "reference_answer": "motivated students",
+    "options": []
+  },
+  {
+    "id": "squad_0139",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who made their Super Bowl commercial debut with Nintendo?",
+    "context": "CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. It was also the final year that Doritos, a longtime sponsor of the game, held its \"Crash the Super Bowl\" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.",
+    "reference_answer": "The Pokémon Company",
+    "options": []
+  },
+  {
+    "id": "squad_0140",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Which Treaty protects the freedom of establishment and the freedom to provide services?",
+    "context": "As well as creating rights for \"workers\" who generally lack bargaining power in the market, the Treaty on the Functioning of the European Union also protects the \"freedom of establishment\" in article 49, and \"freedom to provide services\" in article 56. In Gebhard v Consiglio dell’Ordine degli Avvocati e Procuratori di Milano the Court of Justice held that to be \"established\" means to participate in economic life \"on a stable and continuous basis\", while providing \"services\" meant pursuing activity more \"on a temporary basis\". This meant that a lawyer from Stuttgart, who had set up chambers in Milan and was censured by the Milan Bar Council for not having registered, was entitled to bring a claim under for establishment freedom, rather than service freedom. However, the requirements to be registered in Milan before being able to practice would be allowed if they were non-discriminatory, \"justified by imperative requirements in the general interest\" and proportionately applied. All people or entities that engage in economic activity, particularly the self-employed, or \"undertakings\" such as companies or firms, have a right to set up an enterprise without unjustified restrictions. The Court of Justice has held that both a member state government and a private party can hinder freedom of establishment, so article 49 has both \"vertical\" and \"horizontal\" direct effect. In Reyners v Belgium the Court of Justice held that a refusal to admit a lawyer to the Belgian bar because he lacked Belgian nationality was unjustified. TFEU article 49 says states are exempt from infringing others' freedom of establishment when they exercise \"official authority\", but this did an advocate's work (as opposed to a court's) was not official. By contrast in Commission v Italy the Court of Justice held that a requirement for lawyers in Italy to comply with maximum tariffs unless there was an agreement with a client was not a restriction. The Grand Chamber of the Court of Justice held the Commission had not proven that this had any object or effect of limiting practitioners from entering the market. Therefore, there was no prima facie infringement freedom of establishment that needed to be justified.",
+    "reference_answer": "the Treaty on the Functioning of the European Union",
+    "options": []
+  },
+  {
+    "id": "squad_0141",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Constitutional impasse is different from civil disobedience because does not include what type of person?",
+    "context": "Civil disobedience is usually defined as pertaining to a citizen's relation to the state and its laws, as distinguished from a constitutional impasse in which two public agencies, especially two equally sovereign branches of government, conflict. For instance, if the head of government of a country were to refuse to enforce a decision of that country's highest court, it would not be civil disobedience, since the head of government would be acting in her or his capacity as public official rather than private citizen.",
+    "reference_answer": "citizen's",
+    "options": []
+  },
+  {
+    "id": "squad_0142",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "While producing oxygen, what gas does a zeolite sieve absorb?",
+    "context": "The other major method of producing O\n2 gas involves passing a stream of clean, dry air through one bed of a pair of identical zeolite molecular sieves, which absorbs the nitrogen and delivers a gas stream that is 90% to 93% O\n2. Simultaneously, nitrogen gas is released from the other nitrogen-saturated zeolite bed, by reducing the chamber operating pressure and diverting part of the oxygen gas from the producer bed through it, in the reverse direction of flow. After a set cycle time the operation of the two beds is interchanged, thereby allowing for a continuous supply of gaseous oxygen to be pumped through a pipeline. This is known as pressure swing adsorption. Oxygen gas is increasingly obtained by these non-cryogenic technologies (see also the related vacuum swing adsorption).",
+    "reference_answer": "nitrogen",
+    "options": []
+  },
+  {
+    "id": "squad_0143",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What element makes up almost half of the earth's crust by mass?",
+    "context": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium. At standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula O\n2. Diatomic oxygen gas constitutes 20.8% of the Earth's atmosphere. However, monitoring of atmospheric oxygen levels show a global downward trend, because of fossil-fuel burning. Oxygen is the most abundant element by mass in the Earth's crust as part of oxide compounds such as silicon dioxide, making up almost half of the crust's mass.",
+    "reference_answer": "Oxygen",
+    "options": []
+  },
+  {
+    "id": "squad_0144",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Why do carotenoids make leaves change color in the fall?",
+    "context": "In addition to chlorophylls, another group of yellow–orange pigments called carotenoids are also found in the photosystems. There are about thirty photosynthetic carotenoids. They help transfer and dissipate excess energy, and their bright colors sometimes override the chlorophyll green, like during the fall, when the leaves of some land plants change color. β-carotene is a bright red-orange carotenoid found in nearly all chloroplasts, like chlorophyll a. Xanthophylls, especially the orange-red zeaxanthin, are also common. Many other forms of carotenoids exist that are only found in certain groups of chloroplasts.",
+    "reference_answer": "their bright colors sometimes override the chlorophyll green",
+    "options": []
+  },
+  {
+    "id": "squad_0145",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "What plants don't need light to make chloroplasts?",
+    "context": "If angiosperm shoots are not exposed to the required light for chloroplast formation, proplastids may develop into an etioplast stage before becoming chloroplasts. An etioplast is a plastid that lacks chlorophyll, and has inner membrane invaginations that form a lattice of tubes in their stroma, called a prolamellar body. While etioplasts lack chlorophyll, they have a yellow chlorophyll precursor stocked. Within a few minutes of light exposure, the prolamellar body begins to reorganize into stacks of thylakoids, and chlorophyll starts to be produced. This process, where the etioplast becomes a chloroplast, takes several hours. Gymnosperms do not require light to form chloroplasts.",
+    "reference_answer": "Gymnosperms",
+    "options": []
+  },
+  {
+    "id": "squad_0146",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Where can the Treatise be found?",
+    "context": "During the same year, Tesla wrote a treatise, The Art of Projecting Concentrated Non-dispersive Energy through the Natural Media, concerning charged particle beam weapons. Tesla published the document in an attempt to expound on the technical description of a \"superweapon that would put an end to all war.\" This treatise is currently in the Nikola Tesla Museum archive in Belgrade. It describes an open-ended vacuum tube with a gas jet seal that allows particles to exit, a method of charging particles to millions of volts, and a method of creating and directing non-dispersive particle streams (through electrostatic repulsion). Tesla tried to interest the US War Department, the United Kingdom, the Soviet Union, and Yugoslavia in the device.",
+    "reference_answer": "Nikola Tesla Museum archive",
+    "options": []
+  },
+  {
+    "id": "squad_0147",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Who was given the highlights of most of the matches?",
+    "context": "In the autumn of 1991, talks were held for the broadcast rights for Premier League for a five-year period, from the 1992 season. ITV were the current rights holders, and fought hard to retain the new rights. ITV had increased its offer from £18m to £34m per year to keep control of the rights. BSkyB joined forces with the BBC to make a counter bid. The BBC was given the highlights of most of the matches, while BSkyB paying £304m for the Premier League rights, would give them a monopoly of all live matches, up to 60 per year from the 1992 season.  Murdoch described sport as a \"battering ram\" for pay-television, providing a strong customer base. A few weeks after the deal, ITV went to the High Court to get an injunction as it believed their bid details had been leaked before the decision was taken. ITV also asked the Office of Fair Trading to investigate since it believed Rupert Murdoch's media empire via its newspapers had influenced the deal. A few days later neither action took effect, ITV believed BSkyB was telephoned and informed of its £262m bid, and Premier League advised BSkyB to increase its counter bid.",
+    "reference_answer": "BBC",
+    "options": []
+  },
+  {
+    "id": "squad_0148",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "Where does the Rhine begin?",
+    "context": "The Rhine (Romansh: Rein, German: Rhein, French: le Rhin, Dutch: Rijn) is a European river that begins in the Swiss canton of Graubünden in the southeastern Swiss Alps, forms part of the Swiss-Austrian, Swiss-Liechtenstein border, Swiss-German and then the Franco-German border, then flows through the Rhineland and eventually empties into the North Sea in the Netherlands. The biggest city on the river Rhine is Cologne, Germany with a population of more than 1,050,000 people. It is the second-longest river in Central and Western Europe (after the Danube), at about 1,230 km (760 mi),[note 2][note 1] with an average discharge of about 2,900 m3/s (100,000 cu ft/s).",
+    "reference_answer": "Swiss canton",
+    "options": []
+  },
+  {
+    "id": "squad_0149",
+    "source_dataset": "SQuAD",
+    "subject": "reading_comprehension",
+    "question": "ABC had secondary status on the existing stations in what Ohio town?",
+    "context": "As a result, with the exception of the largest markets, ABC was relegated to secondary status on one or both of the existing stations, usually via off-hours clearances (a notable exception during this time was WKST-TV in Youngstown, Ohio, now WYTV, despite the small size of the surrounding market and its close proximity to Cleveland and Pittsburgh even decades before the city's economic collapse). According to Goldenson, this meant that an hour of ABC programming reported five times lower viewership than its competitors. However, the network's intake of money at the time would allow it to accelerate its content production. Still, ABC's limited reach would continue to hobble it for the next two decades; several smaller markets would not grow large enough to support a full-time ABC affiliate until the 1960s, with some very small markets having to wait as late as the 1980s or even the advent of digital television in the 2000s, which allowed stations like WTRF-TV in Wheeling, West Virginia to begin airing ABC programming on a digital subchannel after airing the network's programs outside of recommended timeslots decades before.",
+    "reference_answer": "Youngstown",
+    "options": []
+  }
+]

@@ -1,0 +1,16 @@
+dataset_a,dataset_b,test,metric,statistic,p_value,significant_0.05,significant_0.01
+SciQ,OpenBookQA,Wilcoxon,judge_score,193.0,0.005081,True,True
+SciQ,ARC-Easy,Wilcoxon,judge_score,164.0,0.53954,False,False
+SciQ,ARC-Challenge,Wilcoxon,judge_score,202.0,0.011882,True,False
+SciQ,RACE,Wilcoxon,judge_score,259.5,2.5e-05,True,True
+SciQ,SQuAD,Wilcoxon,judge_score,296.5,0.539646,False,False
+OpenBookQA,ARC-Easy,Wilcoxon,judge_score,208.0,0.027241,True,False
+OpenBookQA,ARC-Challenge,Wilcoxon,judge_score,499.5,0.648028,False,False
+OpenBookQA,RACE,Wilcoxon,judge_score,500.5,0.021999,True,False
+OpenBookQA,SQuAD,Wilcoxon,judge_score,366.5,0.0202,True,False
+ARC-Easy,ARC-Challenge,Wilcoxon,judge_score,254.0,0.131195,False,False
+ARC-Easy,RACE,Wilcoxon,judge_score,239.5,0.000176,True,True
+ARC-Easy,SQuAD,Wilcoxon,judge_score,329.5,0.955007,False,False
+ARC-Challenge,RACE,Wilcoxon,judge_score,554.0,0.017616,True,False
+ARC-Challenge,SQuAD,Wilcoxon,judge_score,412.5,0.039938,True,False
+RACE,SQuAD,Wilcoxon,judge_score,274.0,2.4e-05,True,True

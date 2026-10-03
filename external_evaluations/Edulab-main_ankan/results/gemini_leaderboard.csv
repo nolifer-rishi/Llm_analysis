@@ -1,0 +1,6 @@
+rank,dataset,subject,n_questions,exact_match_rate,avg_token_f1,avg_rouge_l,avg_char_similarity,contains_match_rate,models_used
+1,ARC-Challenge,science_challenge,1,1.0,1.0,1.0,1.0,1.0,gemini-3.6-flash
+2,SciQ,science,1,1.0,1.0,1.0,1.0,1.0,gemini-3.6-flash
+3,SQuAD v1.1,reading_comprehension_squad,1,0.0,0.6667,0.6667,0.5714,1.0,gemini-3.6-flash
+4,OpenBookQA,general_science,1,0.0,0.0,0.0,0.0769,0.0,gemini-3.8-flash
+5,RACE,reading_comprehension,1,0.0,0.0,0.0,0.2,0.0,gemini-3.6-flash

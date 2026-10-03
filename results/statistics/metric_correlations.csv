@@ -1,0 +1,4 @@
+metric_a,metric_b,spearman_rho,p_value,significant,correlation_strength
+rouge_l,bertscore_f1,0.8129,0.0,True,Very Strong
+rouge_l,judge_score,0.3399,0.0,True,Weak
+bertscore_f1,judge_score,0.2235,0.0,True,Weak

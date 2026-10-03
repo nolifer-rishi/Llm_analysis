@@ -1,0 +1,2 @@
+rank,model,n_questions,exact_match_rate,avg_rouge_l,avg_bert_score_f1,avg_llm_score_1_5,avg_llm_score_0_10,avg_latency_s,n_errors,subjects
+1,qwen2.5:3b,750,0.0293,0.1370,0.8625,4.1133,7.6187,3.690,0,general_science|reading_comprehension|reading_comprehension_squad|science|science_challenge

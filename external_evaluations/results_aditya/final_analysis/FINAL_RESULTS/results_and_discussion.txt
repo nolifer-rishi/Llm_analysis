@@ -1,0 +1,88 @@
+4. RESULTS
+===========
+
+4.1 Overall Performance
+-----------------------
+
+Table 1 summarizes the descriptive performance of the evaluated models across ROUGE-L, BERTScore-F1, and the LLM-based evaluation.
+
+| Model | N | ROUGE-L | BERTScore-F1 | Judge Overall |
+|---|---:|---:|---:|---:|
+| gemma2:2b | 750 | 0.2903 | 0.8761 | 4.7824 |
+| openai/gpt-oss-120b | 350 | 0.3885 | 0.8723 | 3.6189 |
+| qwen2.5:1.5b | 750 | 0.1644 | 0.8598 | 4.8173 |
+
+4.2 Metric-Specific Results
+---------------------------
+
+For ROUGE-L, the observed values ranged from 0.1644 to 0.3885. The highest observed value was associated with openai/gpt-oss-120b, while the lowest observed value was associated with qwen2.5:1.5b. This metric represents lexical overlap with the reference answer.
+
+For BERTScore-F1, the observed values ranged from 0.8598 to 0.8761. The highest observed value was associated with gemma2:2b, while the lowest observed value was associated with qwen2.5:1.5b. This metric represents semantic similarity with the reference answer.
+
+For LLM Judge Overall, the observed values ranged from 3.6189 to 4.8173. The highest observed value was associated with qwen2.5:1.5b, while the lowest observed value was associated with openai/gpt-oss-120b. This metric represents the overall score assigned by the evaluation judge.
+
+4.3 Subject-Level Results
+-------------------------
+
+Subject: Reading Comprehension
+- gemma2:2b: ROUGE-L = 0.3306, BERTScore-F1 = 0.8893, Judge Overall = 4.7867
+- openai/gpt-oss-120b: ROUGE-L = 0.2340, BERTScore-F1 = 0.8644, Judge Overall = 2.6733
+- qwen2.5:1.5b: ROUGE-L = 0.2213, BERTScore-F1 = 0.8754, Judge Overall = 4.8667
+
+Subject: Science
+- gemma2:2b: ROUGE-L = 0.2634, BERTScore-F1 = 0.8672, Judge Overall = 4.7795
+- openai/gpt-oss-120b: ROUGE-L = 0.5049, BERTScore-F1 = 0.8783, Judge Overall = 4.3317
+- qwen2.5:1.5b: ROUGE-L = 0.1264, BERTScore-F1 = 0.8494, Judge Overall = 4.7844
+
+4.4 Statistical Analysis
+------------------------
+
+Pairwise Wilcoxon signed-rank tests were performed using question IDs shared between the two models being compared. Holm correction was applied to account for multiple comparisons.
+
+For qwen2.5:1.5b versus gemma2:2b on rouge_l, 749 matched question pairs were available. The raw p-value was 0.000000 and the Holm-adjusted p-value was 0.000000; the comparison was statistically significant after Holm correction.
+
+For qwen2.5:1.5b versus gemma2:2b on bertscore_f1, 749 matched question pairs were available. The raw p-value was 0.000000 and the Holm-adjusted p-value was 0.000000; the comparison was statistically significant after Holm correction.
+
+For qwen2.5:1.5b versus gemma2:2b on judge_overall, 749 matched question pairs were available. The raw p-value was 0.133053 and the Holm-adjusted p-value was 0.133053; the comparison was not statistically significant after Holm correction.
+
+For qwen2.5:1.5b versus openai/gpt-oss-120b on rouge_l, 349 matched question pairs were available. The raw p-value was 0.000000 and the Holm-adjusted p-value was 0.000000; the comparison was statistically significant after Holm correction.
+
+For qwen2.5:1.5b versus openai/gpt-oss-120b on bertscore_f1, 349 matched question pairs were available. The raw p-value was 0.000042 and the Holm-adjusted p-value was 0.000166; the comparison was statistically significant after Holm correction.
+
+For qwen2.5:1.5b versus openai/gpt-oss-120b on judge_overall, 349 matched question pairs were available. The raw p-value was 0.000000 and the Holm-adjusted p-value was 0.000000; the comparison was statistically significant after Holm correction.
+
+For gemma2:2b versus openai/gpt-oss-120b on rouge_l, 349 matched question pairs were available. The raw p-value was 0.000232 and the Holm-adjusted p-value was 0.000695; the comparison was statistically significant after Holm correction.
+
+For gemma2:2b versus openai/gpt-oss-120b on bertscore_f1, 349 matched question pairs were available. The raw p-value was 0.012127 and the Holm-adjusted p-value was 0.024255; the comparison was statistically significant after Holm correction.
+
+For gemma2:2b versus openai/gpt-oss-120b on judge_overall, 349 matched question pairs were available. The raw p-value was 0.000000 and the Holm-adjusted p-value was 0.000000; the comparison was statistically significant after Holm correction.
+
+5. ERROR ANALYSIS
+=================
+
+The error analysis examined the selected low-scoring cases for each model. The categories used were Incorrect factual, Incomplete, Question misunderstanding, Off-topic, Hallucination, Context ignored, and No major error.
+
+| Model | Error Category | Count | Percentage |
+|---|---|---:|---:|
+| gemma2:2b | Hallucination | 2 | 10.00% |
+| gemma2:2b | Incomplete | 2 | 10.00% |
+| gemma2:2b | Incorrect factual | 8 | 40.00% |
+| gemma2:2b | No major error | 1 | 5.00% |
+| gemma2:2b | Off-topic | 7 | 35.00% |
+| openai/gpt-oss-120b | Off-topic | 20 | 100.00% |
+| qwen2.5:1.5b | Incomplete | 2 | 10.00% |
+| qwen2.5:1.5b | Incorrect factual | 11 | 55.00% |
+| qwen2.5:1.5b | Off-topic | 7 | 35.00% |
+
+6. DISCUSSION
+==============
+
+The results demonstrate that model behavior depends on the evaluation metric. ROUGE-L, BERTScore-F1, and LLM-based judging capture different characteristics of generated answers and therefore should be interpreted together rather than treated as interchangeable measures.
+
+The unequal number of evaluated questions is an important consideration in interpreting the results. The qwen2.5:1.5b and gemma2:2b models were evaluated on 750 questions each, whereas openai/gpt-oss-120b was evaluated on 350 questions. Consequently, descriptive averages should be interpreted together with the reported sample sizes.
+
+For statistical comparisons, the analysis used only question IDs shared by the two models in each pairwise comparison. This avoids treating unmatched observations as paired observations.
+
+The error analysis provides an additional perspective by examining the types of failures present in low-scoring responses. These categories help distinguish factual errors from incomplete answers, question misunderstanding, irrelevance, unsupported information, and other observed failure modes.
+
+The combined evidence therefore provides a multi-dimensional characterization of model performance rather than relying on a single evaluation metric.

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "openbookqa_327",
+    "source_dataset": "OpenBookQA",
+    "subject": "general_science",
+    "question": "In the hottest months in the hottest desert, creatures such as birds may find water to drink",
+    "context": "",
+    "prompt": "Answer in as few words as possible.\n\nQuestion: In the hottest months in the hottest desert, creatures such as birds may find water to drink\n\nAnswer:",
+    "reference_answer": "in spiked plants",
+    "gemini_answer": "from cacti.",
+    "model_used": "gemini-3.8-flash",
+    "error": null
+  },
+  {
+    "id": "race_middle_228",
+    "source_dataset": "RACE",
+    "subject": "reading_comprehension",
+    "question": "The old lady's smile showed   _  .",
+    "context": "Little Mike's grandmother died weeks ago. He missed her very much. One afternoon Mike went to the city park where his grandmother used to go. There he saw an old lady. She looked very kind. She was sitting there, watching pigeons . Little Mike went up and sat next to her. He took out his food and drinks and gave some to her. She smiled at him. Her smile was very sweet and Mike wanted to see it again. She seemed to understand him, so once again she smiled. Mike was very happy.\nThey sat there all the afternoon, eating and talking. As it was dark, Mike got up to leave. Before he left, he hugged the old lady and she gave him her sweetest smile.\nWhen Mike got home, his mother was surprised by the happy look on his face. \" I met an old lady in the park. Her smile was like the smile I used to see on Grandmother's face.\"\nThe old lady also returned to her home happily. She told her son she had food and drinks with a little boy. \" He was as lovely as Bill.\" She said. Her son was surprised, because he had never been so happy since Bill, her grandson, died weeks ago.",
+    "prompt": "Read the passage carefully, then answer in as few words as possible.\n\nPassage:\nLittle Mike's grandmother died weeks ago. He missed her very much. One afternoon Mike went to the city park where his grandmother used to go. There he saw an old lady. She looked very kind. She was sitting there, watching pigeons . Little Mike went up and sat next to her. He took out his food and drinks and gave some to her. She smiled at him. Her smile was very sweet and Mike wanted to see it again. She seemed to understand him, so once again she smiled. Mike was very happy.\nThey sat there all the afternoon, eating and talking. As it was dark, Mike got up to leave. Before he left, he hugged the old lady and she gave him her sweetest smile.\nWhen Mike got home, his mother was surprised by the happy look on his face. \" I met an old lady in the park. Her smile was like the smile I used to see on Grandmother's face.\"\nThe old lady also returned to her home happily. She told her son she had food and drinks with a little boy. \" He was as lovely as Bill.\" She said. Her son was surprised, because he had never been so happy since Bill, her grandson, died weeks ago.\n\nQuestion: The old lady's smile showed   _  .\n\nAnswer:",
+    "reference_answer": "she liked the little boy",
+    "gemini_answer": "love and kindness (or kindness and warmth /",
+    "model_used": "gemini-3.6-flash",
+    "error": null
+  },
+  {
+    "id": "squad_228",
+    "source_dataset": "SQuAD v1.1",
+    "subject": "reading_comprehension_squad",
+    "question": "How many yards did Newton throw for in 2015?",
+    "context": "The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.",
+    "prompt": "Read the passage carefully, then answer in as few words as possible.\n\nPassage:\nThe Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.\n\nQuestion: How many yards did Newton throw for in 2015?\n\nAnswer:",
+    "reference_answer": "3,837",
+    "gemini_answer": "3,837 yards",
+    "model_used": "gemini-3.6-flash",
+    "error": null
+  },
+  {
+    "id": "sciq_228",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Which branch of biology studies animal behavior?",
+    "context": "The branch of biology that studies animal behavior is called ethology. Ethologists usually study how animals behave in their natural environment. They try to determine the cause of behaviors, how behaviors develop, and how and why behaviors evolve.",
+    "prompt": "Read the passage carefully, then answer in as few words as possible.\n\nPassage:\nThe branch of biology that studies animal behavior is called ethology. Ethologists usually study how animals behave in their natural environment. They try to determine the cause of behaviors, how behaviors develop, and how and why behaviors evolve.\n\nQuestion: Which branch of biology studies animal behavior?\n\nAnswer:",
+    "reference_answer": "ethology",
+    "gemini_answer": "Ethology",
+    "model_used": "gemini-3.6-flash",
+    "error": null
+  },
+  {
+    "id": "arc_challenge_228",
+    "source_dataset": "ARC-Challenge",
+    "subject": "science_challenge",
+    "question": "When cold temperatures are produced in a chemical reaction, the reaction is known as",
+    "context": "",
+    "prompt": "Answer in as few words as possible.\n\nQuestion: When cold temperatures are produced in a chemical reaction, the reaction is known as\n\nAnswer:",
+    "reference_answer": "endothermic.",
+    "gemini_answer": "Endothermic",
+    "model_used": "gemini-3.6-flash",
+    "error": null
+  }
+]

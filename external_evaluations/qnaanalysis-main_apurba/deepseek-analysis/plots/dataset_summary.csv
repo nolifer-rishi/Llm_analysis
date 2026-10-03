@@ -1,0 +1,3 @@
+source_dataset,model,avg_judge,avg_bertscore,avg_rouge,avg_latency,count
+RACE,deepseek-r1:1.5b,3.86,0.8644566666666667,0.09531266666666667,3.0688666666666666,150
+SciQ,deepseek-r1:1.5b,4.113333333333333,0.835012,0.104302,2.5978666666666665,150

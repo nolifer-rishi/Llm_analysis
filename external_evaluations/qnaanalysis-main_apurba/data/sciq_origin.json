@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "sciq_0000",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What functions in removing phosphorylated amino acids from proteins?",
+    "context": "What is the function of a phosphatase? a. A phosphatase removes phosphorylated amino acids from proteins. A phosphatase removes the phosphate group from phosphorylated amino acid residues in a protein. A phosphatase phosphorylates serine, threonine, and tyrosine residues. A phosphatase degrades second messengers in the cell. How does NF-κB induce gene expression? a. A small, hydrophobic ligand binds to NF-κB, activating it. Phosphorylation of the inhibitor Iκ-B dissociates the complex between it and NF-κB, and allows NF-κB to enter the nucleus and stimulate transcription. NF-κB is phosphorylated and is then free to enter the nucleus and bind DNA. NF-κB is a kinase that phosphorylates a transcription factor that binds DNA and promotes protein production. Apoptosis can occur in a cell when the cell is ________________. damaged b. no longer needed c. infected by a virus d. all of the above 14. What is the effect of an inhibitor binding an enzyme? a.",
+    "reference_answer": "phosphatase",
+    "options": [
+      "phosphatase",
+      "sucrose",
+      "carbonate",
+      "peptide"
+    ]
+  },
+  {
+    "id": "sciq_0001",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What disease is unpreventable in the type one form but may be prevented by diet if it is of the second type?",
+    "context": "Type 1 diabetes and other autoimmune diseases cannot be prevented. But choosing a healthy lifestyle can help prevent type 2 diabetes. Getting plenty of exercise, avoiding high-fat foods, and staying at a healthy weight can reduce the risk of developing this type of diabetes. This is especially important for people who have family members with the disease.",
+    "reference_answer": "diabetes",
+    "options": [
+      "diabetes",
+      "Obesity",
+      "TB",
+      "Cancer"
+    ]
+  },
+  {
+    "id": "sciq_0002",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Melting ice is drastically impacting the number of what at glacier national park?",
+    "context": "In Glacier National Park ( Figure below ), many glaciers have become ice sheets. In 1850, the park had 150 glaciers. There are only about 25 today. The reason that there is so much melting is that summer temperatures have risen. Scientists estimate that the park will have no active glaciers as early as 2020.",
+    "reference_answer": "active glaciers",
+    "options": [
+      "active glaciers",
+      "gaisers",
+      "trees",
+      "icebergs"
+    ]
+  },
+  {
+    "id": "sciq_0003",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Under what type of conditions can populations grow exponentially?",
+    "context": "Under ideal conditions, populations can grow exponentially. The growth rate increases as the population gets larger. Most populations do not live under ideal conditions and grow logistically instead. Density-dependent factors slow population growth as population size nears the carrying capacity.",
+    "reference_answer": "ideal",
+    "options": [
+      "ideal",
+      "pleasant",
+      "useful",
+      "lush"
+    ]
+  },
+  {
+    "id": "sciq_0004",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What forms when secondary alcohols oxidize?",
+    "context": "Secondary alcohols are oxidized to form ketones.",
+    "reference_answer": "ketones",
+    "options": [
+      "ketones",
+      "chromosomes",
+      "ions",
+      "electrons"
+    ]
+  },
+  {
+    "id": "sciq_0005",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Ions flow through atp synthase from the thylakoid space into the stroma in a process called known as what?",
+    "context": "5.2 The Light-Dependent Reactions of Photosynthesis In the first part of photosynthesis, the light-dependent reaction, pigment molecules absorb energy from sunlight. The most common and abundant pigment is chlorophyll a. A photon strikes photosystem II to initiate photosynthesis. Energy travels through the electron transport chain, which pumps hydrogen ions into the thylakoid space. This forms an electrochemical gradient. The ions flow through ATP synthase from the thylakoid space into the stroma in a process called chemiosmosis to form molecules of ATP, which are used for the formation of sugar molecules in the second stage of photosynthesis. Photosystem I absorbs a second photon, which results in the formation of an NADPH molecule, another energy carrier for the Calvin cycle reactions.",
+    "reference_answer": "chemiosmosis",
+    "options": [
+      "chemiosmosis",
+      "oxidation",
+      "respiration",
+      "fertilization"
+    ]
+  },
+  {
+    "id": "sciq_0006",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Birds are thought to have evolved from a group of bipedal dinosaurs called what?",
+    "context": "Birds are thought to have evolved from a group of bipedal dinosaurs called theropods . The ancestor of birds was probably similar to the theropod called Deinonychus, which is represented by the sketch in Figure below . Fossils of Deinonychus were first identified in the 1960s. This was an extremely important discovery. It finally convinced most scientists that birds had descended from dinosaurs, which had been debated for almost a century.",
+    "reference_answer": "therapods",
+    "options": [
+      "therapods",
+      "pteradactyls",
+      "sporozoans",
+      "staurikosaurus"
+    ]
+  },
+  {
+    "id": "sciq_0007",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Which membranous organelles in a cell sequence enzyme and electron molecules for efficient cellular respiration?",
+    "context": "Mitochondria, shown here as the green ovals in this animal cell, are membranous organelles which sequence enzyme and electron carrier molecules to make cellular respiration highly efficient. Mitochondria have both an inner and outer membrane, with a matrix inside the inner membrane. The inner membrane has many internal folds, increasing the surface area for proteins and molecules involved in cellular respiration.",
+    "reference_answer": "mitochondria",
+    "options": [
+      "mitochondria",
+      "glucose",
+      "protons",
+      "bacterial"
+    ]
+  },
+  {
+    "id": "sciq_0008",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Vultures, raccoons and blowflies are examples of what?",
+    "context": "Scavengers consume the soft tissues of dead animals. Examples of scavengers include vultures, raccoons, and blowflies.",
+    "reference_answer": "scavengers",
+    "options": [
+      "scavengers",
+      "producer",
+      "predator",
+      "consumer"
+    ]
+  },
+  {
+    "id": "sciq_0009",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the most important source of electromagnetic waves on earth?",
+    "context": "The most important source of electromagnetic waves on Earth is the sun. Many other sources of electromagnetic waves depend on technology.",
+    "reference_answer": "the sun",
+    "options": [
+      "the sun",
+      "clouds",
+      "the ocean",
+      "the moon"
+    ]
+  },
+  {
+    "id": "sciq_0010",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Silk and cotton are examples of what kind of fiber?",
+    "context": "The fibers that compose the materials for our clothes are either natural or human-made. Silk and cotton would be examples of natural fibers. Silk is produced by the silkworm and cotton is grown as a plant. Human-made fabrics include nylon, orlon, and a number of other polymers. These materials are made from hydrocarbons found in petroleum products. Synthetic polymers are also used in shoes, raingear, and camping items. The synthetic fabrics tend to be lighter than the natural ones and can be treated to make them more water-resistant and durable.",
+    "reference_answer": "natural",
+    "options": [
+      "natural",
+      "pure",
+      "artificial",
+      "simple"
+    ]
+  },
+  {
+    "id": "sciq_0011",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Most of the fresh water on earth is tied up in a solid form. what are they called?",
+    "context": "Most of Earth’s water is salt water in the oceans. As Figure below shows, only 3 percent of Earth’s water is fresh. Freshwater is water that contains little or no dissolved salt. Most freshwater is frozen in ice caps and glaciers. Glaciers cover the peaks of some tall mountains. For example, the Cascades Mountains in North America and the Alps Mountains in Europe are capped with ice. Ice caps cover vast areas of Antarctica and Greenland. Chunks of ice frequently break off ice caps. They form icebergs that float in the oceans.",
+    "reference_answer": "glaciers",
+    "options": [
+      "glaciers",
+      "sediments",
+      "lakes",
+      "oceans"
+    ]
+  },
+  {
+    "id": "sciq_0012",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The goal of this is the understand how and why things happen?",
+    "context": "The goal of science is to understand how and why things happen.",
+    "reference_answer": "science",
+    "options": [
+      "science",
+      "experience",
+      "inquiry",
+      "theory"
+    ]
+  },
+  {
+    "id": "sciq_0013",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What do you call the ancient cores of continents, where the earliest continental crust is now found?",
+    "context": "The earliest continental crust is now found in the ancient cores of continents, called the cratons . Geologists can learn many things about the Precambrian by studying the rocks of the cratons.",
+    "reference_answer": "cratons",
+    "options": [
+      "cratons",
+      "craters",
+      "escarpments",
+      "mantles"
+    ]
+  },
+  {
+    "id": "sciq_0014",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "In what type of organisms are daughter cells individuals?",
+    "context": "6.4 | Prokaryotic Cell Division By the end of this section, you will be able to: • Describe the process of binary fission in prokaryotes • Explain how FtsZ and tubulin proteins are examples of homology Prokaryotes such as bacteria propagate by binary fission. For unicellular organisms, cell division is the only method to produce new individuals. In both prokaryotic and eukaryotic cells, the outcome of cell reproduction is a pair of daughter cells that are genetically identical to the parent cell. In unicellular organisms, daughter cells are individuals. To achieve the outcome of identical daughter cells, some steps are essential. The genomic DNA must be replicated and then allocated into the daughter cells; the cytoplasmic contents must also be divided to give both new cells the machinery to sustain life. In bacterial cells, the genome consists of a single, circular DNA chromosome; therefore, the process of cell division is simplified. Mitosis is unnecessary because there is no nucleus or multiple chromosomes. This type of cell division is called binary fission.",
+    "reference_answer": "unicellular organisms",
+    "options": [
+      "unicellular organisms",
+      "multicellular organisms",
+      "macroscopic organisms",
+      "hematopoietic organisms"
+    ]
+  },
+  {
+    "id": "sciq_0015",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "About what percentage of the earth's water is fresh water?",
+    "context": "Of all the water on Earth, about two percent is stored underground in spaces between rocks. A fraction of a percent exists in the air as water vapor, clouds, or precipitation. Another fraction of a percent occurs in the bodies of plants and animals. So where is most of Earth’s water? It’s on the surface of the planet. In fact, water covers about 70 percent of Earth’s surface. Of water on Earth’s surface, 97 percent is salt water, mainly in the ocean. Only 3 percent is fresh water . Most of the fresh water is frozen in glaciers and polar ice caps. The remaining fresh water occurs in rivers, lakes, and other fresh water features.",
+    "reference_answer": "three percent",
+    "options": [
+      "three percent",
+      "two percent",
+      "nine percent",
+      "thirty percent"
+    ]
+  },
+  {
+    "id": "sciq_0016",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Club mosses, horsetails, ferns, and whisk ferns are examples of what type of plants?",
+    "context": "Seedless Vascular Plants By the Late Devonian period (385 million years ago), plants had evolved vascular tissue, well-defined leaves, and root systems. With these advantages, plants increased in height and size. During the Carboniferous period (359–299 million years ago), swamp forests of club mosses and horsetails, with some specimens reaching more than 30 meters tall, covered most of the land. These forests gave rise to the extensive coal deposits that gave the Carboniferous its name. In seedless vascular plants, the sporophyte became the dominant phase of the lifecycle. Water is still required for fertilization of seedless vascular plants, and most favor a moist environment. Modern-day seedless vascular plants include club mosses, horsetails, ferns, and whisk ferns. Club Mosses The club mosses, or Lycophyta, are the earliest group of seedless vascular plants. They dominated the landscape of the Carboniferous period, growing into tall trees and forming large swamp forests. Today’s club mosses are diminutive, evergreen plants consisting of a stem (which may be branched) and small leaves called microphylls (Figure 14.13). The division Lycophyta consists of close to 1,000 species, including quillworts (Isoetales), club mosses (Lycopodiales), and spike mosses (Selaginellales): none of which is a true moss.",
+    "reference_answer": "seedless vascular plants",
+    "options": [
+      "seedless vascular plants",
+      "cycads",
+      "gymnosperms",
+      "angiosperms"
+    ]
+  },
+  {
+    "id": "sciq_0017",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Repolarization occurs when the membrane potential begins to move back toward its resting what?",
+    "context": "As the membrane potential reaches +30 mV, other voltage-gated channels are opening in the membrane. These channels are specific for the potassium ion. A concentration gradient acts on K+, as well. As K+ starts to leave the cell, taking a positive charge with it, the membrane potential begins to move back toward its resting voltage. This is called repolarization, meaning that the membrane voltage moves back toward the -70 mV value of the resting membrane potential. Repolarization returns the membrane potential to the -70 mV value that indicates the resting potential, but it actually overshoots that value. Potassium ions reach equilibrium when the membrane voltage is below -70 mV, so a period of hyperpolarization occurs while the K+ channels are open. Those K+ channels are slightly delayed in closing, accounting for this short overshoot. What has been described here is the action potential, which is presented as a graph of voltage over time in Figure 12.23. It is the electrical signal that nervous tissue generates for communication. The change in the membrane voltage from -70 mV at rest to +30 mV at the end of depolarization is a 100-mV change. That can also be written as a 0.1-V change. To put that value in perspective, think about a battery. An AA battery that you might find in a television remote has a voltage of 1.5 V, or a 9-V battery (the rectangular battery with two posts on one end) is, obviously, 9 V. The change seen in the action potential is one or two orders of magnitude less than the charge in these batteries. In fact, the membrane potential can be described as a battery. A charge is stored across the membrane that can be released under the correct conditions. A battery in your remote has stored a charge that is “released” when you push a button.",
+    "reference_answer": "voltage",
+    "options": [
+      "voltage",
+      "charge",
+      "resistance",
+      "tension"
+    ]
+  },
+  {
+    "id": "sciq_0018",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Temperature, water, soil, and air are examples of nonliving factors of an ecosystem, also termed what?",
+    "context": "Ecology is the study of ecosystems. That is, ecology is the study of how living organisms interact with each other and with the nonliving part of their environment. An ecosystem consists of all the nonliving factors and living organisms interacting in the same habitat . Recall that living organisms are biotic factors . The biotic factors of an ecosystem include all the populations in a habitat, such as all the species of plants, animals, and fungi, as well as all the micro-organisms. Also recall that the nonliving factors are called abiotic factors . Abiotic factors include temperature, water, soil, and air.",
+    "reference_answer": "abiotic factors",
+    "options": [
+      "abiotic factors",
+      "nucleic factors",
+      "conditional factors",
+      "diverse factors"
+    ]
+  },
+  {
+    "id": "sciq_0019",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "On what day of the cycle does ovulation usually occur?",
+    "context": "After menstruation, the endometrium begins to build up again. At the same time, a follicle starts maturing in an ovary. Ovulation occurs around day 14 of the cycle. After it occurs, the endometrium continues to build up in preparation for a fertilized egg. What happens next depends on whether the egg is fertilized.",
+    "reference_answer": "14th",
+    "options": [
+      "14th",
+      "17th",
+      "7th",
+      "1st"
+    ]
+  },
+  {
+    "id": "sciq_0020",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "A hydrogen atom with one neutron is called what?",
+    "context": "Hydrogen is an example of an element that has isotopes. Three isotopes of hydrogen are modeled in the Figure below . Most hydrogen atoms have just one proton and one electron and lack a neutron. These atoms are just called hydrogen. Some hydrogen atoms have one neutron as well. These atoms are the isotope named deuterium. Other hydrogen atoms have two neutrons. These atoms are the isotope named tritium. For animated versions of these hydrogen isotopes, go to this URL: http://www. s-cool. co. uk/a-level/physics/atomic-structure/revise-it/isotopes .",
+    "reference_answer": "deuterium",
+    "options": [
+      "deuterium",
+      "covalent",
+      "magnesium",
+      "ionic"
+    ]
+  },
+  {
+    "id": "sciq_0021",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Biological features from a common evolutionary origin are known as what?",
+    "context": "Classification of Living Things be that different. Biological features from a common evolutionary origin are known as homologous. • Development • Biochemistry: Biochemical analysis of animals similar in appearance have yielded surprising results. For example, although guinea pigs were once considered to be rodents, like mice, biochemistry led them to be in their taxon of their own.",
+    "reference_answer": "homologous",
+    "options": [
+      "homologous",
+      "monologous",
+      "heterologous",
+      "analogous"
+    ]
+  },
+  {
+    "id": "sciq_0022",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Natural gas is the predominately made up of?",
+    "context": "Natural gas is mostly methane. Natural gas is usually found with petroleum. People prefer to burn natural gas when possible because it is relatively clean.",
+    "reference_answer": "methane",
+    "options": [
+      "methane",
+      "hydrogen",
+      "carbon",
+      "sulfur"
+    ]
+  },
+  {
+    "id": "sciq_0023",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Downhill skiiers gain little advantage from a running start because the initial kinetic energy is small compared with the gain in what other energy form?",
+    "context": "In a downhill ski race, surprisingly, little advantage is gained by getting a running start. (This is because the initial kinetic energy is small compared with the gain in gravitational potential energy on even small hills. ) To demonstrate this, find the final speed and the time taken for a skier who skies 70.0 m along a 30º slope neglecting friction: (a) Starting from rest. (b) Starting with an initial speed of 2.50 m/s. (c) Does the answer surprise you? Discuss why it is still advantageous to get a running start in very competitive events.",
+    "reference_answer": "gravitational potential energy",
+    "options": [
+      "gravitational potential energy",
+      "gravitational kinetic energy",
+      "chemical energy",
+      "thermal energy"
+    ]
+  },
+  {
+    "id": "sciq_0024",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Water is considered a what since it is a polar molecule with slightly positive and slightly negative charges, so ions and polar molecules can readily dissolve in it?",
+    "context": "Water’s Solvent Properties Since water is a polar molecule with slightly positive and slightly negative charges, ions and polar molecules can readily dissolve in it. Therefore, water is referred to as a solvent, a substance capable of dissolving other polar molecules and ionic compounds. The charges associated with these molecules will form hydrogen bonds with water, surrounding the particle with water molecules. This is referred to as a sphere of hydration, or a hydration shell, as illustrated in Figure 2.15 and serves to keep the particles separated or dispersed in the water. When ionic compounds are added to water, the individual ions react with the polar regions of the water molecules and their ionic bonds are disrupted in the process of dissociation. Dissociation occurs when atoms or groups of atoms break off from molecules and form ions. Consider table salt (NaCl, or sodium chloride): when NaCl crystals are added to water, the molecules of NaCl dissociate into Na+ and Cl– ions, and spheres of hydration form around the ions, illustrated in Figure 2.15. The positively charged sodium ion is surrounded by the partially negative charge of the water molecule’s oxygen. The negatively charged chloride ion is surrounded by the partially positive charge of the hydrogen on the water molecule.",
+    "reference_answer": "solvent",
+    "options": [
+      "solvent",
+      "solute",
+      "pigment",
+      "osmotic"
+    ]
+  },
+  {
+    "id": "sciq_0025",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Vertebrata are characterized by the presence of what?",
+    "context": "Figure 29.7 Vertebrata are characterized by the presence of a backbone, such as the one that runs through the middle of this fish. All vertebrates are in the Craniata clade and have a cranium. (credit: Ernest V. More; taken at Smithsonian Museum of Natural History, Washington, D.",
+    "reference_answer": "backbone",
+    "options": [
+      "backbone",
+      "Bones",
+      "Muscles",
+      "Thumbs"
+    ]
+  },
+  {
+    "id": "sciq_0026",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Cardiac muscle is found only in which part of the heart?",
+    "context": "Cardiac muscle is found only in the walls of the heart. When cardiac muscle contracts, the heart beats and pumps blood. Cardiac muscle contains a great many mitochondria, which produce ATP for energy. This helps the heart resist fatigue. Contractions of cardiac muscle are involuntary, like those of smooth muscle. Cardiac muscle, like skeletal muscle, is arranged in bundles, so it appears striated , or striped.",
+    "reference_answer": "the walls",
+    "options": [
+      "the walls",
+      "the ridges",
+      "the left side",
+      "the bottom"
+    ]
+  },
+  {
+    "id": "sciq_0027",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Which type of tree is dominant in temperate forests?",
+    "context": "Figure 44.18 Deciduous trees are the dominant plant in the temperate forest. (credit: Oliver Herold).",
+    "reference_answer": "deciduous",
+    "options": [
+      "deciduous",
+      "vines",
+      "fungus",
+      "shrubs"
+    ]
+  },
+  {
+    "id": "sciq_0028",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What do mammals have under the skin to help insulate the body?",
+    "context": "Conserving heat is also important, especially in small mammals. A small body has a relatively large surface area compared to its overall size. Because heat is lost from the surface of the body, small mammals lose a greater proportion of their body heat than large mammals. Mammals conserve body heat with their hair or fur. It traps a layer of warm air next to the skin. Most mammals can make their hair stand up from the skin, so it becomes an even better insulator (see Figure below ). Mammals also have a layer of fat under the skin to help insulate the body. This fatty layer is not found in other vertebrates.",
+    "reference_answer": "a layer of fat",
+    "options": [
+      "a layer of fat",
+      "bone",
+      "nerve cells",
+      "cartilage"
+    ]
+  },
+  {
+    "id": "sciq_0029",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is one thing that cell membranes are permeable to?",
+    "context": "",
+    "reference_answer": "specific ions",
+    "options": [
+      "specific ions",
+      "nutrients",
+      "gas",
+      "metals"
+    ]
+  },
+  {
+    "id": "sciq_0030",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the purpose of bright colors on a flower's petals?",
+    "context": "Flowers Flowers are modified leaves, or sporophylls, organized around a central stalk. Although they vary greatly in appearance, all flowers contain the same structures: sepals, petals, carpels, and stamens. The peduncle attaches the flower to the plant. A whorl of sepals (collectively called the calyx) is located at the base of the peduncle and encloses the unopened floral bud. Sepals are usually photosynthetic organs, although there are some exceptions. For example, the corolla in lilies and tulips consists of three sepals and three petals that look virtually identical. Petals, collectively the corolla, are located inside the whorl of sepals and often display vivid colors to attract pollinators. Flowers pollinated by wind are usually small, feathery, and visually inconspicuous. Sepals and petals together form the perianth. The sexual organs (carpels and stamens) are located at the center of the flower. As illustrated in Figure 26.14, styles, stigmas, and ovules constitute the female organ: the gynoecium or carpel. Flower structure is very diverse, and carpels may be singular, multiple, or fused. Multiple fused carpels comprise a pistil. The megaspores and the female gametophytes are produced and protected by the thick tissues of the carpel. A long, thin structure called a style leads from the sticky stigma, where pollen is deposited, to the ovary, enclosed in the carpel. The ovary houses one or more ovules, each of which will develop into a seed upon fertilization. The male reproductive organs, the stamens (collectively called the androecium), surround the central carpel. Stamens are composed of a thin stalk called a filament and a sac-like structure called the anther. The filament supports the anther, where the microspores are produced by meiosis and develop into pollen grains.",
+    "reference_answer": "to attract pollinators",
+    "options": [
+      "to attract pollinators",
+      "to distract predators",
+      "to absorb light",
+      "to attract a mate"
+    ]
+  },
+  {
+    "id": "sciq_0031",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Twenty-four hours before fertilization, the egg has finished meiosis and becomes a mature what?",
+    "context": "Human Gestation Twenty-four hours before fertilization, the egg has finished meiosis and becomes a mature oocyte. When fertilized (at conception) the egg becomes known as a zygote. The zygote travels through the oviduct to the uterus (Figure 43.18). The developing embryo must implant into the wall of the uterus within seven days, or it will deteriorate and die. The outer layers of the zygote (blastocyst) grow into the endometrium by digesting the endometrial cells, and wound healing of the endometrium closes up the blastocyst into the tissue. Another layer of the blastocyst, the chorion, begins releasing a hormone called human beta chorionic gonadotropin (β-HCG) which makes its way to the corpus luteum and keeps that structure active. This ensures adequate levels of progesterone that will maintain the endometrium of the uterus for the support of the developing embryo. Pregnancy tests determine the level of β-HCG in urine or serum. If the hormone is present, the test is positive.",
+    "reference_answer": "oocyte",
+    "options": [
+      "oocyte",
+      "spermatozoa",
+      "fetus",
+      "zygote"
+    ]
+  },
+  {
+    "id": "sciq_0032",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Lyme disease is caused by what kind of organim?",
+    "context": "Humans have literally walked into some new bacterial diseases. When people come into contact with wild populations, they may become part of natural cycles of disease transmission. Consider Lyme disease. It’s caused by bacteria that normally infect small, wild mammals, such as mice. A tick bites a mouse and picks up the bacteria. The tick may then bite a human who invades the natural habitat. Through the bite, the bacteria are transmitted to the human host.",
+    "reference_answer": "bacteria",
+    "options": [
+      "bacteria",
+      "Virus",
+      "bacterium",
+      "algae"
+    ]
+  },
+  {
+    "id": "sciq_0033",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Where is the spinal trigeminal nucleus located?",
+    "context": "",
+    "reference_answer": "medulla",
+    "options": [
+      "medulla",
+      "spinal cord",
+      "pons",
+      "cerebrum"
+    ]
+  },
+  {
+    "id": "sciq_0034",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What are the two terms that designate how well aqueous solutions conduct electricity?",
+    "context": "Aqueous solutions can be classified as polar or nonpolar depending on how well they conduct electricity.",
+    "reference_answer": "polar and nonpolar",
+    "options": [
+      "polar and nonpolar",
+      "secular and nonpolar",
+      "filter and nonpolar",
+      "hot and nonpolar"
+    ]
+  },
+  {
+    "id": "sciq_0035",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What do we call the visible part of the electromagnetic spectrum?",
+    "context": "Earth is just a tiny speck in the universe. Our planet is surrounded by lots of space. Light travels across empty space. Astronomers can study light from stars to learn about the universe. Light is the visible part of the electromagnetic spectrum . Astronomers use the light that comes to us to gather information about the universe.",
+    "reference_answer": "light",
+    "options": [
+      "light",
+      "weight",
+      "radio",
+      "electricity"
+    ]
+  },
+  {
+    "id": "sciq_0036",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Organisms that live deep in the ocean must be able to withstand what?",
+    "context": "Organisms that live deep in the ocean must be able to withstand extreme water pressure, very cold water, and complete darkness. However, even here, thriving communities of living things can be found. Organisms cluster around hydrothermal vents in the ocean floor. The vents release hot water containing chemicals that would be toxic to most other living things. The producers among them are single-celled chemoautotrophs. They make food using energy stored in the chemicals. The tube worms in this chapter's opening photo depend on these chemoautotrophs for food.",
+    "reference_answer": "extreme water pressure",
+    "options": [
+      "extreme water pressure",
+      "the sun",
+      "significant water pressure",
+      "tsunamis"
+    ]
+  },
+  {
+    "id": "sciq_0037",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Where do extrusive igneous rocks cool at?",
+    "context": "Extrusive igneous rocks cool at the surface. Volcanoes are one type of feature that forms from extrusive rocks. Several other interesting landforms are also extrusive features. Intrusive igneous rocks cool below the surface. These rocks do not always remain hidden. Rocks that formed in the crust are exposed when the rock and sediment that covers them is eroded away.",
+    "reference_answer": "surface",
+    "options": [
+      "surface",
+      "underground",
+      "in volcanoes",
+      "in water"
+    ]
+  },
+  {
+    "id": "sciq_0038",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Where do mushrooms get their energy?",
+    "context": "Mushrooms gain their energy from decomposing dead organisms. Explain why a mushroom is not a plant.",
+    "reference_answer": "decomposing dead organisms",
+    "options": [
+      "decomposing dead organisms",
+      "killing organisms",
+      "accumulating dead organisms",
+      "producing dead organisms"
+    ]
+  },
+  {
+    "id": "sciq_0039",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What are cells without a nucleus called?",
+    "context": "Prokaryotic cells are cells without a nucleus. They are found in single-celled organisms. Eukaryotic cells are cells with a nucleus and other organelles. They are found mainly in multicellular organisms.",
+    "reference_answer": "prokaryotic cells",
+    "options": [
+      "prokaryotic cells",
+      "Monocyte Cells",
+      "heterogeneous cells",
+      "crustal cells"
+    ]
+  },
+  {
+    "id": "sciq_0040",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The nucleus from a differentiated frog cell can direct development of what?",
+    "context": "",
+    "reference_answer": "tadpole",
+    "options": [
+      "tadpole",
+      "embryo",
+      "fetus",
+      "ovary"
+    ]
+  },
+  {
+    "id": "sciq_0041",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Prophase is preceded by a preprophase stage in what type of cells?",
+    "context": "As plant cells have some structural differences compared to an animal cell, an additional stage prior to prophase is necessary. In plant cells only, prophase is preceded by a preprophase stage. Plant cells have a large central vacuole encompassing the center of the cell. Prior to the division of the nucleus, the nucleus must migrate to the center of the plant cell. To accomplish this, the cell forms a phragmosome , a sheet of cytoplasm that bisects the middle of the cell. The phragmosome suspends the cell nucleus in the center of the cell in preparation for prophase. Additionally, during this phase the plane of cell division is established. The accurate control of division planes, which establishes the placement of the future cell wall, is crucial for the correct structure of plant tissues and organs.",
+    "reference_answer": "plant cells",
+    "options": [
+      "plant cells",
+      "brain cells",
+      "hair and nail cells",
+      "egg cells"
+    ]
+  },
+  {
+    "id": "sciq_0042",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What form of matter has a fixed volume but not a fixed shape?",
+    "context": "Ocean water is an example of a liquid. A liquid is matter that has a fixed volume but not a fixed shape. Instead, a liquid takes the shape of its container. If the volume of a liquid is less than the volume of its container, the top surface will be exposed to the air, like the oil in the bottles in Figure below .",
+    "reference_answer": "liquid",
+    "options": [
+      "liquid",
+      "mixture",
+      "gas",
+      "solid"
+    ]
+  },
+  {
+    "id": "sciq_0043",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What prevents new ovarian follicles from developing and suppresses uterine contractility?",
+    "context": "28.4 Maternal Changes During Pregnancy, Labor, and Birth Hormones (especially estrogens, progesterone, and hCG) secreted by the corpus luteum and later by the placenta are responsible for most of the changes experienced during pregnancy. Estrogen maintains the pregnancy, promotes fetal viability, and stimulates tissue growth in the mother and developing fetus. Progesterone prevents new ovarian follicles from developing and suppresses uterine contractility. Pregnancy weight gain primarily occurs in the breasts and abdominal region. Nausea, heartburn, and frequent urination are common during pregnancy. Maternal blood volume increases by 30 percent during pregnancy and respiratory minute volume increases by 50 percent. The skin may develop stretch marks and melanin production may increase.",
+    "reference_answer": "progesterone",
+    "options": [
+      "progesterone",
+      "germination",
+      "glucose",
+      "estrogen"
+    ]
+  },
+  {
+    "id": "sciq_0044",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Where fossils of the genus eomaia found?",
+    "context": "The earliest placental mammals may have evolved about 110 million years ago. The ancestor of placental mammals may be the extinct genus Eomaia . Fossils of Eomaia have been found in what is now China. It was only about 10 centimeters (4 inches) long. It was a tree climber and probably ate insects and worms. Eomaia had several traits of placental mammals. Figure below shows an Eomaia fossil.",
+    "reference_answer": "china",
+    "options": [
+      "china",
+      "Japan",
+      "Egypt",
+      "India"
+    ]
+  },
+  {
+    "id": "sciq_0045",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "With wavelengths from 400-700 nm, what kind of light represents only a very small portion of the spectrum?",
+    "context": "The electromagnetic spectrum encompasses a very wide range of wavelengths and frequencies. Visible light is only a very small portion of the spectrum with wavelengths from 400-700 nm.",
+    "reference_answer": "visible light",
+    "options": [
+      "visible light",
+      "invisible light",
+      "sunlight",
+      "ultraviolet light"
+    ]
+  },
+  {
+    "id": "sciq_0046",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "In an aqueous solution, what is the solvent?",
+    "context": "",
+    "reference_answer": "water",
+    "options": [
+      "water",
+      "oil",
+      "any liquid",
+      "saltwater"
+    ]
+  },
+  {
+    "id": "sciq_0047",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Breathing involves differences in what, measured in torr, between the inside of the lungs and the air outside?",
+    "context": "Breathing involves pressure differences between the inside of the lungs and the air outside. The pressure differences are only a few torr. A normal breath is about 0.50 L. If room temperature is about 22°C, then the air has a temperature of about 295 K. With normal pressure being 1.0 atm, how many moles of air do we take in for every breath? The ideal gas law gives us an answer:.",
+    "reference_answer": "pressure",
+    "options": [
+      "pressure",
+      "temperature",
+      "gravity",
+      "resistance"
+    ]
+  },
+  {
+    "id": "sciq_0048",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "When explosion of gases creates pressure resulting in motion of a rocket, the force pushing the rocket is called what?",
+    "context": "For a long time, many people believed that a rocket wouldn’t work in space. There would be nothing for the rocket to push against. But they do work! Fuel is ignited in a chamber. The gases in the chamber explode. The explosion creates pressure that forces the gases out of one side of the rocket. The rocket moves in the opposite direction ( Figure below ). The force pushing the rocket is called thrust .",
+    "reference_answer": "thrust",
+    "options": [
+      "thrust",
+      "friction",
+      "stasis",
+      "temperature"
+    ]
+  },
+  {
+    "id": "sciq_0049",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "By the year 2050, 25 percent of the population of the united states will be 60 years of age or older. the cdc estimates that 80 percent of those 60 years and older have one or more chronic disease associated with deficiencies of this?",
+    "context": "Immune System By the year 2050, 25 percent of the population of the United States will be 60 years of age or older. The CDC estimates that 80 percent of those 60 years and older have one or more chronic disease associated with deficiencies of the immune systems. This loss of immune function with age is called immunosenescence. To treat this growing population, medical professionals must better understand the aging process. One major cause of age-related immune deficiencies is thymic involution, the shrinking of the thymus gland that begins at birth, at a rate of about three percent tissue loss per year, and continues until 35–45 years of age, when the rate declines to about one percent loss per year for the rest of one’s life. At that pace, the total loss of thymic epithelial tissue and thymocytes would occur at about 120 years of age. Thus, this age is a theoretical limit to a healthy human lifespan. Thymic involution has been observed in all vertebrate species that have a thymus gland. Animal studies have shown that transplanted thymic grafts between inbred strains of mice involuted according to the age of the donor and not of the recipient, implying the process is genetically programmed. There is evidence that the thymic microenvironment, so vital to the development of naïve T cells, loses thymic epithelial cells according to the decreasing expression of the FOXN1 gene with age. It is also known that thymic involution can be altered by hormone levels. Sex hormones such as estrogen and testosterone enhance involution, and the hormonal changes in pregnant women cause a temporary thymic involution that reverses itself, when the size of the thymus and its hormone levels return to normal, usually after lactation ceases. What does all this tell us? Can we reverse immunosenescence, or at least slow it down? The potential is there for using thymic transplants from younger donors to keep thymic output of naïve T cells high. Gene therapies that target gene expression are also seen as future possibilities. The more we learn through immunosenescence research, the more opportunities there will be to develop therapies, even though these therapies will likely take decades to develop. The ultimate goal is for everyone to live and be healthy longer, but there may be limits to immortality imposed by our genes and hormones.",
+    "reference_answer": "immune system",
+    "options": [
+      "immune system",
+      "respiratory system",
+      "cardiovascular system",
+      "blood vessels"
+    ]
+  },
+  {
+    "id": "sciq_0050",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Some bacteria cannot be cultured because they are obligate intracellular parasites and cannot be grown outside what?",
+    "context": "Some prokaryotes, however, cannot grow in a laboratory setting. In fact, over 99 percent of bacteria and archaea are unculturable. For the most part, this is due to a lack of knowledge as to what to feed these organisms and how to grow them; they have special requirements for growth that remain unknown to scientists, such as needing specific micronutrients, pH, temperature, pressure, co-factors, or co-metabolites. Some bacteria cannot be cultured because they are obligate intracellular parasites and cannot be grown outside a host cell. In other cases, culturable organisms become unculturable under stressful conditions, even though the same organism could be cultured previously. Those organisms that cannot be cultured but are not dead are in a viable-but-non-culturable (VBNC) state. The VBNC state occurs when prokaryotes respond to environmental stressors by entering a dormant state that allows their survival. The criteria for entering into the VBNC state are not completely understood. In a process called resuscitation, the prokaryote can go back to “normal” life when environmental conditions improve. Is the VBNC state an unusual way of living for prokaryotes? In fact, most of the prokaryotes living in the soil or in oceanic waters are non-culturable. It has been said that only a small fraction, perhaps one percent, of prokaryotes can be cultured under laboratory conditions. If these organisms are non-culturable, then how is it known whether they are present and alive? Microbiologists use molecular techniques, such as the polymerase chain reaction (PCR), to amplify selected portions of DNA of prokaryotes, demonstrating their existence. Recall that PCR can make billions of copies of a DNA segment in a process called amplification.",
+    "reference_answer": "host cell",
+    "options": [
+      "host cell",
+      "sponsor cell",
+      "anchor cell",
+      "brain cell"
+    ]
+  },
+  {
+    "id": "sciq_0051",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What makes up the dense outer layer of bones?",
+    "context": "Compact bone makes up the dense outer layer of bone. It is very hard and strong.",
+    "reference_answer": "compact bone",
+    "options": [
+      "compact bone",
+      "adipose tissue",
+      "ligaments",
+      "plasma"
+    ]
+  },
+  {
+    "id": "sciq_0052",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What type of biomes have water containing little or no salt?",
+    "context": "Freshwater biomes have water that contains little or no salt. They include standing and running freshwater biomes. Standing freshwater biomes include ponds and lakes. Lakes are generally bigger and deeper than ponds. Some of the water in lakes is in the aphotic zone where there is too little sunlight for photosynthesis. Plankton and plants (such as the duckweed in Figure below ) are the primary producers in standing freshwater biomes.",
+    "reference_answer": "freshwater biomes",
+    "options": [
+      "freshwater biomes",
+      "coastal biomes",
+      "aquatic biomes",
+      "marine biomes"
+    ]
+  },
+  {
+    "id": "sciq_0053",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Which sphincter is located at the stomach end of the esophagus and opens to allow the bolus to enter the stomach?",
+    "context": "A ring-like muscle called a sphincter forms valves in the digestive system. The gastro-esophageal sphincter is located at the stomach end of the esophagus. In response to swallowing and the pressure exerted by the bolus of food, this sphincter opens, and the bolus enters the stomach. When there is no swallowing action, this sphincter is shut and prevents the contents of the stomach from traveling up the esophagus. Many animals have a true sphincter; however, in humans, there is no true.",
+    "reference_answer": "gastro-esophageal sphincter",
+    "options": [
+      "gastro-esophageal sphincter",
+      "pupillary sphincter",
+      "pyloric sphincter",
+      "urethral sphincter"
+    ]
+  },
+  {
+    "id": "sciq_0054",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What are the majority of solution properties dependent upon?",
+    "context": "The properties of a solution are different from those of either the pure solute(s) or solvent. Many solution properties are dependent upon the chemical identity of the solute. Compared to pure water, a solution of hydrogen chloride is more acidic, a solution of ammonia is more basic, a solution of sodium chloride is more dense, and a solution of sucrose is more viscous. There are a few solution properties, however, that depend only upon the total concentration of solute species, regardless of their identities. These colligative properties include vapor pressure lowering, boiling point elevation, freezing point depression, and osmotic pressure. This small set of properties is of central importance to many natural phenomena and technological applications, as will be described in this module.",
+    "reference_answer": "chemical state of solute",
+    "options": [
+      "chemical state of solute",
+      "similar state of solute",
+      "gas state of solute",
+      "acid state of solute"
+    ]
+  },
+  {
+    "id": "sciq_0055",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "In the inner ear, the vibrations are changed to electrical signals by hair cells lining what?",
+    "context": "In the inner ear, the vibrations are changed to electrical signals by hair cells lining the cochlea. The electrical signals then travel to the brain.",
+    "reference_answer": "the cochlea",
+    "options": [
+      "the cochlea",
+      "ear canal",
+      "hammer",
+      "ear lobe"
+    ]
+  },
+  {
+    "id": "sciq_0056",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the protein in red blood cells which transports oxygen around the body?",
+    "context": "What do you see when you look at this picture? Is it just a mass of tangled ribbons? Look closely. It’s actually a complex pattern of three-dimensional shapes. It represents the structure of a common chemical found inside living cells. The chemical is a protein called hemoglobin. It is the protein in red blood cells which transports oxygen around the body.",
+    "reference_answer": "hemoglobin",
+    "options": [
+      "hemoglobin",
+      "plasma",
+      "hydrogen",
+      "hematocrit"
+    ]
+  },
+  {
+    "id": "sciq_0057",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is essential for population of all species to expand greatly?",
+    "context": "",
+    "reference_answer": "abundant resources",
+    "options": [
+      "abundant resources",
+      "foliage resources",
+      "chemical resources",
+      "liquid resources"
+    ]
+  },
+  {
+    "id": "sciq_0058",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the purpose of a bird using flashy displays?",
+    "context": "Birds often use flashy displays to attract mates.",
+    "reference_answer": "to attract mates",
+    "options": [
+      "to attract mates",
+      "to protect their territory",
+      "to dissuade predators",
+      "to signal feeding"
+    ]
+  },
+  {
+    "id": "sciq_0059",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "When statoliths settle to the low point in the chamber, they stimulate what in that location?",
+    "context": "",
+    "reference_answer": "mechanoreceptors",
+    "options": [
+      "mechanoreceptors",
+      "dendrites",
+      "axons",
+      "nociceptors"
+    ]
+  },
+  {
+    "id": "sciq_0060",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the term for buildup of cell debris and cholesterol inside the arteries?",
+    "context": "Atherosclerosis is the buildup of plaque inside arteries (see Figure below ). Plaque consists of cell debris, cholesterol, and other substances. Factors that contribute to plaque buildup include a high-fat diet and smoking. As plaque builds up, it narrows the arteries and reduces blood flow. You can watch an animation about atherosclerosis at these links: http://www. youtube. com/watch?v=fLonh7ZesKs and http://www. youtube. com/watch?v=qRK7-DCDKEA .",
+    "reference_answer": "atherosclerosis",
+    "options": [
+      "atherosclerosis",
+      "fibrosis",
+      "phimosis",
+      "sclerosis"
+    ]
+  },
+  {
+    "id": "sciq_0061",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What protects the pollen of seed plants and spores of seedless plants?",
+    "context": "The spores of seedless plants and the pollen of seed plants are surrounded by thick cell walls containing a tough polymer known as sporopollenin. This substance is characterized by long chains of organic molecules related to fatty acids and carotenoids, and gives most pollen its yellow color. Sporopollenin is unusually resistant to chemical and biological degradation. Its toughness explains the existence of well-preserved fossils of pollen. Sporopollenin was once thought to be an innovation of land plants; however, the green algae Coleochaetes is now known to form spores that contain sporopollenin. Protection of the embryo is a major requirement for land plants. The vulnerable embryo must be sheltered from desiccation and other environmental hazards. In both seedless and seed plants, the female gametophyte provides nutrition, and in seed plants, the embryo is also protected as it develops into the new generation of sporophyte.",
+    "reference_answer": "sporopollenin",
+    "options": [
+      "sporopollenin",
+      "cystosol",
+      "cocklebur",
+      "chlorophyll"
+    ]
+  },
+  {
+    "id": "sciq_0062",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "All biochemical molecules have oxygen, carbon, and what other element?",
+    "context": "All biochemical molecules contain hydrogen and oxygen as well as carbon. They may also contain nitrogen, phosphorus, and/or sulfur. Almost all biochemical compounds are polymers. Polymers are large molecules that consist of many smaller, repeating molecules, called monomers. Glucose is a monomer of biochemical compounds called starches. In starches and all other biochemical polymers, monomers are joined together by covalent bonds, in which atoms share pairs of valence electrons.",
+    "reference_answer": "hydrogen",
+    "options": [
+      "hydrogen",
+      "helium",
+      "nitrogen",
+      "calcium"
+    ]
+  },
+  {
+    "id": "sciq_0063",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The leaves of what plant genus are the source of the compound ephedrine, which is used in medicine as a potent decongestant and is similar to amphetamines?",
+    "context": "years. The genus Ephedra is represented in North America in dry areas of the southwestern United States and Mexico (Figure 14.23). Ephedra’s small, scale-like leaves are the source of the compound ephedrine, which is used in medicine as a potent decongestant. Because ephedrine is similar to amphetamines, both in chemical structure and neurological effects, its use is restricted to prescription drugs. Like angiosperms, but unlike other gymnosperms, all gnetophytes possess vessel elements in their xylem.",
+    "reference_answer": "ephedra",
+    "options": [
+      "ephedra",
+      "Stimulant",
+      "dietary",
+      "additive"
+    ]
+  },
+  {
+    "id": "sciq_0064",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The bohr model works only for which atom?",
+    "context": "The Bohr model works only for the hydrogen atom.",
+    "reference_answer": "hydrogen",
+    "options": [
+      "hydrogen",
+      "helium",
+      "carbon",
+      "boron"
+    ]
+  },
+  {
+    "id": "sciq_0065",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "A fever also causes the immune system to make more of what?",
+    "context": "White blood cells also make chemicals that cause a fever. A fever is a higher-than-normal body temperature. Normal human body temperature is 98.6°F (37°C). Most bacteria and viruses that infect people reproduce fastest at this temperature. When the temperature is higher, the pathogens cannot reproduce as fast, so the body raises the temperature to kill them. A fever also causes the immune system to make more white blood cells. In these ways, a fever helps the body fight infection.",
+    "reference_answer": "white blood cells",
+    "options": [
+      "white blood cells",
+      "insulin",
+      "red blood cells",
+      "urea"
+    ]
+  },
+  {
+    "id": "sciq_0066",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The stored chemical energy of trees and other plants is called what?",
+    "context": "The stored chemical energy of trees and other plants is called biomass energy. When plant materials are burned, they produce thermal energy that can be used for heating, cooking, or generating electricity. Biomass—especially wood—is an important energy source in countries where most people can’t afford fossil fuels. Some plants can also be used to make ethanol, a fuel that is added to gasoline. Ethanol produces less pollution than gasoline, but large areas of land are needed to grow the plants needed to make it.",
+    "reference_answer": "biomass energy",
+    "options": [
+      "biomass energy",
+      "decomposition energy",
+      "biocomposte energy",
+      "byproduct energy"
+    ]
+  },
+  {
+    "id": "sciq_0067",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Certain air pollutants form which liquid when dissolved in water droplets in the air?",
+    "context": "Acidity is an important factor for living things. For example, many plants grow best in soil that has a pH between 6 and 7. Fish may also need a pH between 6 and 7. Certain air pollutants form acids when dissolved in water droplets in the air. This results in acid fog and acid rain, which may have a pH of 4 or even lower. The pH chart in the Figure above and the Figure below reveal some of the adverse effects of acid fog and rain. Acid rain not only kills trees. It also lowers the pH of surface waters such as ponds and lakes. As a result, the water may become too acidic for fish and other water organisms to survive.",
+    "reference_answer": "acid",
+    "options": [
+      "acid",
+      "water",
+      "base",
+      "citrus"
+    ]
+  },
+  {
+    "id": "sciq_0068",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The number of what subatomic particles determines an element’s atomic number and is used to distinguish one element from another?",
+    "context": "Atomic Number and Mass Atoms of each element contain a characteristic number of protons and electrons. The number of protons determines an element’s atomic number and is used to distinguish one element from another. The number of neutrons is variable, resulting in isotopes, which are different forms of the same atom that vary only in the number of neutrons they possess. Together, the number of protons and the number of neutrons determine an element’s mass number, as illustrated in Figure 2.3. Note that the small contribution of mass from electrons is disregarded in calculating the mass number. This approximation of mass can be used to easily calculate how many neutrons an element has by simply subtracting the number of protons from the mass number. Since an element’s isotopes will have slightly different mass numbers, scientists also determine the atomic mass, which is the calculated mean of the mass number for its naturally occurring isotopes. Often, the resulting number contains a fraction. For example, the atomic mass of chlorine (Cl) is 35.45 because chlorine is composed of several isotopes, some (the majority) with atomic mass 35 (17 protons and 18 neutrons) and some with atomic mass 37 (17 protons and 20 neutrons).",
+    "reference_answer": "protons",
+    "options": [
+      "protons",
+      "neutrons",
+      "quarks",
+      "electrons"
+    ]
+  },
+  {
+    "id": "sciq_0069",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What geologic era is also known as the age of mammals?",
+    "context": "The Cenozoic Era literally means the era of “modern life. ” It is also called the age of mammals. Mammals took advantage of the extinction of the dinosaurs. They flourished and soon became the dominant animals on Earth. You can learn more about the evolution of mammals during the Cenozoic at the link below. The Cenozoic began 65 million years ago and continues to the present. It may be divided into the two periods described in Figure below . http://www. youtube. com/watch?v=H0uTGkCWXwQ.",
+    "reference_answer": "cenozoic era",
+    "options": [
+      "cenozoic era",
+      "mesozoic era",
+      "paleozoic era",
+      "cretaceous period"
+    ]
+  },
+  {
+    "id": "sciq_0070",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Which is a more reliable trait or measure to identify minerals?",
+    "context": "Streak is more reliable than color to identify minerals. The color of a mineral may vary. Streak does not vary. Also, different minerals may be the same color, but they may have a different color streak. For example, samples of hematite and galena can both be dark gray. They can be told apart because hematite has a red streak and galena has a gray streak.",
+    "reference_answer": "streak",
+    "options": [
+      "streak",
+      "color",
+      "shape",
+      "weight"
+    ]
+  },
+  {
+    "id": "sciq_0071",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The nervous system has two main parts, called the central nervous system and the what?",
+    "context": "The nervous system has two main parts, called the central nervous system and the peripheral nervous system. The peripheral nervous system is described later in this lesson. The central nervous system is shown in Figure below . It includes the brain and spinal cord.",
+    "reference_answer": "peripheral nervous system",
+    "options": [
+      "peripheral nervous system",
+      "functional nervious system",
+      "useful nervous system",
+      "obsolete nervous system"
+    ]
+  },
+  {
+    "id": "sciq_0072",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What type of rocks form when an existing rock is changed by heat or pressure?",
+    "context": "3. Metamorphic rocks form when an existing rock is changed by heat or pressure. The minerals in the rock change but do not melt ( Figure below ). The rock experiences these changes within the Earth.",
+    "reference_answer": "metamorphic",
+    "options": [
+      "metamorphic",
+      "Molten",
+      "igneous",
+      "sediments"
+    ]
+  },
+  {
+    "id": "sciq_0073",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What do you call health-promoting molecules that inhibit the oxidation of other molecules?",
+    "context": "Antioxidants are important for the health of a cell. An antioxidant is a molecule that inhibits the oxidation of other molecules. Oxidation is a chemical reaction that transfers electrons or hydrogen from a substance to an oxidizing agent, producing free radicals in the process. These free radicals initiate a chain reaction in the cell that can cause cell damage, or can lead to cell death. Antioxidants prevent these chain reactions from even initiating.",
+    "reference_answer": "antioxidants",
+    "options": [
+      "antioxidants",
+      "neurotransmitters",
+      "nutrients",
+      "hormones"
+    ]
+  },
+  {
+    "id": "sciq_0074",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the membrane lining the back of the eye called?",
+    "context": "The retina is a membrane lining the back of the eye. The retina has nerve cells called rods and cones that change images to electrical signals. Rods are good at sensing dim light but can’t distinguish different colors of light. Cones can sense colors but not in dim light. There are three different types of cones. Each type senses one of the three primary colors of light.",
+    "reference_answer": "retina",
+    "options": [
+      "retina",
+      "lens",
+      "cornea",
+      "aperture"
+    ]
+  },
+  {
+    "id": "sciq_0075",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What do seeds have that spores do not?",
+    "context": "",
+    "reference_answer": "a supply of stored food",
+    "options": [
+      "a supply of stored food",
+      "DNA",
+      "pollenators",
+      "chlorophyll"
+    ]
+  },
+  {
+    "id": "sciq_0076",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "In photosynthesis, what process involving carbon dioxide and oxygen occurs through small, regulated openings called stomata?",
+    "context": "Although the equation looks simple, the many steps that take place during photosynthesis are actually quite complex. Before learning the details of how photoautotrophs turn sunlight into food, it is important to become familiar with the structures involved. In plants, photosynthesis generally takes place in leaves, which consist of several layers of cells. The process of photosynthesis occurs in a middle layer called the mesophyll. The gas exchange of carbon dioxide and oxygen occurs through small, regulated openings called stomata (singular: stoma), which also play roles in the regulation of gas exchange and water balance. The stomata are typically located on the underside of the leaf, which helps to minimize water loss. Each stoma is flanked by guard cells that regulate the opening and closing of the stomata by swelling or shrinking in response to osmotic changes. In all autotrophic eukaryotes, photosynthesis takes place inside an organelle called a chloroplast. For plants, chloroplastcontaining cells exist in the mesophyll. Chloroplasts have a double membrane envelope (composed of an outer membrane and an inner membrane). Within the chloroplast are stacked, disc-shaped structures called thylakoids. Embedded in the thylakoid membrane is chlorophyll, a pigment (molecule that absorbs light) responsible for the initial interaction between light and plant material, and numerous proteins that make up the electron transport chain. The thylakoid membrane encloses an internal space called the thylakoid lumen. As shown in Figure 8.6, a stack of thylakoids is called a granum, and the liquid-filled space surrounding the granum is called stroma or “bed” (not to be confused with stoma or “mouth,” an opening on the leaf epidermis).",
+    "reference_answer": "gas exchange",
+    "options": [
+      "gas exchange",
+      "osmosis",
+      "fertilization",
+      "transpiration"
+    ]
+  },
+  {
+    "id": "sciq_0077",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Angiosperm seed develops inside of what?",
+    "context": "In gymnosperms, a seed develops on the scale of a cone. Only an angiosperm seed develops inside an ovary.",
+    "reference_answer": "an ovary",
+    "options": [
+      "an ovary",
+      "fallopian tubes",
+      "a kidney",
+      "the pancreas"
+    ]
+  },
+  {
+    "id": "sciq_0078",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What kind of diffusion do small hydrophobic molecules squeeze through lipid molecules?",
+    "context": "Problems can occur with red blood cells, white blood cells, platelets, and other parts of the blood. Many blood disorders are genetic, meaning they are inherited from a parent. Some blood diseases are caused by not getting enough of a certain nutrient, while others are cancers of the blood.",
+    "reference_answer": "simple",
+    "options": [
+      "simple",
+      "difficult",
+      "slippery",
+      "complex"
+    ]
+  },
+  {
+    "id": "sciq_0079",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the name of the molecule which has one carbon and four hydrogen atoms?",
+    "context": "Hydrocarbons are made of carbon and hydrogen atoms. This molecule with one carbon and four hydrogen atoms is methane.",
+    "reference_answer": "methane",
+    "options": [
+      "methane",
+      "carbohydrate",
+      "sulfur",
+      "carbon monoxide"
+    ]
+  },
+  {
+    "id": "sciq_0080",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The lancelet lacks what feature that distinguishes vertebrates?",
+    "context": "",
+    "reference_answer": "backbone",
+    "options": [
+      "backbone",
+      "feet",
+      "skin",
+      "mouth"
+    ]
+  },
+  {
+    "id": "sciq_0081",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What does the inside of all cells also contain?",
+    "context": "The inside of all cells also contain a jelly-like substance called cytosol . Cytosol is composed of water and other molecules, including enzymes , which are proteins that speed up the cell’s chemical reactions. Everything in the cell sits in the cytosol, like fruit in a jello mold. The term cytoplasm refers to the cytosol and all of the organelles, the specialized compartments of the cell. The cytoplasm does not include the nucleus. As a prokaryotic cell does not have a nucleus, the DNA is in the cytoplasm.",
+    "reference_answer": "cytosol",
+    "options": [
+      "cytosol",
+      "chloroplasm",
+      "protein",
+      "chromosomes"
+    ]
+  },
+  {
+    "id": "sciq_0082",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The type of bond that forms between molecules is called what?",
+    "context": "Opposites attract when it comes to charged molecules. In the case of water, the positive (hydrogen) end of one water molecule is attracted to the negative (oxygen) end of a nearby water molecule. Because of this attraction, weak bonds form between adjacent water molecules, as shown in Figure below . The type of bond that forms between molecules is called a hydrogen bond . Bonds between molecules are not as strong as bonds within molecules, but in water they are strong enough to hold together nearby molecules.",
+    "reference_answer": "hydrogen bond",
+    "options": [
+      "hydrogen bond",
+      "fission bond",
+      "covalent bond",
+      "helium bond"
+    ]
+  },
+  {
+    "id": "sciq_0083",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "When do gases and liquids become solids?",
+    "context": "We tend to think of solids as those materials that are solid at room temperature. However, all materials have melting points of some sort. Gases become solids at extremely low temperatures, and liquids will also become solid if the temperature is low enough. The Table below gives the melting points of some common materials.",
+    "reference_answer": "at low temperatures",
+    "options": [
+      "at low temperatures",
+      "at relative temperatures",
+      "at hot temperatures",
+      "at high temperatures"
+    ]
+  },
+  {
+    "id": "sciq_0084",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What evolutionary process has adapted protonephridia to different tasks in different environments?",
+    "context": "",
+    "reference_answer": "natural selection",
+    "options": [
+      "natural selection",
+      "natural reproduction",
+      "natural variety",
+      "natural change"
+    ]
+  },
+  {
+    "id": "sciq_0085",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "All of the petals together are called what?",
+    "context": "All of the petals ( Figure below ) together are called the corolla . They are bright and colorful to attract a particular pollinator , an animal that carries pollen from one flower to another. Examples of pollinators include birds and insects.",
+    "reference_answer": "corolla",
+    "options": [
+      "corolla",
+      "stamen",
+      "anthers",
+      "stalk"
+    ]
+  },
+  {
+    "id": "sciq_0086",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the third class of elements after metals and nonmetals?",
+    "context": "Elements in different groups are lumped together in one of three classes, depending on their properties. The classes are metals, nonmetals, and metalloids. Knowing the class of an element lets you predict many of its properties. The video at the URL below is a good introduction to the classes.",
+    "reference_answer": "metalloids",
+    "options": [
+      "metalloids",
+      "halogens",
+      "synthetics",
+      "noble gases"
+    ]
+  },
+  {
+    "id": "sciq_0087",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "An increase in what levels results in sound waves that are louder and of greater intensity?",
+    "context": "As decibel levels get higher, sound waves have greater intensity and sounds are louder. For every 10-decibel increase in the intensity of sound, loudness is 10 times greater.",
+    "reference_answer": "decibel levels",
+    "options": [
+      "decibel levels",
+      "radiation levels",
+      "height levels",
+      "heat levels"
+    ]
+  },
+  {
+    "id": "sciq_0088",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What forms when nitrogen and sulfur oxides in air dissolve in rain?",
+    "context": "Acid rain forms when nitrogen and sulfur oxides in air dissolve in rain ( Figure below ). This forms nitric and sulfuric acids. Both are strong acids. Acid rain with a pH as low as 4.0 is now common in many areas. Acid fog may be even more acidic than acid rain. Fog with a pH as low as 1.7 has been recorded. That’s the same pH as toilet bowl cleaner!.",
+    "reference_answer": "acid rain",
+    "options": [
+      "acid rain",
+      "carbon rain",
+      "dioxide rain",
+      "acid snow"
+    ]
+  },
+  {
+    "id": "sciq_0089",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What happens to the pressure when more gas is added to a rigid container?",
+    "context": "The acceleration of the car is in the same direction as the velocity.",
+    "reference_answer": "increases",
+    "options": [
+      "increases",
+      "occurs",
+      "changes",
+      "Higher"
+    ]
+  },
+  {
+    "id": "sciq_0090",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What in roundworms is a partial body cavity filled with fluid?",
+    "context": "Ancestors of roundworms also evolved a pseudocoelom. This is a partial body cavity that is filled with fluid. It allows room for internal organs to develop. The fluid also cushions the internal organs. The pressure of the fluid within the cavity provides stiffness. It gives the body internal support, forming a hydrostatic skeleton. It explains why roundworms are round and flatworms are flat. Later, a true coelom evolved. This is a fluid-filled body cavity, completely enclosed by mesoderm. It lies between the digestive cavity and body wall (see Figure below ). Invertebrates with a true coelom include mollusks and annelids.",
+    "reference_answer": "pseudocoelom",
+    "options": [
+      "pseudocoelom",
+      "abdomen",
+      "cocklebur",
+      "spicule"
+    ]
+  },
+  {
+    "id": "sciq_0091",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Salts that are neither acidic nor basic do not affect what property of the solution when dissolved in water?",
+    "context": "The simplest situation is a salt formed by combining a strong acid and a strong base. These salts are neither acidic nor basic, so they do not affect the pH of the solution when dissolved in water. For example, the ionic compound NaNO 3 could be prepared by combining the strong acid HNO 3 and the strong base NaOH. If we were to dissolve NaNO 3 in water, it would dissociate into Na + and NO 3 - ions. Neither ion is a strong enough acid or base to cause any noticeable proton transfers, so the pH of the pure water is not altered.",
+    "reference_answer": "ph",
+    "options": [
+      "ph",
+      "homeostasis",
+      "saturation",
+      "density"
+    ]
+  },
+  {
+    "id": "sciq_0092",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is part of a large fungus that lives underground?",
+    "context": "Mushrooms aren't around just so you can put them on your pizza. The mushroom is part of a large fungus that lives underground. The mushroom develops above the ground when the fungus is ready to reproduce.",
+    "reference_answer": "mushroom",
+    "options": [
+      "mushroom",
+      "bamboo",
+      "mold",
+      "bark"
+    ]
+  },
+  {
+    "id": "sciq_0093",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "In the case of the moose, predation is an additional factor that regulates what?",
+    "context": "",
+    "reference_answer": "population",
+    "options": [
+      "population",
+      "speed",
+      "color",
+      "weight"
+    ]
+  },
+  {
+    "id": "sciq_0094",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Chemical reactions involve a transfer of heat energy. measured in what?",
+    "context": "Chemical reactions involve a transfer of heat energy. Measured in joules.",
+    "reference_answer": "joules",
+    "options": [
+      "joules",
+      "amps",
+      "amperes",
+      "thermals"
+    ]
+  },
+  {
+    "id": "sciq_0095",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "As the telencephalon enlarges and grows into the cranial cavity, it is limited by the space within what bone structure?",
+    "context": "As the telencephalon enlarges and grows into the cranial cavity, it is limited by the space within the skull. The telencephalon is the most anterior region of what was the neural tube, but cannot grow past the limit of the frontal bone of the skull. Because the cerebrum fits into this space, it takes on a C-shaped formation, through the frontal, parietal, occipital, and finally temporal regions. The space within the telencephalon is stretched into this same C-shape. The two ventricles are in the left and right sides, and were at one time referred to as the first and second ventricles. The interventricular foramina connect the frontal region of the lateral ventricles with the third ventricle. The third ventricle is the space bounded by the medial walls of the hypothalamus and thalamus. The two thalami touch in the center in most brains as the massa intermedia, which is surrounded by the third ventricle. The cerebral aqueduct opens just inferior to the epithalamus and passes through the midbrain. The tectum and tegmentum of the midbrain are the roof and floor of the cerebral aqueduct, respectively. The aqueduct opens up into the fourth ventricle. The floor of the fourth ventricle is the dorsal surface of the pons and upper medulla (that gray matter making a continuation of the tegmentum of the midbrain). The fourth ventricle then narrows into the central canal of the spinal cord. The ventricular system opens up to the subarachnoid space from the fourth ventricle. The single median aperture and the pair of lateral apertures connect to the subarachnoid space so that CSF can flow through the ventricles and around the outside of the CNS. Cerebrospinal fluid is produced within the ventricles by a type of specialized membrane called a choroid plexus. Ependymal cells (one of the types of glial cells described in the introduction to the nervous system) surround blood capillaries and filter the blood to make CSF. The fluid is a clear solution with a limited amount of the constituents of blood. It is essentially water, small molecules, and electrolytes. Oxygen and carbon dioxide are dissolved into the CSF, as they are in blood, and can diffuse between the fluid and the nervous tissue.",
+    "reference_answer": "skull",
+    "options": [
+      "skull",
+      "skeleton",
+      "spine",
+      "chest"
+    ]
+  },
+  {
+    "id": "sciq_0096",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "If a lump of clay is dropped into water, what will occur?",
+    "context": "Floating and Sinking Drop a lump of clay in water. It will sink. Then mold the lump of clay into the shape of a boat, and it will float. Because of its shape, the boat displaces more water than the lump and experiences a greater buoyant force. The same is true of steel ships.",
+    "reference_answer": "it will sink",
+    "options": [
+      "it will sink",
+      "Will float",
+      "Will dissolve",
+      "Will break up"
+    ]
+  },
+  {
+    "id": "sciq_0097",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What kind of reproduction generates most of the genetic variation that makes evolutionary adaptation possible?",
+    "context": "",
+    "reference_answer": "sexual reproduction",
+    "options": [
+      "sexual reproduction",
+      "cloning",
+      "asexual reproduction",
+      "synthetic reproduction"
+    ]
+  },
+  {
+    "id": "sciq_0098",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What term is used to describe a cancer that has spread?",
+    "context": "Isotopes can be very useful in scans to locate cancer cells. This patient has multiple tumors that have spread (metastasized) from the main tumor. A radioisotope has been attached to antibodies that bind to specific cancer cells. The very dark spots in the armpits, neck, and groin represent areas where tumor cells exist.",
+    "reference_answer": "metastasized",
+    "options": [
+      "metastasized",
+      "destabilized",
+      "galvanized",
+      "ostracized"
+    ]
+  },
+  {
+    "id": "sciq_0099",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What soil is common in deciduous forests?",
+    "context": "Pedalfer is the soil common in deciduous forests. Pedalfer is dark brown and fertile.",
+    "reference_answer": "pedalfer",
+    "options": [
+      "pedalfer",
+      "sandy soil",
+      "xerophyte",
+      "loam"
+    ]
+  },
+  {
+    "id": "sciq_0100",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the space between a neuron and the next cell?",
+    "context": "It literally jumps by way of a chemical transmitter. Notice the two cells are not connected, but separated by a small gap. The synapse. The space between a neuron and the next cell.",
+    "reference_answer": "the synapse",
+    "options": [
+      "the synapse",
+      "neurotransmitter passage",
+      "dendritic gap",
+      "cell divide"
+    ]
+  },
+  {
+    "id": "sciq_0101",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "When your brain senses that your body temperature is increasing, it sends messages to the blood vessels in the skin to increase in what?",
+    "context": "The cardiovascular system also plays a role in maintaining body temperature. It helps to keep you warm by moving warm blood around your body. Your blood vessels also control your body temperature to keep you from getting too hot or too cold. When your brain senses that your body temperature is increasing, it sends messages to the blood vessels in the skin to increase in diameter. Increasing the diameter of the blood vessels increases the amount of blood and heat that moves near the skin's surface. The heat is then released from the skin. This helps you cool down. What do you think your blood vessels do when your body temperature is decreasing?.",
+    "reference_answer": "diameter",
+    "options": [
+      "diameter",
+      "surface",
+      "height",
+      "weight"
+    ]
+  },
+  {
+    "id": "sciq_0102",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What holds together adenine and thymine?",
+    "context": "The base-pairing nature of DNA. Adenine always pairs with thymine, and they are held together with two hydrogen bonds. The guanine-cytosine base pair is held together with three hydrogen bonds. Note that one sugar-phosphate backbone is in the 5’ → 3’ direction, with the other strand in the opposite 3’ → 5’ orientation. Notice that the 5'-end begins with a free (not attached to the sugar of another nucleotide) phosphate group, while the 3'-end has a free (not attached to the phosphate group of another nucleotide) deoxyribose sugar.",
+    "reference_answer": "hydrogen bonds",
+    "options": [
+      "hydrogen bonds",
+      "covalent bonds",
+      "potassium bonds",
+      "helium bonds"
+    ]
+  },
+  {
+    "id": "sciq_0103",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The products of what process are needed for cellular respiration, and vice versa?",
+    "context": "Cellular respiration and photosynthesis are like two sides of the same coin. This is clear from the diagram in Figure below . The products of photosynthesis are needed for cellular respiration. The products of cellular respiration are needed for photosynthesis. Together, the two processes store and release energy in virtually all living things.",
+    "reference_answer": "photosynthesis",
+    "options": [
+      "photosynthesis",
+      "digestion",
+      "spermatogenesis",
+      "circulation"
+    ]
+  },
+  {
+    "id": "sciq_0104",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The bilaterians are divided into deuterostomes and what else?",
+    "context": "",
+    "reference_answer": "protostomes",
+    "options": [
+      "protostomes",
+      "protozoa",
+      "progestins",
+      "gymnosperms"
+    ]
+  },
+  {
+    "id": "sciq_0105",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What divide on their own by a process that resembles binary fission in prokaryotes?",
+    "context": "Mitochondria divide on their own by a process that resembles binary fission in prokaryotes. Mitochondria have their own circular DNA chromosome that carries genes similar to those expressed by bacteria. Mitochondria also have special ribosomes and transfer RNAs that resemble these components in prokaryotes. These features all support that mitochondria were once free-living prokaryotes. Chloroplasts Chloroplasts are one type of plastid, a group of related organelles in plant cells that are involved in the storage of starches, fats, proteins, and pigments. Chloroplasts contain the green pigment chlorophyll and play a role in photosynthesis. Genetic and morphological studies suggest that plastids evolved from the endosymbiosis of an ancestral cell that engulfed a photosynthetic cyanobacterium. Plastids are similar in size and shape to cyanobacteria and are enveloped by two or more membranes, corresponding to the inner and outer membranes of cyanobacteria. Like mitochondria, plastids also contain circular genomes and divide by a process reminiscent of prokaryotic cell division. The chloroplasts of red and green algae.",
+    "reference_answer": "mitochondria",
+    "options": [
+      "mitochondria",
+      "protazoa",
+      "proteins",
+      "bacteria"
+    ]
+  },
+  {
+    "id": "sciq_0106",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What are plant structures that contain male and/or female reproductive organs?",
+    "context": "Some seed plants evolved another major adaptation. This was the formation of seeds in flowers. Flowers are plant structures that contain male and/or female reproductive organs.",
+    "reference_answer": "flowers",
+    "options": [
+      "flowers",
+      "roots",
+      "stems",
+      "leaves"
+    ]
+  },
+  {
+    "id": "sciq_0107",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Oxygen is combined with what to form water?",
+    "context": "Photosynthesis makes the glucose that is used in cellular respiration to make ATP. The glucose is then turned back into carbon dioxide, which is used in photosynthesis. While water is broken down to form oxygen during photosynthesis, in cellular respiration oxygen is combined with hydrogen to form water. While photosynthesis requires carbon dioxide and releases oxygen, cellular respiration requires oxygen and releases carbon dioxide. It is the released oxygen that is used by us and most other organisms for cellular respiration. We breathe in that oxygen, which is carried through our blood to all our cells. In our cells, oxygen allows cellular respiration to proceed. Cellular respiration works best in the presence of oxygen. Without oxygen, much less ATP would be produced.",
+    "reference_answer": "hydrogen",
+    "options": [
+      "hydrogen",
+      "glucose",
+      "helium",
+      "carbon"
+    ]
+  },
+  {
+    "id": "sciq_0108",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What forms when nitrogen and oxygen combine at high temperatures?",
+    "context": "Nitrogen oxides include nitric oxide (NO) and nitrogen dioxide (NO 2 ). Nitrogen oxides form when nitrogen and oxygen combine at high temperatures. This occurs in hot exhausts from vehicles, factories, and power plants.",
+    "reference_answer": "nitrogen oxides",
+    "options": [
+      "nitrogen oxides",
+      "hydrocarbons",
+      "nitric acid",
+      "calcium oxides"
+    ]
+  },
+  {
+    "id": "sciq_0109",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The ionic end of a detergent can either be a sulfate or what?",
+    "context": "Figure 11.33 Detergents contain a nonpolar hydrocarbon end (blue) and an ionic end (red). The ionic end can be either a sulfate or a sulfonate. The length of the hydrocarbon end can vary from detergent to detergent.",
+    "reference_answer": "sulfonate",
+    "options": [
+      "sulfonate",
+      "molecule",
+      "calcite",
+      "phosphate"
+    ]
+  },
+  {
+    "id": "sciq_0110",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Plant-like protists contains chloroplasts and make food by what process?",
+    "context": "common name of a plant-like protist, which contains chloroplasts and makes food by photosynthesis.",
+    "reference_answer": "photosynthesis",
+    "options": [
+      "photosynthesis",
+      "digestion",
+      "chemical processes",
+      "farming"
+    ]
+  },
+  {
+    "id": "sciq_0111",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Which  organs control the amount of water, ions, and other substances in the blood by excreting more or less of them in urine?",
+    "context": "The kidneys play many vital roles in homeostasis. They filter all the blood in the body many times each day and produce a total of about 1.5 liters of urine. The kidneys control the amount of water, ions, and other substances in the blood by excreting more or less of them in urine. The kidneys also secrete hormones that help maintain homeostasis. Erythropoietin, for example, is a kidney hormone that stimulates bone marrow to produce red blood cells when more are needed. The kidneys themselves are also regulated by hormones. For example, antidiuretic hormone from the hypothalamus stimulates the kidneys to produce more concentrated urine when the body is low on water.",
+    "reference_answer": "kidneys",
+    "options": [
+      "kidneys",
+      "lungs",
+      "tongue",
+      "ears"
+    ]
+  },
+  {
+    "id": "sciq_0112",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "When a nerve impulse reaches the end of an axon, what are the chemicals released by the axon called?",
+    "context": "When a nerve impulse reaches the end of an axon, the axon releases chemicals called neurotransmitters .",
+    "reference_answer": "neurotransmitters",
+    "options": [
+      "neurotransmitters",
+      "neurons",
+      "electrolytes",
+      "receptors"
+    ]
+  },
+  {
+    "id": "sciq_0113",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "A collapsing nebula leads to what process?",
+    "context": "Stars form from clouds of gas and dust called nebulas. Nebulas collapse until nuclear fusion starts.",
+    "reference_answer": "nuclear fusion",
+    "options": [
+      "nuclear fusion",
+      "nuclear reaction",
+      "destructive fusion",
+      "chemical reaction"
+    ]
+  },
+  {
+    "id": "sciq_0114",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What bond is the force of attraction that holds together two atoms that share a pair of valence electrons?",
+    "context": "A covalent bond is the force of attraction that holds together two atoms that share a pair of valence electrons. Covalent bonds form only between atoms of nonmetals.",
+    "reference_answer": "covalent",
+    "options": [
+      "covalent",
+      "polar",
+      "hydrogen",
+      "metallic"
+    ]
+  },
+  {
+    "id": "sciq_0115",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Haversian canals contain blood vessels and what else?",
+    "context": "Compact bone tissue is made of cylindrical osteons that are aligned such that they travel the length of the bone. Haversian canals contain blood vessels only. Haversian canals contain blood vessels and nerve fibers. Spongy tissue is found on the interior of the bone, and compact bone tissue is found on the exterior. Figure 38.37 Which of the following statements about muscle contraction is true?.",
+    "reference_answer": "nerve fibers",
+    "options": [
+      "nerve fibers",
+      "muscle fibers",
+      "synovial fluid",
+      "collagen fibers"
+    ]
+  },
+  {
+    "id": "sciq_0116",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The sternocleidomastoid is the major muscle that laterally flexes and rotates what?",
+    "context": "Muscles That Move the Head The head, attached to the top of the vertebral column, is balanced, moved, and rotated by the neck muscles (Table 11.5). When these muscles act unilaterally, the head rotates. When they contract bilaterally, the head flexes or extends. The major muscle that laterally flexes and rotates the head is the sternocleidomastoid. In addition, both muscles working together are the flexors of the head. Place your fingers on both sides of the neck and turn your head to the left and to the right. You will feel the movement originate there. This muscle divides the neck into anterior and posterior triangles when viewed from the side (Figure 11.14).",
+    "reference_answer": "head",
+    "options": [
+      "head",
+      "tongue",
+      "eye",
+      "knee"
+    ]
+  },
+  {
+    "id": "sciq_0117",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Radioactive nuclei and particles are represented by which symbols?",
+    "context": "Radioactive nuclei and particles are represented by nuclear symbols that indicate their numbers of protons and neutrons. For example, an alpha particle (helium nucleus) is represented by the symbol , where He is the chemical symbol for helium, the subscript 2 is the number of protons, and the superscript 4 is the mass number (2 protons + 2 neutrons).",
+    "reference_answer": "nuclear",
+    "options": [
+      "nuclear",
+      "energy",
+      "greek",
+      "compound"
+    ]
+  },
+  {
+    "id": "sciq_0118",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What are located along convergent and divergent plate boundaries?",
+    "context": "Volcanoes are located along convergent and divergent plate boundaries. They can be found in the middle of plates at hot spots.",
+    "reference_answer": "volcanoes",
+    "options": [
+      "volcanoes",
+      "mezas",
+      "megaliths",
+      "dunes"
+    ]
+  },
+  {
+    "id": "sciq_0119",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The basic voltaic cell variations are the dry cell and the what?",
+    "context": "Two variations on the basic voltaic cell are the dry cell and the lead storage battery.",
+    "reference_answer": "lead storage battery",
+    "options": [
+      "lead storage battery",
+      "lead flood battery",
+      "positive terminal",
+      "lead electricity battery"
+    ]
+  },
+  {
+    "id": "sciq_0120",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Water can be broken down into hydrogen and oxygen gases by the addition of what?",
+    "context": "Chemistry in Everyday Life Decomposition of Water / Production of Hydrogen Water consists of the elements hydrogen and oxygen combined in a 2 to 1 ratio. Water can be broken down into hydrogen and oxygen gases by the addition of energy. One way to do this is with a battery or power supply, as shown in (Figure 1.15).",
+    "reference_answer": "energy",
+    "options": [
+      "energy",
+      "motion",
+      "mineral",
+      "demand"
+    ]
+  },
+  {
+    "id": "sciq_0121",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What type of climate does the coast of california have?",
+    "context": "Mediterranean climates are found on the western coasts of continents. The latitudes are between 30° and 45°. The coast of California has a Mediterranean climate. Temperatures are mild and rainfall is moderate. Most of the rain falls in the winter, and summers are dry. To make it through the dry summers, short woody plants are common.",
+    "reference_answer": "mediterranean",
+    "options": [
+      "mediterranean",
+      "rainforest",
+      "tropical",
+      "arctic"
+    ]
+  },
+  {
+    "id": "sciq_0122",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What living species of bird is considered the  largest of the raptors?",
+    "context": "Although not as famous as its bald cousin, Golden Eagles are much easier to find in Northern California - one of the largest breeding populations for Golden Eagles. The largest of the raptors, Golden Eagles weigh typically between 8 and 12 pounds, and their wing span is around 6 to 7 feet. These eagles dive towards earth to catch prey, and can reach speeds of up to 200 mph! Meet one of the largest birds of prey at http://www. kqed. org/quest/television/cool-critters-the-golden-eagle .",
+    "reference_answer": "golden eagles",
+    "options": [
+      "golden eagles",
+      "California condor",
+      "peregrine falcon",
+      "pteradactyl"
+    ]
+  },
+  {
+    "id": "sciq_0123",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What type of mechanical weathering occurs when one rock bumps against another rock?",
+    "context": "Abrasion is another type of mechanical weathering. With abrasion, one rock bumps against another rock. Gravity causes abrasion as a rock tumbles down a slope. Moving water causes abrasion; it moves rocks so that they bump against one another ( Figure below ). Strong winds cause abrasion by blasting sand against rock surfaces. Finally, the ice in glaciers cause abrasion. Pieces of rock embedded in ice at the bottom of a glacier scrape against the rock below. If you have ever collected beach glass or pebbles from a stream, you have witnessed the work of abrasion.",
+    "reference_answer": "abrasion",
+    "options": [
+      "abrasion",
+      "absorption",
+      "refraction",
+      "disintegration"
+    ]
+  },
+  {
+    "id": "sciq_0124",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Paramecium possess tiny hair-like cilia that help them do what?",
+    "context": "Some protists, like these Paramecium , act much like animals. Notice the tiny hair-like cilia that help them move. The food vacuoles, where they digest their prey, are colored in orange.",
+    "reference_answer": "move",
+    "options": [
+      "move",
+      "fight",
+      "look",
+      "breed"
+    ]
+  },
+  {
+    "id": "sciq_0125",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Skyscrapers and other large structures built on soft ground must be anchored to what, located below the ground surface?",
+    "context": "Skyscrapers and other large structures built on soft ground must be anchored to bedrock. Sometimes the bedrock lies hundreds of meters below the ground surface.",
+    "reference_answer": "bedrock",
+    "options": [
+      "bedrock",
+      "ocean floor",
+      "groundwater",
+      "water table"
+    ]
+  },
+  {
+    "id": "sciq_0126",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Do vascular or nonvascular plants lack tracheids?",
+    "context": "",
+    "reference_answer": "nonvascular",
+    "options": [
+      "nonvascular",
+      "vascular",
+      "neither do",
+      "both do"
+    ]
+  },
+  {
+    "id": "sciq_0127",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What break down dead organisms and other organic waste and release inorganic molecules back to the environment called?",
+    "context": "Decomposers break down dead organisms and other organic wastes and release inorganic molecules back to the environment.",
+    "reference_answer": "decomposers",
+    "options": [
+      "decomposers",
+      "detritivores",
+      "nematodes",
+      "carnivores"
+    ]
+  },
+  {
+    "id": "sciq_0128",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What type of molecules help the plasma membrane keep its shape?",
+    "context": "The plasma membrane contains molecules other than phospholipids, primarily other lipids and proteins. The green molecules in Figure below , for example, are the lipid cholesterol. Molecules of cholesterol help the plasma membrane keep its shape. Many of the proteins in the plasma membrane assist other substances in crossing the membrane.",
+    "reference_answer": "cholesterol",
+    "options": [
+      "cholesterol",
+      "proteins",
+      "magnesium",
+      "metabolic"
+    ]
+  },
+  {
+    "id": "sciq_0129",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Can nematodes be a parasite of plants, animals, or both?",
+    "context": "Nematodes can be parasites of plants and animals.",
+    "reference_answer": "both",
+    "options": [
+      "both",
+      "neither",
+      "animals",
+      "plants"
+    ]
+  },
+  {
+    "id": "sciq_0130",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What element is present in all organic molecules?",
+    "context": "The Carbon Cycle Carbon is the fourth most abundant element in living organisms. Carbon is present in all organic molecules, and its role in the structure of macromolecules is of primary importance to living organisms. Carbon compounds contain energy, and many of these compounds from plants and algae have remained stored as fossilized carbon, which humans use as fuel. Since the 1800s, the use of fossil fuels has accelerated. As global demand for Earth’s limited fossil fuel supplies has risen since the beginning of the Industrial Revolution, the amount of carbon dioxide in our atmosphere has increased as the fuels are burned. This increase in carbon dioxide has been associated with climate change and is a major environmental concern worldwide.",
+    "reference_answer": "carbon",
+    "options": [
+      "carbon",
+      "oxygen",
+      "sodium",
+      "hydrogen"
+    ]
+  },
+  {
+    "id": "sciq_0131",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "How frequently do high tides occur?",
+    "context": "9. If the tidal cycle was actually 12 hours then high tides would occur at the same time every day. In reality, high tides occur about every 12 hours and 25 minutes. Can you think of why this would be the case?.",
+    "reference_answer": "every 12 hours",
+    "options": [
+      "every 12 hours",
+      "Every 96 hours",
+      "Every 24 hours",
+      "Every 48 hours"
+    ]
+  },
+  {
+    "id": "sciq_0132",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "A rock that contains important minerals is called what, a term associated with mining?",
+    "context": "An ore is a rock that contains important minerals.",
+    "reference_answer": "ore",
+    "options": [
+      "ore",
+      "jewel",
+      "coal",
+      "gem"
+    ]
+  },
+  {
+    "id": "sciq_0133",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "The four basic types of tissue are epithelial, muscle, connective, and what?",
+    "context": "A tissue is a group of connected cells that have a similar function within an organism. More complex organisms such as jellyfish, coral, and sea anemones have a tissue level of organization. For example, jellyfish have tissues that have separate protective, digestive, and sensory functions. Though most animals have many different types of cells, they only have four basic types of tissue: connective, muscle, nervous, and epithelial.",
+    "reference_answer": "nervous",
+    "options": [
+      "nervous",
+      "regulatory",
+      "digestive",
+      "circulatory"
+    ]
+  },
+  {
+    "id": "sciq_0134",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What disease characterized by the extreme swelling of the limbs is caused by infection with a type of roundworm?",
+    "context": "Roundworms can be free-living organisms, but they are probably best known for their role as significant plant and animal parasites. Most Nematodes are parasitic, with over 16,000 parasitic species described. Heartworms, which cause serious disease in dogs while living in the heart and blood vessels, are a type of roundworm. Roundworms can also cause disease in humans. Elephantiasis, a disease characterized by the extreme swelling of the limbs ( Figure below ), is caused by infection with a type of roundworm.",
+    "reference_answer": "elephantiasis",
+    "options": [
+      "elephantiasis",
+      "pulmonary edema",
+      "gigantism",
+      "fibrosis"
+    ]
+  },
+  {
+    "id": "sciq_0135",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "In the microbiology lab, what technique refers to the procedures that are carried out under sterile conditions?",
+    "context": "In the microbiology lab, aseptic technique refers to the procedures that are carried out under sterile conditions. Scientists who study microbes are called microbiologists. Microbiologists must carry out their lab work using the aseptic technique to prevent microbial contamination of themselves, contamination of the environment they are working in, including work surfaces or equipment, and contamination of the sample they are working on. Bacteria live on just about every surface on Earth, so if a scientist wants to grow a particular type of bacterium in the lab, he or she needs to be able to sterilize their equipment to prevent contamination by other bacteria or microorganisms. The aseptic technique is also used in medicine, where it is important to keep the human body free of contamination.",
+    "reference_answer": "aseptic",
+    "options": [
+      "aseptic",
+      "personal hygiene",
+      "experimental control",
+      "ionization"
+    ]
+  },
+  {
+    "id": "sciq_0136",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Where do short period comets come from?",
+    "context": "Short-period comets come from the Kuiper belt, beyond Neptune. Long-period comets come from the very distant Oort cloud.",
+    "reference_answer": "kuiper belt",
+    "options": [
+      "kuiper belt",
+      "milky way",
+      "vesta belt",
+      "photon belt"
+    ]
+  },
+  {
+    "id": "sciq_0137",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Lichens are not a single organism, but rather an example of a what?",
+    "context": "Lichens are not a single organism, but rather an example of a mutualism, in which a fungus (usually a member of the Ascomycota or Basidiomycota phyla) lives in close contact with a photosynthetic organism (a eukaryotic alga or a prokaryotic cyanobacterium) (Figure 24.23). Generally, neither the fungus nor the photosynthetic organism can survive alone outside of the symbiotic relationship. The body of a lichen, referred to as a thallus, is formed of hyphae wrapped around the photosynthetic partner. The photosynthetic organism provides carbon and energy in the form of carbohydrates. Some cyanobacteria fix nitrogen from the atmosphere, contributing nitrogenous compounds to the association. In return, the fungus supplies minerals and protection from dryness and excessive light by encasing the algae in its mycelium. The fungus also attaches the symbiotic organism to the substrate.",
+    "reference_answer": "mutualism",
+    "options": [
+      "mutualism",
+      "fusion",
+      "homogeneous mixture",
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "sciq_0138",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What do you call a chemical process used to treat water by destroying a contaminant?",
+    "context": "Chemical remediation can also treat water in the aquifer. A chemical is pumped into the aquifer. The chemical destroys the contaminant.",
+    "reference_answer": "chemical remediation",
+    "options": [
+      "chemical remediation",
+      "basic remediation",
+      "toxic remediation",
+      "carbon remediation"
+    ]
+  },
+  {
+    "id": "sciq_0139",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Which is one of the most frequently studied cartilaginous fish?",
+    "context": "Sharks are some of the most frequently studied cartilaginous fish. Sharks are distinguished by such features as:.",
+    "reference_answer": "sharks",
+    "options": [
+      "sharks",
+      "whales",
+      "dolphins",
+      "manatees"
+    ]
+  },
+  {
+    "id": "sciq_0140",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What artery takes blood to the brain?",
+    "context": "Arteries, Veins, and Capillaries The blood from the heart is carried through the body by a complex network of blood vessels (Figure 40.15). Arteries take blood away from the heart. The main artery is the aorta that branches into major arteries that take blood to different limbs and organs. These major arteries include the carotid artery that takes blood to the brain, the brachial arteries that take blood to the arms, and the thoracic artery that takes blood to the thorax and then into the hepatic, renal, and gastric arteries for the liver, kidney, and stomach, respectively. The iliac artery takes blood to the lower limbs. The major arteries diverge into minor arteries, and then smaller vessels called arterioles, to reach more deeply into the muscles and organs of the body.",
+    "reference_answer": "carotid",
+    "options": [
+      "carotid",
+      "veins",
+      "pulmonary",
+      "coronary"
+    ]
+  },
+  {
+    "id": "sciq_0141",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "A diagram in which the numerical values of variables are represented by the height or length of lines or rectangles of equal width is called?",
+    "context": "Bar graphs are especially useful for comparing values for different types of things. The bar graph in Figure below shows the number of vehicles of each type that passed the checkpoint.",
+    "reference_answer": "bar graph",
+    "options": [
+      "bar graph",
+      "pie chart",
+      "venn diagram",
+      "circle graph"
+    ]
+  },
+  {
+    "id": "sciq_0142",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Excessive exposure to what is the main cause of skin cancer?",
+    "context": "Skin cancer is a disease in which skin cells grow out of control. It is caused mainly by excessive exposure to UV light. People with lighter skin are at greater risk of developing skin cancer because they have less melanin to block harmful UV radiation. The best way to prevent skin cancer is to avoid UV exposure by using sunscreen and wearing protective clothing.",
+    "reference_answer": "uv light",
+    "options": [
+      "uv light",
+      "LED light",
+      "fluorescent light",
+      "incandescent light"
+    ]
+  },
+  {
+    "id": "sciq_0143",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What are the most successful phylum of plants?",
+    "context": "Angiosperms , in the phylum Anthophyta , are the most successful phylum of plants. This category also contains the largest number of individual plants ( Figure below ). Angiosperms evolved the structure of the flower, so they are also called the flowering plants. Angiosperms live in a variety of different environments. A water lily, an oak tree, and a barrel cactus, although different, are all angiosperms.",
+    "reference_answer": "angiosperms",
+    "options": [
+      "angiosperms",
+      "spores",
+      "gymnosperms",
+      "ferns"
+    ]
+  },
+  {
+    "id": "sciq_0144",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Sponges exemplify what type of arrangement, where different cells are specialized for different functions, but each cell works alone?",
+    "context": "Sponges have cell-level organization, in which different cells are specialized for different functions, but each cell works alone. For example, some cells digest food, while other cells let water pass through the sponge.",
+    "reference_answer": "cell-level organization",
+    "options": [
+      "cell-level organization",
+      "independent organization",
+      "commensalism",
+      "organ-level organization"
+    ]
+  },
+  {
+    "id": "sciq_0145",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is the si unit for weight?",
+    "context": "Weight measures the force of gravity pulling on an object. Because weight measures force, the SI unit for weight is the newton (N) . On Earth, a mass of 1 kilogram has a weight of about 10 newtons because of the pull of Earth’s gravity On the moon, which has less gravity, the same mass would weigh less. Weight is measured with a scale, like the spring scale in Figure below . The scale measures the force with which gravity pulls an object downward.",
+    "reference_answer": "newton (n)",
+    "options": [
+      "newton (n)",
+      "kilograms (kg)",
+      "meters (m)",
+      "pounds (lbs)"
+    ]
+  },
+  {
+    "id": "sciq_0146",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "When we were dealing with electrical effects, it was very useful to speak of an electric field that surrounded what?",
+    "context": "When we were dealing with electrical effects, it was very useful to speak of an electric field that surrounded an electric charge. In the same way, we can imagine a magnetic field surrounding a magnetic pole. The force that one magnet exerts on another can be described as the interaction between one magnet and the magnetic field of the other magnet. Magnetic field lines go from the north magnetic pole to the south magnetic pole. We define the magnetic field at any point as a vector (represented by the letter B ) whose direction is from north to south magnetic poles.",
+    "reference_answer": "electrical charge",
+    "options": [
+      "electrical charge",
+      "liquid charge",
+      "stellar charge",
+      "sunlight charge"
+    ]
+  },
+  {
+    "id": "sciq_0147",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "Candida and trichophyton are examples of disease-causing types of what organisms, which become parasitic?",
+    "context": "Some fungi cause disease when they become human parasites. Two examples are fungi in the genera Candida and Trichophyton.",
+    "reference_answer": "fungi",
+    "options": [
+      "fungi",
+      "yeast",
+      "bacteria",
+      "viruses"
+    ]
+  },
+  {
+    "id": "sciq_0148",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What gland secretes growth hormones?",
+    "context": "Hormones That Influence Osteoblasts and/or Maintain the Matrix Several hormones are necessary for controlling bone growth and maintaining the bone matrix. The pituitary gland secretes growth hormone (GH), which, as its name implies, controls bone growth in several ways. It triggers chondrocyte proliferation in epiphyseal plates, resulting in the increasing length of long bones. GH also increases calcium retention, which enhances mineralization, and stimulates osteoblastic activity, which improves bone density. GH is not alone in stimulating bone growth and maintaining osseous tissue. Thyroxine, a hormone secreted by the thyroid gland promotes osteoblastic activity and the synthesis of bone matrix. During puberty, the sex hormones (estrogen in girls, testosterone in boys) also come into play. They too promote osteoblastic activity and production of bone matrix, and in addition, are responsible for the growth spurt that often occurs during adolescence. They also promote the conversion of the epiphyseal plate to the epiphyseal line (i. , cartilage to its bony remnant), thus bringing an end to the longitudinal growth of bones. Additionally, calcitriol, the active form of vitamin D, is produced by the kidneys and stimulates the absorption of calcium and phosphate from the digestive tract.",
+    "reference_answer": "pituitary",
+    "options": [
+      "pituitary",
+      "pineal",
+      "adrenal",
+      "thyroid"
+    ]
+  },
+  {
+    "id": "sciq_0149",
+    "source_dataset": "SciQ",
+    "subject": "science",
+    "question": "What is stored mainly in liver and muscle cells by humans and other vertebrates?",
+    "context": "",
+    "reference_answer": "glycogen",
+    "options": [
+      "glycogen",
+      "glucose",
+      "protein",
+      "amylopectin"
+    ]
+  }
+]

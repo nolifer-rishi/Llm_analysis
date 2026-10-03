@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environment
+edubench-env/
+venv/
+.venv/
+env/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large result / data files — keep structure, skip heavy content
+results/raw_answers.json
+results/scored_results.csv
+
+# Figures generated at runtime (reproducible via step4_visualize.py)
+figures/
+
+# Logs
+*.log
+logs/
+
+# Secrets / env
+.env
+*.env
+secrets.json
+
+# Byte-compiled / optimized
+*.pyc
+*.pyo
+
+# Distribution
+*.whl
+*.tar.gz

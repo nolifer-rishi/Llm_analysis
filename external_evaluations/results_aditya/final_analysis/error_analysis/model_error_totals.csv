@@ -1,0 +1,4 @@
+model,analyzed_cases
+gemma2:2b,20
+openai/gpt-oss-120b,20
+qwen2.5:1.5b,20

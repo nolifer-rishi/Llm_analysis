@@ -1,0 +1,10 @@
+model,error_category,count,percentage
+gemma2:2b,Hallucination,2,10.0
+gemma2:2b,Incomplete,2,10.0
+gemma2:2b,Incorrect factual,8,40.0
+gemma2:2b,No major error,1,5.0
+gemma2:2b,Off-topic,7,35.0
+openai/gpt-oss-120b,Off-topic,20,100.0
+qwen2.5:1.5b,Incomplete,2,10.0
+qwen2.5:1.5b,Incorrect factual,11,55.0
+qwen2.5:1.5b,Off-topic,7,35.0

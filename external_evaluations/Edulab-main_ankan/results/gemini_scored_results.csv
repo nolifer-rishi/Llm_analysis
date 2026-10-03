@@ -1,0 +1,6 @@
+model,id,source_dataset,subject,question,reference_answer,gemini_answer,exact_match,token_f1,token_precision,token_recall,rouge_l,char_similarity,contains_match,error
+gemini-3.8-flash,openbookqa_327,OpenBookQA,general_science,"In the hottest months in the hottest desert, creatures such as birds may find water to drink",in spiked plants,from cacti.,0,0.0,0.0,0.0,0.0,0.0769,0,
+gemini-3.6-flash,race_middle_228,RACE,reading_comprehension,The old lady's smile showed   _  .,she liked the little boy,love and kindness (or kindness and warmth /,0,0.0,0.0,0.0,0.0,0.2,0,
+gemini-3.6-flash,squad_228,SQuAD v1.1,reading_comprehension_squad,How many yards did Newton throw for in 2015?,"3,837","3,837 yards",0,0.6667,0.5,1.0,0.6667,0.5714,1,
+gemini-3.6-flash,sciq_228,SciQ,science,Which branch of biology studies animal behavior?,ethology,Ethology,1,1.0,1.0,1.0,1.0,1.0,1,
+gemini-3.6-flash,arc_challenge_228,ARC-Challenge,science_challenge,"When cold temperatures are produced in a chemical reaction, the reaction is known as",endothermic.,Endothermic,1,1.0,1.0,1.0,1.0,1.0,1,

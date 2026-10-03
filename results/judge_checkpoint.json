@@ -1,0 +1,3602 @@
+{
+  "sciq_0000": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 15.4,
+    "error": null
+  },
+  "sciq_0001": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "sciq_0002": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "sciq_0003": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "sciq_0004": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0005": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "sciq_0006": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "sciq_0007": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "sciq_0008": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0009": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "sciq_0010": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "sciq_0011": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "sciq_0012": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "sciq_0013": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0014": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0015": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0016": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "sciq_0017": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "sciq_0018": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0019": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "sciq_0020": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0021": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0022": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0023": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.39,
+    "error": null
+  },
+  "sciq_0024": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "sciq_0025": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "sciq_0026": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0027": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "sciq_0028": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0029": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "sciq_0030": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "sciq_0031": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0032": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "sciq_0033": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "sciq_0034": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "sciq_0035": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0036": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.01,
+    "error": null
+  },
+  "sciq_0037": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0038": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "sciq_0039": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0040": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "sciq_0041": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "sciq_0042": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0043": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "sciq_0044": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0045": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.17,
+    "error": null
+  },
+  "sciq_0046": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0047": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.43,
+    "error": null
+  },
+  "sciq_0048": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "sciq_0049": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.62,
+    "error": null
+  },
+  "sciq_0050": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "sciq_0051": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "sciq_0052": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0053": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "sciq_0054": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "sciq_0055": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0056": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "sciq_0057": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0058": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0059": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0060": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0061": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "sciq_0062": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0063": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "sciq_0064": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0065": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "sciq_0066": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "sciq_0067": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "sciq_0068": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "sciq_0069": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "sciq_0070": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "sciq_0071": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "sciq_0072": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0073": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0074": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "sciq_0075": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0076": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "sciq_0077": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "sciq_0078": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.94,
+    "error": null
+  },
+  "sciq_0079": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "sciq_0080": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0081": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "sciq_0082": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "sciq_0083": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0084": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "sciq_0085": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0086": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0087": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0088": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0089": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "sciq_0090": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "sciq_0091": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "sciq_0092": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "sciq_0093": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0094": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.82,
+    "error": null
+  },
+  "sciq_0095": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "sciq_0096": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "sciq_0097": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "sciq_0098": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "sciq_0099": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "openbookqa_0000": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "openbookqa_0001": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0002": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0003": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0004": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "openbookqa_0005": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0006": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "openbookqa_0007": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0008": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0009": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0010": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "openbookqa_0011": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.4,
+    "error": null
+  },
+  "openbookqa_0012": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "openbookqa_0013": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.33,
+    "error": null
+  },
+  "openbookqa_0014": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0015": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "openbookqa_0016": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0017": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0018": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "openbookqa_0019": {
+    "score": 1,
+    "raw_response": "1",
+    "latency_sec": 2.32,
+    "error": null
+  },
+  "openbookqa_0020": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0021": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "openbookqa_0022": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "openbookqa_0023": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "openbookqa_0024": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0025": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0026": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "openbookqa_0027": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "openbookqa_0028": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "openbookqa_0029": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "openbookqa_0030": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "openbookqa_0031": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0032": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "openbookqa_0033": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "openbookqa_0034": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "openbookqa_0035": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0036": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0037": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "openbookqa_0038": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.84,
+    "error": null
+  },
+  "openbookqa_0039": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "openbookqa_0040": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "openbookqa_0041": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "openbookqa_0042": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.82,
+    "error": null
+  },
+  "openbookqa_0043": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0044": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "openbookqa_0045": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "openbookqa_0046": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.17,
+    "error": null
+  },
+  "openbookqa_0047": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "openbookqa_0048": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0049": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "openbookqa_0050": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.38,
+    "error": null
+  },
+  "openbookqa_0051": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "openbookqa_0052": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "openbookqa_0053": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.33,
+    "error": null
+  },
+  "openbookqa_0054": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "openbookqa_0055": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "openbookqa_0056": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "openbookqa_0057": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "openbookqa_0058": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0059": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "openbookqa_0060": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "openbookqa_0061": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0062": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "openbookqa_0063": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0064": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "openbookqa_0065": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "openbookqa_0066": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "openbookqa_0067": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "openbookqa_0068": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "openbookqa_0069": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.17,
+    "error": null
+  },
+  "openbookqa_0070": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "openbookqa_0071": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "openbookqa_0072": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0073": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "openbookqa_0074": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "openbookqa_0075": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "openbookqa_0076": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "openbookqa_0077": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0078": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "openbookqa_0079": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "openbookqa_0080": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0081": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0082": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0083": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0084": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0085": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0086": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "openbookqa_0087": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "openbookqa_0088": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "openbookqa_0089": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0090": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "openbookqa_0091": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "openbookqa_0092": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "openbookqa_0093": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "openbookqa_0094": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "openbookqa_0095": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "openbookqa_0096": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "openbookqa_0097": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "openbookqa_0098": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "openbookqa_0099": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_easy_0000": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.32,
+    "error": null
+  },
+  "arc_easy_0001": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0002": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0003": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.33,
+    "error": null
+  },
+  "arc_easy_0004": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_easy_0005": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_easy_0006": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "arc_easy_0007": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0008": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.37,
+    "error": null
+  },
+  "arc_easy_0009": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.41,
+    "error": null
+  },
+  "arc_easy_0010": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0011": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0012": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "arc_easy_0013": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_easy_0014": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "arc_easy_0015": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "arc_easy_0016": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "arc_easy_0017": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0018": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_easy_0019": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_easy_0020": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_easy_0021": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "arc_easy_0022": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "arc_easy_0023": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_easy_0024": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0025": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0026": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "arc_easy_0027": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "arc_easy_0028": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.23,
+    "error": null
+  },
+  "arc_easy_0029": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0030": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0031": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.33,
+    "error": null
+  },
+  "arc_easy_0032": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0033": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_easy_0034": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_easy_0035": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "arc_easy_0036": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_easy_0037": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "arc_easy_0038": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "arc_easy_0039": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_easy_0040": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_easy_0041": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_easy_0042": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0043": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_easy_0044": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0045": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.32,
+    "error": null
+  },
+  "arc_easy_0046": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0047": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "arc_easy_0048": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0049": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_easy_0050": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.33,
+    "error": null
+  },
+  "arc_easy_0051": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0052": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0053": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0054": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_easy_0055": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_easy_0056": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0057": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_easy_0058": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_easy_0059": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0060": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_easy_0061": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "arc_easy_0062": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_easy_0063": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "arc_easy_0064": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_easy_0065": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "arc_easy_0066": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "arc_easy_0067": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0068": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.39,
+    "error": null
+  },
+  "arc_easy_0069": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "arc_easy_0070": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_easy_0071": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.37,
+    "error": null
+  },
+  "arc_easy_0072": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_easy_0073": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_easy_0074": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_easy_0075": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0076": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "arc_easy_0077": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.95,
+    "error": null
+  },
+  "arc_easy_0078": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.97,
+    "error": null
+  },
+  "arc_easy_0079": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_easy_0080": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.03,
+    "error": null
+  },
+  "arc_easy_0081": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.21,
+    "error": null
+  },
+  "arc_easy_0082": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.03,
+    "error": null
+  },
+  "arc_easy_0083": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_easy_0084": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.19,
+    "error": null
+  },
+  "arc_easy_0085": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_easy_0086": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "arc_easy_0087": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_easy_0088": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "arc_easy_0089": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.97,
+    "error": null
+  },
+  "arc_easy_0090": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.95,
+    "error": null
+  },
+  "arc_easy_0091": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.4,
+    "error": null
+  },
+  "arc_easy_0092": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_easy_0093": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "arc_easy_0094": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.99,
+    "error": null
+  },
+  "arc_easy_0095": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.94,
+    "error": null
+  },
+  "arc_easy_0096": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_easy_0097": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "arc_easy_0098": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "arc_easy_0099": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "arc_challenge_0000": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "arc_challenge_0001": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "arc_challenge_0002": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.39,
+    "error": null
+  },
+  "arc_challenge_0003": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_challenge_0004": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0005": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "arc_challenge_0006": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0007": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "arc_challenge_0008": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_challenge_0009": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.19,
+    "error": null
+  },
+  "arc_challenge_0010": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.23,
+    "error": null
+  },
+  "arc_challenge_0011": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "arc_challenge_0012": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "arc_challenge_0013": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0014": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0015": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.36,
+    "error": null
+  },
+  "arc_challenge_0016": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.39,
+    "error": null
+  },
+  "arc_challenge_0017": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.17,
+    "error": null
+  },
+  "arc_challenge_0018": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0019": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_challenge_0020": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_challenge_0021": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.4,
+    "error": null
+  },
+  "arc_challenge_0022": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.9,
+    "error": null
+  },
+  "arc_challenge_0023": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.88,
+    "error": null
+  },
+  "arc_challenge_0024": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "arc_challenge_0025": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_challenge_0026": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.39,
+    "error": null
+  },
+  "arc_challenge_0027": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_challenge_0028": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "arc_challenge_0029": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_challenge_0030": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.41,
+    "error": null
+  },
+  "arc_challenge_0031": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "arc_challenge_0032": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.27,
+    "error": null
+  },
+  "arc_challenge_0033": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_challenge_0034": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "arc_challenge_0035": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_challenge_0036": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0037": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0038": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_challenge_0039": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_challenge_0040": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_challenge_0041": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "arc_challenge_0042": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_challenge_0043": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "arc_challenge_0044": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.4,
+    "error": null
+  },
+  "arc_challenge_0045": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "arc_challenge_0046": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_challenge_0047": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_challenge_0048": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_challenge_0049": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0050": {
+    "score": 1,
+    "raw_response": "1",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_challenge_0051": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_challenge_0052": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "arc_challenge_0053": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0054": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "arc_challenge_0055": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0056": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0057": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_challenge_0058": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "arc_challenge_0059": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_challenge_0060": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0061": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.36,
+    "error": null
+  },
+  "arc_challenge_0062": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_challenge_0063": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "arc_challenge_0064": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0065": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.39,
+    "error": null
+  },
+  "arc_challenge_0066": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.17,
+    "error": null
+  },
+  "arc_challenge_0067": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_challenge_0068": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0069": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "arc_challenge_0070": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0071": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0072": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "arc_challenge_0073": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_challenge_0074": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_challenge_0075": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_challenge_0076": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0077": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0078": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0079": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "arc_challenge_0080": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "arc_challenge_0081": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_challenge_0082": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0083": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0084": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0085": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "arc_challenge_0086": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "arc_challenge_0087": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "arc_challenge_0088": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0089": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0090": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.37,
+    "error": null
+  },
+  "arc_challenge_0091": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0092": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "arc_challenge_0093": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "arc_challenge_0094": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "arc_challenge_0095": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.36,
+    "error": null
+  },
+  "arc_challenge_0096": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "arc_challenge_0097": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "arc_challenge_0098": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "arc_challenge_0099": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "race_0000": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "race_0001": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "race_0002": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "race_0003": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0004": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0005": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "race_0006": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0007": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "race_0008": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "race_0009": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0010": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0011": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "race_0012": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.84,
+    "error": null
+  },
+  "race_0013": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.81,
+    "error": null
+  },
+  "race_0014": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "race_0015": {
+    "score": 1,
+    "raw_response": "1",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0016": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.81,
+    "error": null
+  },
+  "race_0017": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0018": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "race_0019": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0020": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "race_0021": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "race_0022": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0023": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0024": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "race_0025": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0026": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "race_0027": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "race_0028": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "race_0029": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0030": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "race_0031": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "race_0032": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "race_0033": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "race_0034": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0035": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "race_0036": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "race_0037": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "race_0038": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "race_0039": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "race_0040": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "race_0041": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.82,
+    "error": null
+  },
+  "race_0042": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "race_0043": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "race_0044": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "race_0045": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "race_0046": {
+    "score": 1,
+    "raw_response": "1",
+    "latency_sec": 1.82,
+    "error": null
+  },
+  "race_0047": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "race_0048": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "race_0049": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "race_0050": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0051": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "race_0052": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0053": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "race_0054": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "race_0055": {
+    "score": 1,
+    "raw_response": "1",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "race_0056": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0057": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.84,
+    "error": null
+  },
+  "race_0058": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.82,
+    "error": null
+  },
+  "race_0059": {
+    "score": 1,
+    "raw_response": "1",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0060": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "race_0061": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.84,
+    "error": null
+  },
+  "race_0062": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "race_0063": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "race_0064": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0065": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "race_0066": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0067": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0068": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "race_0069": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0070": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "race_0071": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.97,
+    "error": null
+  },
+  "race_0072": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "race_0073": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "race_0074": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0075": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.65,
+    "error": null
+  },
+  "race_0076": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "race_0077": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "race_0078": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0079": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "race_0080": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "race_0081": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "race_0082": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.21,
+    "error": null
+  },
+  "race_0083": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "race_0084": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.18,
+    "error": null
+  },
+  "race_0085": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "race_0086": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "race_0087": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "race_0088": {
+    "score": 1,
+    "raw_response": "1",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "race_0089": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "race_0090": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0091": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0092": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "race_0093": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "race_0094": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "race_0095": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "race_0096": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "race_0097": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "race_0098": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "race_0099": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "squad_0000": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "squad_0001": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "squad_0002": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0003": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "squad_0004": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.07,
+    "error": null
+  },
+  "squad_0005": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0006": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "squad_0007": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0008": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "squad_0009": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.97,
+    "error": null
+  },
+  "squad_0010": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.18,
+    "error": null
+  },
+  "squad_0011": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0012": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.84,
+    "error": null
+  },
+  "squad_0013": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "squad_0014": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0015": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "squad_0016": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0017": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "squad_0018": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "squad_0019": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "squad_0020": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0021": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "squad_0022": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "squad_0023": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0024": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "squad_0025": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.12,
+    "error": null
+  },
+  "squad_0026": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "squad_0027": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.11,
+    "error": null
+  },
+  "squad_0028": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0029": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0030": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0031": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0032": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.94,
+    "error": null
+  },
+  "squad_0033": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.91,
+    "error": null
+  },
+  "squad_0034": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0035": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0036": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "squad_0037": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0038": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "squad_0039": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.93,
+    "error": null
+  },
+  "squad_0040": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.99,
+    "error": null
+  },
+  "squad_0041": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.92,
+    "error": null
+  },
+  "squad_0042": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "squad_0043": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "squad_0044": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "squad_0045": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0046": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "squad_0047": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "squad_0048": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0049": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0050": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0051": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0052": {
+    "score": 2,
+    "raw_response": "2",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "squad_0053": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0054": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "squad_0055": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0056": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "squad_0057": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0058": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0059": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "squad_0060": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "squad_0061": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "squad_0062": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "squad_0063": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0064": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.06,
+    "error": null
+  },
+  "squad_0065": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0066": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0067": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0068": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "squad_0069": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "squad_0070": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.13,
+    "error": null
+  },
+  "squad_0071": {
+    "score": 3,
+    "raw_response": "3",
+    "latency_sec": 2.09,
+    "error": null
+  },
+  "squad_0072": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0073": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0074": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.89,
+    "error": null
+  },
+  "squad_0075": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.16,
+    "error": null
+  },
+  "squad_0076": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.15,
+    "error": null
+  },
+  "squad_0077": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.84,
+    "error": null
+  },
+  "squad_0078": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "squad_0079": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0080": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "squad_0081": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.9,
+    "error": null
+  },
+  "squad_0082": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.87,
+    "error": null
+  },
+  "squad_0083": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "squad_0084": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0085": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "squad_0086": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0087": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "squad_0088": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0089": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.14,
+    "error": null
+  },
+  "squad_0090": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0091": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.85,
+    "error": null
+  },
+  "squad_0092": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.08,
+    "error": null
+  },
+  "squad_0093": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "squad_0094": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.86,
+    "error": null
+  },
+  "squad_0095": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.88,
+    "error": null
+  },
+  "squad_0096": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.83,
+    "error": null
+  },
+  "squad_0097": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 1.84,
+    "error": null
+  },
+  "squad_0098": {
+    "score": 5,
+    "raw_response": "5",
+    "latency_sec": 2.1,
+    "error": null
+  },
+  "squad_0099": {
+    "score": 4,
+    "raw_response": "4",
+    "latency_sec": 2.07,
+    "error": null
+  }
+}

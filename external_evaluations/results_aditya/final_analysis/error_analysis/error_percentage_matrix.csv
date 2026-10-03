@@ -1,0 +1,4 @@
+model,Hallucination,Incomplete,Incorrect factual,No major error,Off-topic
+gemma2:2b,10.0,7.14,24.14,2.03,13.91
+openai/gpt-oss-120b,0.0,0.0,0.0,0.0,100.0
+qwen2.5:1.5b,0.0,10.0,39.29,0.0,12.44

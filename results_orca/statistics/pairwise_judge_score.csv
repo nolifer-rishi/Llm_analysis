@@ -1,0 +1,16 @@
+dataset_a,dataset_b,test,metric,statistic,p_value,significant_0.05,significant_0.01
+SciQ,OpenBookQA,Mann-Whitney U,judge_score,11.0,0.602454,False,False
+SciQ,ARC-Easy,Mann-Whitney U,judge_score,3.0,0.07776,False,False
+SciQ,ARC-Challenge,Mann-Whitney U,judge_score,6.0,0.324022,False,False
+SciQ,RACE,Mann-Whitney U,judge_score,7.0,0.449692,False,False
+SciQ,SQuAD,Wilcoxon,judge_score,2.5,0.5,False,False
+OpenBookQA,ARC-Easy,Mann-Whitney U,judge_score,4.5,0.693282,False,False
+OpenBookQA,ARC-Challenge,Mann-Whitney U,judge_score,5.0,0.851596,False,False
+OpenBookQA,RACE,Mann-Whitney U,judge_score,6.0,1.0,False,False
+OpenBookQA,SQuAD,Mann-Whitney U,judge_score,13.5,1.0,False,False
+ARC-Easy,ARC-Challenge,Wilcoxon,judge_score,1.0,1.0,False,False
+ARC-Easy,RACE,Wilcoxon,judge_score,0.0,1.0,False,False
+ARC-Easy,SQuAD,Mann-Whitney U,judge_score,13.5,0.514368,False,False
+ARC-Challenge,RACE,Wilcoxon,judge_score,1.0,1.0,False,False
+ARC-Challenge,SQuAD,Mann-Whitney U,judge_score,12.0,0.807903,False,False
+RACE,SQuAD,Mann-Whitney U,judge_score,10.5,1.0,False,False

@@ -1,0 +1,2 @@
+model,total_questions,avg_rouge,std_rouge,avg_bertscore,std_bertscore,avg_judge,std_judge,avg_latency,rouge_norm,bertscore_norm,judge_norm,combined_score,rank
+deepseek-r1:1.5b,300,0.09980733333333333,0.09583307225944758,0.8497343333333334,0.027885212415551374,3.986666666666667,0.5484751335560436,2.8333666666666666,1.0,1.0,1.0,1.0,1

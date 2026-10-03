@@ -1,0 +1,162 @@
+[
+  {
+    "id": "sciq_0000",
+    "dataset": "SciQ",
+    "subject": "Science",
+    "question": "What functions in removing phosphorylated amino acids from proteins?",
+    "reference_answer": "phosphatase",
+    "question_type": "open_ended",
+    "model": "mistral:7b",
+    "generated_answer": "An inhibitor binding to an enzyme slows down or stops the enzyme's activity, thereby reducing the rate of the chemical reaction it catalyzes. This can be either reversible or irreversible inhibition, depending on whether the inhibitor can be removed from the enzyme or not.",
+    "latency_sec": 26.47,
+    "token_count": 66,
+    "error": null,
+    "timestamp": "2026-09-17T22:57:39.622201"
+  },
+  {
+    "id": "openbookqa_0000",
+    "dataset": "OpenBookQA",
+    "subject": "Science (Reasoning)",
+    "question": "Live birth is exemplified in",
+    "reference_answer": "a calf emerging from a mother giraffe",
+    "question_type": "mcq",
+    "model": "mistral:7b",
+    "generated_answer": "A) Snakes slithering out of eggs is not an example of live birth, as snakes lay eggs. The correct answer is B) a calf emerging from a mother giraffe, which is an example of live birth in mammals. In live birth, the offspring is born alive after developing inside the mother. In contrast, in oviparous species like snakes, the offspring hatches from eggs that are laid outside the mother's body.",
+    "latency_sec": 15.98,
+    "token_count": 98,
+    "error": null,
+    "timestamp": "2026-09-17T22:57:55.599907",
+    "choices": [
+      {
+        "label": "A",
+        "text": "snakes slithering out of eggs"
+      },
+      {
+        "label": "B",
+        "text": "a calf emerging from a mother giraffe"
+      },
+      {
+        "label": "C",
+        "text": "owlets pecking out of their encasement"
+      },
+      {
+        "label": "D",
+        "text": "sea turtles emerging from their shells"
+      }
+    ],
+    "answer_key": "B"
+  },
+  {
+    "id": "arc_easy_0000",
+    "dataset": "ARC-Easy",
+    "subject": "Science (Grade School)",
+    "question": "A force of 5 N is required to increase the speed of a box from a rate of 1.0 m/s to 3.0 m/s within 5 s along a level surface. What change would most likely require additional force to produce the same results?",
+    "reference_answer": "increase the mass of the box",
+    "question_type": "mcq",
+    "model": "mistral:7b",
+    "generated_answer": "A) reduce the mass of the box\n\nReasoning: In physics, the force acting on an object is directly proportional to its mass and the acceleration it experiences. If the mass is reduced, the same acceleration (which leads to the same change in speed) would require a greater force.",
+    "latency_sec": 10.33,
+    "token_count": 63,
+    "error": null,
+    "timestamp": "2026-09-17T22:58:05.931619",
+    "choices": [
+      {
+        "label": "A",
+        "text": "reduce the mass of the box"
+      },
+      {
+        "label": "B",
+        "text": "increase the mass of the box"
+      },
+      {
+        "label": "C",
+        "text": "make the surfaces of the box smooth"
+      },
+      {
+        "label": "D",
+        "text": "make the surface of the floor smooth"
+      }
+    ],
+    "answer_key": "B"
+  },
+  {
+    "id": "arc_challenge_0000",
+    "dataset": "ARC-Challenge",
+    "subject": "Science (Grade School - Hard)",
+    "question": "Which weather event is most likely to cause a forest fire?",
+    "reference_answer": "a lightning strike",
+    "question_type": "mcq",
+    "model": "mistral:7b",
+    "generated_answer": "B) a lightning strike\nLightning strikes can ignite dry vegetation, which can quickly spread and cause a forest fire. While other weather events like flash floods, tornadoes, and hailstorms can damage forests, they are less likely to directly cause a fire.",
+    "latency_sec": 9.61,
+    "token_count": 59,
+    "error": null,
+    "timestamp": "2026-09-17T22:58:15.546680",
+    "choices": [
+      {
+        "label": "A",
+        "text": "a flash flood"
+      },
+      {
+        "label": "B",
+        "text": "a lightning strike"
+      },
+      {
+        "label": "C",
+        "text": "a tornado"
+      },
+      {
+        "label": "D",
+        "text": "a hailstorm"
+      }
+    ],
+    "answer_key": "B"
+  },
+  {
+    "id": "race_0000",
+    "dataset": "RACE",
+    "subject": "Reading Comprehension",
+    "question": "The device works by  _  .",
+    "reference_answer": "pulling particles to the ground with an electromagnetic field",
+    "question_type": "mcq",
+    "model": "mistral:7b",
+    "generated_answer": "B) pulling particles to the ground with an electromagnetic field\n\nThe reasoning for this answer is based on the context provided in the text. Roosegaarde, an artist and designer, has proposed a device that works by creating an electromagnetic field to pull the dirty particles in the air to the ground. This is compared to a balloon with static electricity that attracts hair, suggesting a similar principle of attraction is being used.",
+    "latency_sec": 15.85,
+    "token_count": 90,
+    "error": null,
+    "timestamp": "2026-09-17T22:58:31.397588",
+    "choices": [
+      {
+        "label": "A",
+        "text": "helping keep the particles out with more masks"
+      },
+      {
+        "label": "B",
+        "text": "pulling particles to the ground with an electromagnetic field"
+      },
+      {
+        "label": "C",
+        "text": "absorbing hair with a balloon with static"
+      },
+      {
+        "label": "D",
+        "text": "creating clean air and letting it out into the sky"
+      }
+    ],
+    "answer_key": "B"
+  },
+  {
+    "id": "squad_0000",
+    "dataset": "SQuAD",
+    "subject": "General Knowledge (Extractive QA)",
+    "question": "In what year did Massachusetts first require children to be educated in schools?",
+    "reference_answer": "1852",
+    "question_type": "open_ended",
+    "model": "mistral:7b",
+    "generated_answer": "The first requirement for children in Massachusetts to be educated in schools was implemented in 1852. This marked the beginning of compulsory education in the United States.",
+    "latency_sec": 6.94,
+    "token_count": 36,
+    "error": null,
+    "timestamp": "2026-09-17T22:58:38.340733"
+  }
+]

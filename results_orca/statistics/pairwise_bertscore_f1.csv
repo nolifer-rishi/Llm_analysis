@@ -1,0 +1,16 @@
+dataset_a,dataset_b,test,metric,statistic,p_value,significant_0.05,significant_0.01
+SciQ,OpenBookQA,Wilcoxon,bertscore_f1,357.5,0.006873,True,True
+SciQ,ARC-Easy,Wilcoxon,bertscore_f1,244.0,0.000146,True,True
+SciQ,ARC-Challenge,Wilcoxon,bertscore_f1,144.0,0.0,True,True
+SciQ,RACE,Wilcoxon,bertscore_f1,81.0,0.0,True,True
+SciQ,SQuAD,Wilcoxon,bertscore_f1,368.0,0.009279,True,True
+OpenBookQA,ARC-Easy,Wilcoxon,bertscore_f1,564.0,0.478002,False,False
+OpenBookQA,ARC-Challenge,Wilcoxon,bertscore_f1,401.5,0.022715,True,False
+OpenBookQA,RACE,Wilcoxon,bertscore_f1,324.5,0.002515,True,True
+OpenBookQA,SQuAD,Wilcoxon,bertscore_f1,602.5,0.735464,False,False
+ARC-Easy,ARC-Challenge,Wilcoxon,bertscore_f1,482.5,0.134582,False,False
+ARC-Easy,RACE,Wilcoxon,bertscore_f1,373.0,0.01067,True,False
+ARC-Easy,SQuAD,Wilcoxon,bertscore_f1,560.5,0.457293,False,False
+ARC-Challenge,RACE,Wilcoxon,bertscore_f1,572.0,0.527193,False,False
+ARC-Challenge,SQuAD,Wilcoxon,bertscore_f1,372.0,0.010378,True,False
+RACE,SQuAD,Wilcoxon,bertscore_f1,384.0,0.013687,True,False
